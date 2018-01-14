@@ -1,7 +1,8 @@
-http://nealalan.com
+[http://nealalan.com](http://nealalan.com)
 <br>
-https://neonaluminum.com
+[https://neonaluminum.com](https://neonaluminum.com)
 <br>
+[https://4nealalan.wordpress.com/](https://4nealalan.wordpress.com/)
 # Reading
 ## [nealalan.github.io/security](https://nealalan.github.io/security)
 ## [nealalan.github.io/tech](https://nealalan.github.io/tech)
