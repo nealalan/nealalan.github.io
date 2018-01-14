@@ -2,6 +2,9 @@ http://nealalan.com
 <br>
 https://neonaluminum.com
 <br>
+# Reading
+## [nealalan.github.io/security](https://nealalan.github.io/security)
+## [nealalan.github.io/tech](https://nealalan.github.io/tech)
 # Projects
 ## <a href="https://nealalan.github.io/EC2_Ubuntu_LEMP">nealalan.github.io/EC2_Ubuntu_LEMP</a> (<a href="https://github.com/nealalan/EC2_Ubuntu_LEMP">repo</a>)
 Setup for a secure nginx website on the AWS free tier<br>
