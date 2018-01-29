@@ -1,3 +1,4 @@
+# a.k.a. [Neal Dreher](https://www.linkedin.com/in/nealdreher)
 [http://nealalan.com](http://nealalan.com)
 <br>
 [https://neonaluminum.com](https://neonaluminum.com)
