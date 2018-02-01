@@ -1,4 +1,4 @@
-## [nealalan.github.io](https://nealalan.github.io)/ a.k.a. Neal Dreher 
+## [nealalan.github.io](https://nealalan.github.io) a.k.a. Neal Dreher 
 ### [linkedin](https://www.linkedin.com/in/nealdreher) [nealalan.com](http://nealalan.com) [neonaluminum.com](https://neonaluminum.com)
 ### [https://4nealalan.wordpress.com/](https://4nealalan.wordpress.com/)
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
