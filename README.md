@@ -10,7 +10,6 @@
 ## Cheat Sheets
 - [nealalan.github.io/command](https://nealalan.github.io/command)
 - [iptables essentials: common firewall rules, commands & explanations by](https://nocsma.wordpress.com/2016/10/21/iptables-essentials-common-firewall-rules-and-commands/) [SERHII MAISTRENKO](https://nocsma.wordpress.com)
-# Projects
 ## <a href="https://nealalan.github.io/EC2_Ubuntu_LEMP">nealalan.github.io/EC2_Ubuntu_LEMP</a> (<a href="https://github.com/nealalan/EC2_Ubuntu_LEMP">repo</a>)
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com<br>
