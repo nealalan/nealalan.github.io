@@ -1,15 +1,15 @@
-# [nealalan](https://nealalan.github.io) a.k.a. Neal Dreher ([linkedin](https://www.linkedin.com/in/nealdreher))
+## [nealalan](https://nealalan.github.io) a.k.a. Neal Dreher ([linkedin](https://www.linkedin.com/in/nealdreher))
 [http://nealalan.com](http://nealalan.com)
 <br>
 [https://neonaluminum.com](https://neonaluminum.com)
 <br>
 [https://4nealalan.wordpress.com/](https://4nealalan.wordpress.com/)
-# Reading
+## Reading
 - [nealalan.github.io/security](https://nealalan.github.io/security)
 - [nealalan.github.io/tech](https://nealalan.github.io/tech)
-# Cheat Sheets
+## Cheat Sheets
 - [nealalan.github.io/command](https://nealalan.github.io/command)
-- [iptables essentials: common firewall rules, commands & explanations by](https://nocsma.wordpress.com/2016/10/21/iptables-essentials-common-firewall-rules-and-commands/)[ SERHII MAISTRENKO]((https://nocsma.wordpress.com)
+- [iptables essentials: common firewall rules, commands & explanations by](https://nocsma.wordpress.com/2016/10/21/iptables-essentials-common-firewall-rules-and-commands/) [SERHII MAISTRENKO](https://nocsma.wordpress.com)
 # Projects
 ## <a href="https://nealalan.github.io/EC2_Ubuntu_LEMP">nealalan.github.io/EC2_Ubuntu_LEMP</a> (<a href="https://github.com/nealalan/EC2_Ubuntu_LEMP">repo</a>)
 Setup for a secure nginx website on the AWS free tier<br>
