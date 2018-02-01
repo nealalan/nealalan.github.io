@@ -9,10 +9,12 @@
 - [nealalan.github.io/tech](https://nealalan.github.io/tech)
 ## Cheat Sheets
 - [nealalan.github.io/command](https://nealalan.github.io/command)
-- [iptables essentials: common firewall rules, commands & explanations by](https://nocsma.wordpress.com/2016/10/21/iptables-essentials-common-firewall-rules-and-commands/) [SERHII MAISTRENKO](https://nocsma.wordpress.com)
-## <a href="https://nealalan.github.io/EC2_Ubuntu_LEMP">nealalan.github.io/EC2_Ubuntu_LEMP</a> (<a href="https://github.com/nealalan/EC2_Ubuntu_LEMP">repo</a>)
+- [iptables essentials: common firewall rules, commands & explanations](https://nocsma.wordpress.com/2016/10/21/iptables-essentials-common-firewall-rules-and-commands/)
+
+## nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com<br>
+
 ## <a href="https://nealalan.github.io/Transportation">nealalan.github.io/Transportation</a> (<a href="https://github.com/nealalan/Transportation">repo</a>)
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
