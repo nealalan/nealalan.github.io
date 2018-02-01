@@ -1,6 +1,6 @@
 ## [nealalan.github.io](https://nealalan.github.io) a.k.a. Neal Dreher 
 ### [linkedin](https://www.linkedin.com/in/nealdreher) [nealalan.com](http://nealalan.com) [neonaluminum.com](https://neonaluminum.com)
-### [https://4nealalan.wordpress.com/](https://4nealalan.wordpress.com)
+### [4nealalan](https://4nealalan.wordpress.com).[wordpress.com](https://wordpress.com)
 Random stuff I've posted experimenting with wordpress
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
 Links related to: daily reading, white papers, secure testing, scanning & monitoring, osint, hackers, vulnerabilities
