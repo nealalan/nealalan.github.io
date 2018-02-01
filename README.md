@@ -10,7 +10,7 @@ Mac & Linux software links and explanations
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
-### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation)([repo](https://github.com/nealalan/Transportation))
+### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
 Chicago Transit Authority (trains & busses) location reporting, route reporting, stop reporting
