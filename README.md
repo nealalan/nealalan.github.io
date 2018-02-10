@@ -9,11 +9,9 @@ Random stuff I've posted experimenting with wordpress
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
 Links related to: daily reading, white papers, secure testing, scanning & monitoring, osint, hackers, vulnerabilities
 ### nealalan.github.io/[tech](https://nealalan.github.io/tech)
-Links related to: cloud, tech explanation, dev, 
+Links related to: cloud, tech explanation, dev, software, etc../
 ### nealalan.github.io/[command](https://nealalan.github.io/command) 
 Favorite Linux commands / cheat sheet
-### nealalan.github.io/[software](https://nealalan.github.io/software)
-Mac & Linux software links and explanations
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
