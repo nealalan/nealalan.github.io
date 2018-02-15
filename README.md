@@ -29,4 +29,4 @@ Python program to give multiple choice questions and answers to study for the Se
 
 <br><br>
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
-![](https://raw.githubusercontent.com/nealalan/EC2_Ubuntu_LEMP/master/certcheck.png)
+
