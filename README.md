@@ -9,9 +9,9 @@ Random stuff I've posted experimenting with wordpress
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
 Links related to: [daily reading](https://nealalan.github.io/security/#daily-reading), [locksmithery](https://nealalan.github.io/security/#locksmithery), [podcasts](https://nealalan.github.io/security/#podcasts), [twitter](https://nealalan.github.io/security/#twitter), [white papers](https://nealalan.github.io/security/#whitepapers--writeups), [secure testing](https://nealalan.github.io/security/#testing), [scanning & monitoring](https://nealalan.github.io/security/#scanning--monitoring), [osint](https://nealalan.github.io/security/#osint), [hackers](https://nealalan.github.io/security/#hackers), [vulnerabilities](https://nealalan.github.io/security/#vulnerabilities), [history](https://nealalan.github.io/security/#history)
 ### nealalan.github.io/[tech](https://nealalan.github.io/tech)
-Links related to: cloud, tech explanation, dev, software, etc../
+Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), etc..
 ### nealalan.github.io/[command](https://nealalan.github.io/command) 
-Favorite Linux commands / cheat sheet
+Commands I use cheat sheet: [CLI Tools](https://nealalan.github.io/command/#userful-cli-tools), [files](https://nealalan.github.io/command/#files), [git](https://nealalan.github.io/command/#git--github--hub), [monitoring](https://nealalan.github.io/command/#monitoring), [networking](https://nealalan.github.io/command/#networking), [searching](https://nealalan.github.io/command/#searching), [sql](https://nealalan.github.io/command/#sql), [upgrading](https://nealalan.github.io/command/#upgrading), [wordpress](https://nealalan.github.io/command/#wordpress)
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
