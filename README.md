@@ -26,6 +26,9 @@ Note: You will need an IAM credential installed under the instance root account,
 Some old CPP code I wrote in high school and college. I put it here as I come across it and may play with it if I decide to move from C++98 to C++17
 ### nealalan.github.io/[quiz-giver-sec-plus](https://nealalan.github.io/quiz-giver-sec-plus) ([repo](https://github.com/nealalan/quiz-giver-sec-plus))
 Python program to give multiple choice questions and answers to study for the Security Plus exam.
+<br>
+# Other Links and Deals
+[Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
 
 <br><br>
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
