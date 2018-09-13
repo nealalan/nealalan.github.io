@@ -12,6 +12,8 @@ Links related to: [daily reading](https://nealalan.github.io/security/#daily-rea
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
 ### nealalan.github.io/[command](https://nealalan.github.io/command) 
 Commands I use cheat sheet: [CLI Tools](https://nealalan.github.io/command/#userful-cli-tools), [files](https://nealalan.github.io/command/#files), [git](https://nealalan.github.io/command/#git--github--hub), [monitoring](https://nealalan.github.io/command/#monitoring), [networking](https://nealalan.github.io/command/#networking), [searching](https://nealalan.github.io/command/#searching), [sql](https://nealalan.github.io/command/#sql), [upgrading](https://nealalan.github.io/command/#upgrading), [wordpress](https://nealalan.github.io/command/#wordpress)
+### nealalan.github.io/[mbp](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
+Repo to sync across my Macs
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
@@ -31,8 +33,7 @@ Python program to give multiple choice questions and answers to study for the Se
 ### nealalan.github.io/[playlist](https://nealalan.github.io/playlist) ([repo](https://github.com/nealalan.github.io/playlist))
 ### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts))
 Some python and bash scripts
-### nealalan.github.io/[mbp](https://nealalan.github.io/mbp) ([repo](https://github.com/nealalan/mbp))
-Repo to sync across my Macs
+
 <br>
 # Other Links and Deals
 [Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
