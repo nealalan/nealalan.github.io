@@ -12,8 +12,11 @@ Links related to: [daily reading](https://nealalan.github.io/security/#daily-rea
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
 ### nealalan.github.io/[command](https://nealalan.github.io/command) 
 Commands I use cheat sheet: [CLI Tools](https://nealalan.github.io/command/#userful-cli-tools), [files](https://nealalan.github.io/command/#files), [git](https://nealalan.github.io/command/#git--github--hub), [monitoring](https://nealalan.github.io/command/#monitoring), [networking](https://nealalan.github.io/command/#networking), [searching](https://nealalan.github.io/command/#searching), [sql](https://nealalan.github.io/command/#sql), [upgrading](https://nealalan.github.io/command/#upgrading), [wordpress](https://nealalan.github.io/command/#wordpress)
-### nealalan.github.io/[mbp](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
+### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job) 
+### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
 Repo to sync across my Macs
+### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac)([repo](https://github.com/nealalan/mac/setup))
+
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
