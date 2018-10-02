@@ -4,8 +4,6 @@
 # IMPORT nealalan's PGP / GPG key
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
-### [4nealalan](https://4nealalan.wordpress.com).[wordpress.com](https://wordpress.com)
-Random stuff I've posted experimenting with wordpress
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
 Links related to: [daily reading](https://nealalan.github.io/security/#daily-reading), [locksmithery](https://nealalan.github.io/security/#locksmithery), [podcasts](https://nealalan.github.io/security/#podcasts), [twitter](https://nealalan.github.io/security/#twitter), [white papers](https://nealalan.github.io/security/#whitepapers--writeups), [secure testing](https://nealalan.github.io/security/#testing), [scanning & monitoring](https://nealalan.github.io/security/#scanning--monitoring), [osint](https://nealalan.github.io/security/#osint), [hackers](https://nealalan.github.io/security/#hackers), [vulnerabilities](https://nealalan.github.io/security/#vulnerabilities), [history](https://nealalan.github.io/security/#history)
 ### nealalan.github.io/[tech](https://nealalan.github.io/tech)
