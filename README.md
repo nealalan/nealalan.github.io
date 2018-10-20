@@ -36,6 +36,8 @@ Python program to give multiple choice questions and answers to study for the Se
 Some python and bash scripts
 
 <br>
+# Coding
+[W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
 # Other Links and Deals
 [Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
 
