@@ -36,12 +36,12 @@ Python program to give multiple choice questions and answers to study for the Se
 ### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts))
 Some python and bash scripts
 
-<br>
+
 # Coding
 [W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
 # Other Links and Deals
 [Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
 
-<br><br>
+
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
 
