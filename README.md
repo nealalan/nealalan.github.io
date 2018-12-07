@@ -6,10 +6,15 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 ### nealalan.github.io/[command](https://nealalan.github.io/command) 
 Commands I use cheat sheet: [commands 101](https://github.com/nealalan/command#commands-101), [accounts & sys admin](https://github.com/nealalan/command#accounts--sys-administration), [audio/video](https://github.com/nealalan/command#audio--video), [AWS](https://github.com/nealalan/command#aws), [configurations - MacOS](https://github.com/nealalan/command#configurations), [CTF/DevSec/PenTest](https://github.com/nealalan/command#ctf--devsec--pentest), [dev tools](https://github.com/nealalan/command#dev-tools-code--scripting), [encryption](https://github.com/nealalan/command#encryption), [files](https://nealalan.github.io/command/#files), [fonts](https://github.com/nealalan/command#fonts), [git](https://nealalan.github.io/command/#git--github--hub), [images/graphics](https://github.com/nealalan/command#images--graphics), [monitoring](https://github.com/nealalan/command#monitoring), [networking](https://nealalan.github.io/command/#networking), [package managers](https://github.com/nealalan/command#package-managers), [searching](https://nealalan.github.io/command/#searching), [tools & software](https://github.com/nealalan/command#tools--software), [wordpress](https://nealalan.github.io/command/#wordpress)
+
 ### nealalan.github.io/[security](https://nealalan.github.io/security)
 Links related to: [daily reading](https://nealalan.github.io/security/#daily-reading), [locksmithery](https://nealalan.github.io/security/#locksmithery), [podcasts](https://nealalan.github.io/security/#podcasts), [twitter](https://nealalan.github.io/security/#twitter), [white papers](https://nealalan.github.io/security/#whitepapers--writeups), [secure testing](https://nealalan.github.io/security/#testing), [scanning & monitoring](https://nealalan.github.io/security/#scanning--monitoring), [osint](https://nealalan.github.io/security/#osint), [hackers](https://nealalan.github.io/security/#hackers), [vulnerabilities](https://nealalan.github.io/security/#vulnerabilities), [history](https://nealalan.github.io/security/#history)
+
 ### nealalan.github.io/[tech](https://nealalan.github.io/tech)
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
+
+### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) 
+Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for nealalan.com and neonaluminum.com 
 
 ### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job) 
 ### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
@@ -19,6 +24,8 @@ Repo to sync across my Macs
 ### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
+Note: Only the initial account setup and IAM setup are useful here, the rest can be done using terraform project [tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/)
+
 ### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
