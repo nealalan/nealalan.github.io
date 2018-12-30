@@ -6,7 +6,7 @@
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 
-## [gist.github.com/nealalan](https://gist.github.com/nealalan)
+### [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
 ## PROJECTS
 
