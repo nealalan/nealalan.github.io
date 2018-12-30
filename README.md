@@ -1,14 +1,16 @@
 ## [nealalan.github.io](https://nealalan.github.io) a.k.a. Neal Dreher 
 
-### [linkedin](https://www.linkedin.com/in/nealdreher) [nealalan.com](http://nealalan.com) [neonaluminum.com](https://neonaluminum.com)
+### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
+
+### [gist.github.com/nealalan](https://gist.github.com/nealalan)
+
 ```bash
 # IMPORT nealalan's PGP / GPG key
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 
-### [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
-## PROJECTS
+# PROJECTS
 
 ### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
 Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
@@ -41,7 +43,7 @@ Some old CPP code I wrote in high school and college. I put it here as I come ac
 
 
 
-## REFERENCE 
+# REFERENCE 
 
 ### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
 Commands I use cheat sheet: [commands 101](https://github.com/nealalan/command#commands-101), [accounts & sys admin](https://github.com/nealalan/command#accounts--sys-administration), [audio/video](https://github.com/nealalan/command#audio--video), [AWS](https://github.com/nealalan/command#aws), [configurations - MacOS](https://github.com/nealalan/command#configurations), [CTF/DevSec/PenTest](https://github.com/nealalan/command#ctf--devsec--pentest), [dev tools](https://github.com/nealalan/command#dev-tools-code--scripting), [encryption](https://github.com/nealalan/command#encryption), [files](https://nealalan.github.io/command/#files), [fonts](https://github.com/nealalan/command#fonts), [git](https://nealalan.github.io/command/#git--github--hub), [images/graphics](https://github.com/nealalan/command#images--graphics), [monitoring](https://github.com/nealalan/command#monitoring), [networking](https://nealalan.github.io/command/#networking), [package managers](https://github.com/nealalan/command#package-managers), [searching](https://nealalan.github.io/command/#searching), [tools & software](https://github.com/nealalan/command#tools--software), [wordpress](https://nealalan.github.io/command/#wordpress)
