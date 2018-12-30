@@ -5,7 +5,7 @@
 # IMPORT nealalan's PGP / GPG key
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
-
+##
 ## PROJECTS
 
 ### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
@@ -37,6 +37,7 @@ Some python and bash scripts
 ### nealalan.github.io/[cpp_one_pagers](https://nealalan.github.io/cpp_one_pagers) ([repo](https://github.com/nealalan/cpp_one_pagers))
 Some old CPP code I wrote in high school and college. I put it here as I come across it and may play with it if I decide to move from C++98 to C++17
 
+##
 ## REFERENCE 
 
 ### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
@@ -53,21 +54,27 @@ Repo to sync across my Macs
 
 ### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
 
+##
 ## NOTES & EXPERIMENTATIONS
 
 ### nealalan.github.io/[api-stuff-2018-12](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-2018-12))
 API notes and labs I have played around with
 
+##
 ## CAREER
 
 ### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job)
 
+##
 ## JUST FOR FUN
 
 ### nealalan.github.io/[geocaching](https://nealalan.github.io/geocaching) ([repo](https://github.com/nealalan/geocaching))
 Links to geocaching pages - since the site is too chaotic to find what you need sometimes
 
 ### nealalan.github.io/[playlist](https://nealalan.github.io/playlist) ([repo](https://github.com/nealalan.github.io/playlist))
+
+##
+## BACKUPS
 
 ## nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
 Backup for [nealalan.com](https://nealalan.com) used when a new webserver is provisioned
