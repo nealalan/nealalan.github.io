@@ -6,6 +6,7 @@
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 
+## [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
 ## PROJECTS
 
@@ -55,6 +56,7 @@ Links related to: [news](https://nealalan.github.io/command/#general-news), clou
 Repo to sync across my Macs
 
 ### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
+Notes on setting up a clean and minimal Mac Book Pro install. The next setup will be on Ubuntu, since Mac's that are pre-Siri are limited on the OS version and limited on modern software installs. But these machines are cheap and great for Ubuntu with an SSD and maxed memory.
 
 
 
