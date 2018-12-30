@@ -72,7 +72,7 @@ API notes and labs I have played around with
 ## CAREER
 
 ### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job)
-
+Some of the Colorado and Austin, TX area companies I watch for positions to continue my career in. A breakdown of the positions include [nealalan.github.io/i_really_want_an_IT_job/devops/](https://nealalan.github.io/i_really_want_an_IT_job/devops/)
 
 
 ## JUST FOR FUN
