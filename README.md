@@ -64,9 +64,10 @@ Notes on setting up a clean and minimal Mac Book Pro install. The next setup wil
 
 ## NOTES & EXPERIMENTATIONS
 
-### nealalan.github.io/[api-stuff-2018-12](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-2018-12))
+### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
 API notes and labs I have played around with
 
+### nealalan.github.io/[https://nealalan.github.io/api-stuff-201901/](https://nealalan.github.io/api-stuff-201901/) ([repo](https://github.com/nealalan/api-stuff-201901))
 
 
 ## CAREER
