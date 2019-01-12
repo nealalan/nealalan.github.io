@@ -65,13 +65,16 @@ Notes on setting up a clean and minimal Mac Book Pro install. The next setup wil
 ## NOTES & EXPERIMENTATIONS
 
 ### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
-API notes and labs I have played around with
+API notes and labs I have played around with in Dec 2018
 
 ### nealalan.github.io/[api-stuff-201901](https://nealalan.github.io/api-stuff-201901/) ([repo](https://github.com/nealalan/api-stuff-201901))
+API notes and labs I have played around with in Jan 2019
 
 ### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
+Whitepaper notes, cheat sheet notes on AWS Services
 
 ### nealalan.github.io/[devops-tools-notes](https://nealalan.github.io/devops-tools-notes/) ([repo](https://github.com/nealalan/devops-tools-notes))
+Notes on learning and experimenting with DevOps Tools
 
 
 
