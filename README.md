@@ -63,7 +63,7 @@ Links related to: [news](https://nealalan.github.io/command/#general-news), clou
 
 
 
-## NOTES & EXPERIMENTATIONS
+# NOTES & EXPERIMENTATIONS
 
 ### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
 API notes and labs I have played around with in Dec 2018
@@ -79,13 +79,13 @@ Notes on learning and experimenting with DevOps Tools
 
 
 
-## CAREER
+# CAREER
 
 ### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job)
 Some of the Colorado and Austin, TX area companies I watch for positions to continue my career in. A breakdown of the positions include [nealalan.github.io/i_really_want_an_IT_job/devops/](https://nealalan.github.io/i_really_want_an_IT_job/devops/)
 
 
-## JUST FOR FUN
+# JUST FOR FUN
 
 ### nealalan.github.io/[geocaching](https://nealalan.github.io/geocaching) ([repo](https://github.com/nealalan/geocaching))
 Links to geocaching pages - since the site is too chaotic to find what you need sometimes
@@ -95,7 +95,7 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 ### nealalan.github.io/[recipes](https://nealalan.github.io/recipes) ([repo](https://github.com/nealalan.github.io/recipes))
 
 
-## BACKUPS
+# BACKUPS
 
 ## nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
 Backup for [nealalan.com](https://nealalan.com) used when a new webserver is provisioned
