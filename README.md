@@ -97,10 +97,10 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 
 # BACKUPS
 
-## nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
+### nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
 Backup for [nealalan.com](https://nealalan.com) used when a new webserver is provisioned
 
-## nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
+### nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
 
 
