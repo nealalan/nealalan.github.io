@@ -2,7 +2,7 @@
 
 | Company       | HQ / Offices (US/EU)  | CareerSite    | Category    | Specialty
 |---------------|------------------|---------------|-------------|-------------|
-| Barracuda | Austria, UK, CA, MA, MI, GA, VA, IL | https://www.barracuda.com/company/careers |  Net & Infra Sec | Threat Protection |
+| Barracuda | Austria, UK, CA, MA, MI, GA, VA, IL | barracuda.com/company/careers |  Net & Infra Sec | Threat Protection |
 | BlueVector |  |  | Net & Infra Sec |  Threat Protection |
 | CheckPoint |  |  |  Net & Infra Sec |  Threat Protection |
 | CISCO  |  |  |  Net & Infra Sec |  Threat Protection |
