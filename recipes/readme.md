@@ -1,5 +1,17 @@
 # [nealalan.github.io](https://nealalan.github.io/)/[recipes/](https://nealalan.github.io/recipes/)
 
+## TOC
+- Emeril’s Mulligatawny Soup
+- Lentil Soup with Cauliflower and Bacon
+- Green Chutney (Indian Mint - Cilantro Chutney)
+- saag paneer {spinach curry}
+- Cuban Pork Roast
+- Homemade Applesauce in a Pressure Cooker
+- Gajar halwa - warm carrot based dessert
+- Neal's Guacamole
+- Navrathan korma
+
+
 ## Emeril's Mulligatawny Soup 
 Origial source was the food network, but the link no longer works.
 
@@ -92,8 +104,6 @@ https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-
 
 #### Directions
 - Grind all the ingredients with a little water.
-
-[[edit](https://github.com/nealalan/nealalan.github.io/edit/master/recipes/readme.md)]
 
 ## saag paneer {spinach curry}
 
@@ -189,3 +199,119 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 
 ALSO 
 This is excellent served with sliced, oiled, salted (spiced to preference) and baked plantains or sweet potatoes. Also excellent with guacamole. Can eat with grilled/toasted pita bread. For leftovers, allow crockpot to simmer for an hour or two uncovered to help reduce remaining juice.
+
+## Homemade Applesauce in a Pressure Cooker
+
+Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauce-in-a-pressure-cooker
+
+#### Ingredients
+| AMT | Ingredient | Metric |
+|----|-----|----|
+| 3 pounds | apples | about 1.5 kg | 
+| 1/2 cup | water | 120 ml | 
+| 1 teaspoon | cinnamon | 1 gm | 
+| 1-2 tablespoons | dark brown sugar | maybe 12-25 gm | 
+| 1 tablespoon | butter, **optional** | 15 gm | 
+
+#### Directions
+
+* Quarter apples and remove centers.
+* Put apple quarters and water in pressure cooker. Bring to pressure and cook for 3 minutes.
+* Turn off the heat and allow to cool until pressure drops.
+* Open the cooker and pour apples into large shallow bowl.
+* Allow to cool enough to be able to handle comfortably. Remove skins from apples, using tongs and a spoon.
+* Stir to desired chunkiness.
+* Add cinnamon and taste. 
+* Note: You may not need any sugar at all. I didn’t use any with the Fireside apples. 
+* Note: No butter necessary, though this is a nice rich addition sometimes.
+
+
+## Gajar halwa - warm carrot based dessert
+
+#### Ingredients
+| Ingredient | AMT |
+|----|-----|
+| Grated carrot | 2 cups| 
+| Milk | 3 cups (used 1.5 cups heavy whipping cream & 1.5 cups water) | 
+| Sugar | 2 tbl spns (used 4tbls brown sugar) | 
+| Cardamom powder 1/4 tea spn (shelled ~8 myself and ground in vitamix) | 
+| Saffron | 4-5 strands | 
+| Ghee | 1 tbl spn (used 2.5 tblsp butter and was way too much!) | 
+| Cashew nuts | 1 tbl spn (ground 6 in vitamix)| 
+
+
+#### Method
+- Heat milk (using wide pan/skillet as possible and cooked as high as possible w/out causing too much foam)
+- When it is boiling, add grated carrot. 
+- Cook till carrot is 3/4th done.
+- Add Sugar and ghee. Stir continuously at this stage.
+- Cook till carrot is completely done and halwa becomes thick. (will start to really turn from offwhite to orangish color.)
+- Add saffron and cardamom powder. 
+- Garnish with cashew nuts fried in ghee (used fresh ground not fried). 
+- Serve hot.
+
+## Neal's Guacamole
+
+- Remove avocado from skin and place in mixing bowl
+- Add plenty of lime with pulp (i use two small lime per 2-3 lg avocados)
+- Add 1/8 tsp habanero (or other very hot) pepper - USE WITH CAUTION!!!
+- Mash with potato masher to a chunky mixture (no need to make it smooth)
+- Chop 1/2-3/4 white onion (or to liking)
+- Remove seeds and chop yellow or orange peppers (amt to liking - can't have too much for me)
+- Place in iron skillet
+- Add 2 diced or pressed garlic cloves (amt to liking)
+- Add triple sec liquor and simmer on med heat until soft
+- Just before triple sec boils out (or you can add a little more TS) add chopped cilantro
+- Note: If you leave the cilantro in too long, if will stick to skillet like super glue
+- Stir in cilantro briefly until most liquid is evaporated
+- Add mixture to avocado 
+- CLEAN CILANTRO FROM SKILLET!!!
+- Server warm or chilled with El Ranchero Tortilla Chips Mild Hot
+- Excellent served on grilled fish over bed of rice
+- https://t.co/tci98dkwk0
+
+## Navrathan korma
+
+SERVES ABOUT 5
+
+##### Ingredients PART 1
+Ghee -- 2 tbsp
+Ginger -- 1/2 tsp 
+Garlic -- 3/4 tsp 
+Green Chilli -- 2 to 3 (or can use regular red chilli/hot sauce)
+Cilantro (Coriander ) -- 2 tbsp (dried works)
+##### Ingredients PART 2
+Cauliflower flowerettes -- 1/2 cup
+Frozen Peas -- 1/4 th cup
+Potatoes (Peeled) -- 1/2 cup (Cut into cubes) (i used sweet potatoes, which are wonderful!) 
+Carrots -- 1/3 cup (Peeled and cut into strips OR shreaded)
+Beans -- 1/3 cup ( Cut into strips) * (I don't add these because I didn't know what to use. Just use extra peas) *
+##### Ingredients PART 3
+Turmeric Powder -- 1/2 tsp
+Cummin Powder -- 1/2 tsp
+Red Chilli Powder -- 1/2 tsp
+Garam masala --1/2 tsp  
+Tomato Puree -- 1/2 cup * (I don't use this because I don't like tomato)
+Curd (beaten) -- 1/2 cup (Using heavy/thick yogurt)
+Pineapple cubes -- 1/2 cup
+Cashewnuts and Almonds (Sliced) -- 1 tbsp each 
+Paneer -- 10 to 12 half inch cubes
+Milk -- as needed
+Oil -- as needed to fry paneer (i use corn oil)
+
+#### Directions
+1. Grind ginger, garlic, cilantro and green chilli (add a little with water as needed)
+2. Deep fry paneer in oil until golden brown. This requires a lot of attention to keep cheese from melting.
+3. Take 2 tbsp of oil or ghee in a pan and add the ground paste. 
+4. Stir fry, sprinkling a little milk from time to time.
+5. Add all the vegetables, salt, garam masala, turmeric, cummin & red chilli powder.
+6. Stir fry and add tomato puree and little water to cook the vegetables. 
+7. Mix and cook until the vegetables are almost done. Now, add the curd.
+8. Add Paneer.
+9. Mix (blend if desired) pineapple, cashews and almonds and add.
+10. Simmer for about 3 minutes. Serve hot in metal bowl.
+
+
+
+
+[[edit](https://github.com/nealalan/nealalan.github.io/edit/master/recipes/readme.md)]
