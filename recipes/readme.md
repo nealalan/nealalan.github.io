@@ -11,6 +11,9 @@
 - Neal's Guacamole
 - Navrathan korma
 - Pineapple margarita
+- Neal's Jerk Chicken
+- Banana Raisen Bread
+- Fabulous Chicken Salad
 
 
 ## Emeril's Mulligatawny Soup 
@@ -359,6 +362,92 @@ BLEND. DRINK.
 1. Heat a large non-stick or enamel-coated pot over medium-high heat. Add the onion, reduce the heat to medium, and cook, covered but stirring every minute or so, until it begins to brown, about 5 minutes (add a little water if it tends to stick). Add the garlic and hot pepper and cook for another minute.
 2. Add all remaining ingredients except the optional ones. Cover and cook until the potatoes are completely tender (they will mash if lightly pressed with a spoon), about 25-40 minutes.
 3. Remove half of the soup and put it into a blender* and puree at high speed until completely smooth. (Be careful–hot liquids can erupt from your blender; I always remove the center cup from the lid and cover the opening with a kitchen towel.) Once it’s blended, pour the soup into another pot. Add the remaining soup to the blender, along with any optional ingredients you choose to use, and blend well. Add to the other half of the soup, and simmer for about 5 minutes. Ladle into bowls, garnish with slices of red bell pepper, and serve.
+
+## Neal's Jerk Chicken 
+
+#### Ingredients
+
+| AMT } Item |
+|----|----|
+| 5-6 lbs | chicken | 
+| 2 peppers (or 2 tsp ground) - | scotch bonnet or habaneros w/ seeds | 
+| 1/2 cup l| emon or lime juice | 
+| 2 Tbsp | dark rum | 
+| ⅓ cup | brown sugar | 
+| 2 Tbsp | garlic | 
+| 1 | red onion, diced | 
+| 4 | green onion tops, diced | 
+| 1 Tbsp | thyme  | 
+| 2 Tbsp | olive oil | 
+| 2 tsp | salt | 
+| 2 tsp freshly | ground black pepper | 
+| 4 tsp | ground allspice | 
+| 4 tsp | ground cinnamon | 
+| 4 tsp | ground nutmeg | 
+| 4 tsp | ground ginger | 
+| 2 tsp | molasses | 
+| 1 tsp | salt (pink or black preferred) | 
+
+Optional:
+- Baked beans can
+- Grill wood chips, soaked
+- Long thermometer
+
+#### Steps
+
+1. Slice chicken into strips about the diameter of a hot dog.
+2. Mix rest of the ingredients in large bowl and let marinate as long as possible up to 24 hours.
+3. Heat grill to high. Prefer coals around the outside of the grill w/ center open.
+4. If desired: Place baked beans can in the center of fire, filled with soaked wood chips.
+5. Place strips on grill closely lined up.
+6. Sear the outside of the chicken pieces.
+7. Check to see the bottoms are not burned. Rotate the grill grate is necessary.
+8. When the pieces are nicely cooked on the bottom, brush the remaining juice in the mix bowl on the top of the chicken and it turn it over.
+9. The chicken is done cooking when it reaches at least 165 and the outside is grilled crisp to your liking
+
+## Banana Raisen Bread
+
+from cooks.com; Makes 12 servings.
+
+#### Ingredients
+
+- 2 1/4 c. all-purpose flour
+- 1 tbsp. double-acting baking powder
+- 1/2 tsp. each salt & ground cinnamon
+- 1/2 c. butter
+- 1/2 c. granulated sugar
+- 1 egg
+- 3 very ripe bananas, peeled & mashed
+- 3/4 c. raisins
+
+#### Steps
+
+1. Preheat oven to 350 degrees. 
+2. Spray 9 x 5 x 3 inch loaf pan with nonstick cooking spray. Set aside.
+3. Sift together dry ingredients. 
+4. In large mixing bowl combine butter and sugar. 
+5. Using electric mixer, beat until creamy and light; 
+6. add vanilla and beat until thoroughly combined, but do not over beat as this will toughen bread.
+7. Add sifted dry ingredients alternately with bananas, beating after each addition. 
+8. Stir in raisins and pour batter into sprayed pan. 
+9. Bake 50 minutes. Remove from heat and cool. 
+
+## Fabulous Chicken Salad
+
+- 1 roasted chicken picked off the bone or use 4 chicken breasts shredded
+- 1 bag of Craisins
+- 1 small package of pecans chopped
+- 1 cup of grapes sliced (red seedless are best)
+- 3 stalks of celery chopped very fine
+- 1 small sweet onion chopped ( Maui or Vidalia) very fine
+- 8 small sweet pickles chopped very fine
+- 3 eggs hard boiled and chopped (the yolks set aside and mixed with mayo **OR NO MAYO**)
+- 1/2 cup sweet pickle juice
+- 1/4 cup miracle whip
+
+Mix all ingredients together in large mixing bowl service with crackers, chips or on bed of lettuce greens.
+
+
 
 
 
