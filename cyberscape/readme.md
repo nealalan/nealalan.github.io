@@ -32,7 +32,7 @@
 | Auconet  |  |  |  Net & Infra Sec: NAC |
 | Axonius  |  |  |  Net & Infra Sec: NAC |
 | Bradform Networks  |  |  |  Net & Infra Sec: NAC |
-| CISCO (Duplicate)  |  |  |  Net & Infra Sec: NAC |
+| CISCO   | (Duplicate) |  |  Net & Infra Sec: NAC |
 | Extreme  |  |  |  Net & Infra Sec: NAC |
 | ForeScout  |  |  |  Net & Infra Sec: NAC |
 | Genians  |  |  | Net & Infra Sec:  NAC |
@@ -65,7 +65,7 @@
 | StackPath |  |  |  Net & Infra Sec: DDos Protection |
 | Verisign |  |  |  Net & Infra Sec: DDos Protection |
 | BlueCat |  |  |  Net & Infra Sec: DNS Security |
-| CISCO (Duplicate) |  |  |  Net & Infra Sec: DNS Security |
+| CISCO  | (Duplicate) |  |  Net & Infra Sec: DNS Security |
 | CrowdStrike |  |  |  Net & Infra Sec: DNS Security |
 | Cyren |  |  |  Net & Infra Sec: DNS Security |
 | efficient iP |  |  |  Net & Infra Sec: DNS Security |
@@ -74,26 +74,26 @@
 | Neustar |  |  |  Net & Infra Sec: DNS Security |
 | Quad9 |  |  |  Net & Infra Sec: DNS Security |
 | Webroot  |  |  |  Net & Infra Sec: DNS Security |
-| Verisign {Duplicate) |  |  |  Net & Infra Sec: DNS Security |
+| Verisign  | (Duplicate) |  |  Net & Infra Sec: DNS Security |
 | Algosec |  |  |  Net & Infra Sec: Network Firewall |
 | Cato Networks |  |  | Net & Infra Sec: Network Firewall |
-| Check Point (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
-| CISCO (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Check Point | (Duplicate) |  |  Net & Infra Sec: Network Firewall |
+| CISCO  | (Duplicate) |  |  Net & Infra Sec: Network Firewall |
 | Clavister |  |  |  Net & Infra Sec: Network Firewall |
 | Enbdian |  |  |  Net & Infra Sec: Network Firewall |
 | ForcePoint |  |  | Net & Infra Sec: Network Firewall |
-| Fortinet (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Fortinet  | (Duplicate) |  |  Net & Infra Sec: Network Firewall |
 | GAJ Shield |  |  |  Net & Infra Sec: Network Firewall |
 | Hillstone Networks |  |  |  Net & Infra Sec: Network Firewall |
-| Huawei (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Huawei  | (Duplicate) |  |  Net & Infra Sec: Network Firewall |
 | Op-aq Networks |  |  |  Net & Infra Sec: Network Firewall |
-| Palo Alto (Dupliate) |  |  | Net & Infra Sec: Network Firewall |
+| Palo Alto  | (Duplicate) |  | Net & Infra Sec: Network Firewall |
 | Sangfor |  |  |  Net & Infra Sec: Network Firewall |
 | Secucloud |  |  |  Net & Infra Sec: Network Firewall |
 | Sonic Wall |  |  |  Net & Infra Sec: Network Firewall |
-| Sophos (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Sophos  | (Duplicate) |  |  Net & Infra Sec: Network Firewall |
 | Untangle |  |  |  Net & Infra Sec: Network Firewall |
-| CISCO (Duplicate) |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| CISCO  | (Duplicate) |  |  Net & Infra Sec: Network Analysis & Forensics |
 | CGS Tower Networks |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | CloudShark |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | CORE Security |  |  |  Net & Infra Sec: Network Analysis & Forensics |
@@ -106,7 +106,7 @@
 | Lumeta |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | Netscout |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | PacketSled |  |  |  Net & Infra Sec: Network Analysis & Forensics |
-| Palo Alto (Dupliate)  |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Palo Alto | (Duplicate) |  |  Net & Infra Sec: Network Analysis & Forensics |
 | Protect Wise |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | SS8 |  |  |  Net & Infra Sec: Network Analysis & Forensics |
 | Utimaco |  |  |  Net & Infra Sec: Network Analysis & Forensics |
