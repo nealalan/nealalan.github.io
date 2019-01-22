@@ -1,6 +1,7 @@
 # [nealalan.github.io](https://nealalan.github.io/)/[recipes/](https://nealalan.github.io/recipes/)
 
-## Emeril's Mulligatawny Soup ([link](http://www.foodnetwork.com/recipes/emeril-lagasse/emerils-mulligatawny-soup-recipe/index.html?oc=linkback))
+## Emeril's Mulligatawny Soup 
+Origial source was the food network, but the link no longer works.
 
 #### Ingredients
 
@@ -51,6 +52,44 @@
 * 2 teaspoons of the cilantro
 
 
+## Lentil Soup with Cauliflower and Bacon ([link](http://www.delish.com/recipefinder/lentil-soup-cauliflower-bacon-recipe-7821
+))
 
+#### Ingredients
+* 6 slice(s) bacon, cut crosswise into thin strips (or use a whole pound)
+* 1 onion, chopped
+* 2 cup(s) lentils
+* 2 teaspoon(s) salt
+* 1/4 teaspoon(s) fresh ground black pepper
+* 1 1/2 teaspoon(s) dried rosemary, crumbled
+* 1 bay leaf
+* 9 cup(s) water
+* 1 small head cauliflower (about 1 1/2 pounds), cut into small florets (about 1 quart)
+* 1/3 cup(s) chopped fresh parsley
+Also 
+* 1 lemon
+* 1 tsp cumin
+* 2 tsps coriander
+
+#### Directions
+1. In a large pot, cook the bacon strips until crisp. Remove the bacon with a slotted spoon and drain on paper towels. Discard all but 2 tablespoons of the bacon fat or, if there's less than 2 tablespoons, add enough olive oil to make up the amount.
+2. Reduce the heat to moderately low. Add the onion to the pot and cook, stirring occasionally, until translucent, about 5 minutes.
+3. Add the lentils, salt, pepper, rosemary, bay leaf and water to the pot. Bring to a boil. Reduce the heat and simmer, partially covered, stirring occasionally, for 15 minutes. Add the cauliflower florets and simmer, stirring occasionally, until the cauliflower and lentils are tender, about 15 minutes longer. Remove the bay leaf.
+4. Stir the parsley into the soup. Serve the soup topped with the bacon.
+
+## Green Chutney (Indian Mint - Cilantro Chutney) ([link](https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-156498?oc=linkback))
+
+#### Ingredients
+- 2 cups chopped fresh cilantro
+- 1 cup chopped mint
+- 1 tablespoon fresh ginger, chopped
+- 1 tablespoon garlic, chopped
+- 1 tablespoon green chili, chopped
+- 2 tablespoons desiccated coconut
+- salt
+- 1/4 cup lemon juice
+
+#### Directions
+- Grind all the ingredients with a little water.
 
 [[edit](https://github.com/nealalan/nealalan.github.io/edit/master/recipes/readme.md)]
