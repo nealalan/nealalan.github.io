@@ -52,8 +52,8 @@ Origial source was the food network, but the link no longer works.
 * 2 teaspoons of the cilantro
 
 
-## Lentil Soup with Cauliflower and Bacon ([link](http://www.delish.com/recipefinder/lentil-soup-cauliflower-bacon-recipe-7821
-))
+## Lentil Soup with Cauliflower and Bacon 
+http://www.delish.com/recipefinder/lentil-soup-cauliflower-bacon-recipe-7821
 
 #### Ingredients
 * 6 slice(s) bacon, cut crosswise into thin strips (or use a whole pound)
@@ -77,7 +77,8 @@ Also
 3. Add the lentils, salt, pepper, rosemary, bay leaf and water to the pot. Bring to a boil. Reduce the heat and simmer, partially covered, stirring occasionally, for 15 minutes. Add the cauliflower florets and simmer, stirring occasionally, until the cauliflower and lentils are tender, about 15 minutes longer. Remove the bay leaf.
 4. Stir the parsley into the soup. Serve the soup topped with the bacon.
 
-## Green Chutney (Indian Mint - Cilantro Chutney) ([link](https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-156498?oc=linkback))
+## Green Chutney (Indian Mint - Cilantro Chutney) 
+https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-156498?oc=linkback
 
 #### Ingredients
 - 2 cups chopped fresh cilantro
@@ -93,3 +94,98 @@ Also
 - Grind all the ingredients with a little water.
 
 [[edit](https://github.com/nealalan/nealalan.github.io/edit/master/recipes/readme.md)]
+
+## saag paneer {spinach curry}
+
+#### Ingredients
+* 16 oz frozen spinach
+* 1 cup boiling water
+* 4 tbsp ghee (or butter)
+* 1 medium onion, chopped
+* 1 inch piece of ginger, finely minced or grated
+* 2 cloves garlic, minced
+* ¼ tsp turmeric
+* ½ tsp cumin
+* 1 tsp fenugreek powder (or curry powder)
+* 3 tbsp cream or yogurt
+* 2 tsp fresh lemon juice
+* 1 tsp salt (or more, to taste)
+* 12 oz paneer or drained ricotta, in ½ inch cubes
+
+#### Instructions
+1. Place frozen spinach in a blender or food processor, drizzling it with the boiling water as you go so it wilts and you can fit it all in. Process until very finely chopped, but not pureed. Set aside.
+2. Heat ghee or butter in a large pot over medium heat. Add chopped onion and cook, stirring often, until very soft and golden – 20-25 minutes. Reduce the heat if onions are browning – low and slow is the goal.
+3. Add the ginger and garlic and cook until fragrant, about 1 minute. Add the turmeric, cumin and fenugreek powder and cook 1 minute more. Stir in the spinach, bring to a simmer, then add cream or yogurt, lemon juice and salt to taste. Gently stir in paneer and heat through.
+
+## Cuban Pork Roast
+Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers - tastes even better!)
+
+#### STEP 1 - Orange Mixture
+| AMT | Ingredient |
+|----|-----|
+| 2.5 cups | water | 
+| 1 cup fresh | orange juice (or about 4 oranges juiced) - better with low/no pulp | 
+| 1/2 cup chopped | cilantro stems | 
+| 1 medium | orange, quartered | 
+| 3/4 tsp | black or pink salt  | 
+| 3/4 tsp | black pepper | 
+
+* Combine ingredients in a blender; process until smooth. Strain through a fine sieve over a bowl; discard solids.
+
+#### STEP 2
+| AMT | Ingredient |
+|----|-----|
+| 4-5 lb | bone-in pork shoulder, trimmed | 
+| 6 pieces | (thick) bacon | 
+| 1 pound | dried black beans or 1 to 2 cans refried black bens | 
+| 1/2 tsp | black or pink salt | 
+| 1/2 tsp | black pepper | 
+
+* Place diced bacon in a large skillet or soup pot (cast iron works best) over medium heat; cook until crisp. 
+* Remove bacon, leaving remains in pan. Place bacon in a large slow cooker. 
+* Sprinkle pork with 1/2 teaspoon salt and 1/2 teaspoon black pepper. 
+* Return skillet to medium-high heat. 
+* Add pork to bacon drippings in skillet; cook 8 minutes, turn to brown on all sides. This may take 5-8 minutes per side. If in a soup pot, you can put the lid on to keep more heat in. 
+* Add pork shoulder to slow cooker. 
+* Pour beans around (not on) pork.
+
+### STEP 3
+| AMT | Ingredient |
+|----|-----|
+| 5 tsp | grape seed or avocado oil | 
+| 10-12 | green onions diced with green scallions | 
+| 6 | garlic cloves, crushed or diced finely | 
+| 1/4 cup chopped | fresh oregano, divided | 
+| 2 teaspoons | paprika | 
+| 2 teaspoons | ground cumin | 
+| 1 1/2 teaspoons | crushed red pepper | 
+| 1 can | plain organic tomato sauce | 
+| 1 seeded and thinly sliced | jalapeño or HOT pepper | 
+
+* Return skillet to medium-high heat. 
+* Add oil, diced onion and 6 garlic cloves; sauté until onions are limp. 
+* Add 3 tablespoons oregano. 
+* Add the paprika, cumin, and crushed red pepper to pan; sauté 1 minute. 
+* Add tomato sauce and jalapeño or HOT pepper. 
+* Bring to a boil and simmer until reduced and thick, scraping pan to loosen browned bits. (If you let it sit while cooking, it will brown to the bottom to allow for scraping. This is desirable and easy to do in cast iron.) 
+
+#### STEP 4
+| AMT | Ingredient |
+|----|-----|
+| 1 | bay leaf | 
+| 4 chopped into strips | garlic cloves | 
+
+* Add orange mixture and bay leaf to slow cooker. 
+* Cut slits in pork and add garlic inside pork. 
+* Scoop tomato onion mixture over pork. 
+* Cover and cook on HIGH for 8 hours or until pork is very tender. 
+* Chunk pork leaving some with the cooked on tomato salsa; discard bones. Discard bay leaf. Add salt to taste.
+
+#### SERVICE
+
+* Spoon about 2/3 cup rice onto each of 8 plates; 
+* top each serving with 1/2 cup mixture from slow cooker, about 5 ounces pork, and 3-5 tsp of the bean juice mix around the rice. 
+* Garnish with remaining oregano and 1/4 cup cilantro.
+
+ALSO 
+This is excellent served with sliced, oiled, salted (spiced to preference) and baked plantains or sweet potatoes. Also excellent with guacamole. Can eat with grilled/toasted pita bread. For leftovers, allow crockpot to simmer for an hour or two uncovered to help reduce remaining juice.
