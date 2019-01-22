@@ -112,7 +112,50 @@
 | Utimaco |  |  |  Net & Infra Sec | Network Analysis & Forensics |
 | Vectra |  |  |  Net & Infra Sec | Network Analysis & Forensics |
 | Acalvio |  |  |  Net & Infra Sec | Deception |
+| Attivo Networks  |  |  |  Net & Infra Sec | Deception |
+| Counter Strike |  |  |  Net & Infra Sec | Deception |
+| Cyber trap |  |  |  Net & Infra Sec | Deception |
+| Cymmetria |  |  |  Net & Infra Sec | Deception |
+| Guardi Core |  |  |  Net & Infra Sec | Deception |
+| Illusive |  |  |  Net & Infra Sec | Deception |
+| Packet Viper |  |  |  Net & Infra Sec | Deception |
+| Smoke Screen |  |  |  Net & Infra Sec | Deception |
+| TrapX Security |  |  |  Net & Infra Sec | Deception |
+| AT&T |  |  |  MSSP | Traditional MSSP |
+| BAE Systems |  |  |  MSSP | Traditional MSSP |
+| BT |  |  |  MSSP | Traditional MSSP |
+| Century Link |  |  |  MSSP | Traditional MSSP |
+| Clone Systems |  |  |  MSSP | Traditional MSSP |
+| CSC |  |  |  MSSP | Traditional MSSP |
+| Netlett Packard Enterprise |  |  |  MSSP | Traditional MSSP |
+| IBM |  |  |  MSSP | Traditional MSSP |
+| Mega Path |  |  |  MSSP | Traditional MSSP |
+| Nuspire Networks |  |  |  MSSP | Traditional MSSP |
+| Optiv |  |  |  MSSP | Traditional MSSP |
+| Orange |  |  |  MSSP | Traditional MSSP |
+| Secure Works |  |  |  MSSP | Traditional MSSP |
+| Solutionary |  |  |  MSSP | Traditional MSSP |
+| Symantec | (Duplicate) |  |  MSSP | Traditional MSSP |
+| Trustwave | (Duplicate) |  |  MSSP | Traditional MSSP |
+| Verizon |  |  |  MSSP | Traditional MSSP |
+| WiPro |  |  |  MSSP | Traditional MSSP |
+| ADT |  |  |  MSSP | Advanced MSS & MDR |
+| Alert Logic |  |  |  MSSP | Advanced MSS & MDR |
+| Arctic Wolf |  |  |  MSSP | Advanced MSS & MDR |
+| Booz Allen Hamilton |  |  |  MSSP | Advanced MSS & MDR |
+| Crowd Strike |  |  |  MSSP | Advanced MSS & MDR |
+| Esentire |  |  |  MSSP | Advanced MSS & MDR |
+| FireEye | (Duplicate) |  |  MSSP | Advanced MSS & MDR |
+| Netswitch  |  |  |  MSSP | Advanced MSS & MDR |
+| Paladion |  |  |  MSSP | Advanced MSS & MDR |
+| Rapid 7 |  |  |  MSSP | Advanced MSS & MDR |
+| Raytheon Foreground Security |  |  |  MSSP | Advanced MSS & MDR |
+| Rook Security |  |  |  MSSP | Advanced MSS & MDR |
+| Akamai  |  |  |  Web Security |  |
 
 
 
+
+- MSSP: Managed Security Service Provider
+- MSS & MDR: Managed Security Service & Managed Detection & Response
 
