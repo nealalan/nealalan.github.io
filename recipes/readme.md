@@ -10,6 +10,7 @@
 - Gajar halwa - warm carrot based dessert
 - Neal's Guacamole
 - Navrathan korma
+- Pineapple margarita
 
 
 ## Emeril's Mulligatawny Soup 
@@ -131,8 +132,9 @@ https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-
 Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers - tastes even better!)
 
 #### STEP 1 - Orange Mixture
+
 | AMT | Ingredient |
-|----|-----|
+|----|----|
 | 2.5 cups | water | 
 | 1 cup fresh | orange juice (or about 4 oranges juiced) - better with low/no pulp | 
 | 1/2 cup chopped | cilantro stems | 
@@ -143,6 +145,7 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 * Combine ingredients in a blender; process until smooth. Strain through a fine sieve over a bowl; discard solids.
 
 #### STEP 2
+
 | AMT | Ingredient |
 |----|-----|
 | 4-5 lb | bone-in pork shoulder, trimmed | 
@@ -160,6 +163,7 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 * Pour beans around (not on) pork.
 
 ### STEP 3
+
 | AMT | Ingredient |
 |----|-----|
 | 5 tsp | grape seed or avocado oil | 
@@ -180,6 +184,7 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 * Bring to a boil and simmer until reduced and thick, scraping pan to loosen browned bits. (If you let it sit while cooking, it will brown to the bottom to allow for scraping. This is desirable and easy to do in cast iron.) 
 
 #### STEP 4
+
 | AMT | Ingredient |
 |----|-----|
 | 1 | bay leaf | 
@@ -205,6 +210,7 @@ This is excellent served with sliced, oiled, salted (spiced to preference) and b
 Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauce-in-a-pressure-cooker
 
 #### Ingredients
+
 | AMT | Ingredient | Metric |
 |----|-----|----|
 | 3 pounds | apples | about 1.5 kg | 
@@ -229,6 +235,7 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 ## Gajar halwa - warm carrot based dessert
 
 #### Ingredients
+
 | Ingredient | AMT |
 |----|-----|
 | Grated carrot | 2 cups| 
@@ -280,12 +287,14 @@ Ginger -- 1/2 tsp
 Garlic -- 3/4 tsp 
 Green Chilli -- 2 to 3 (or can use regular red chilli/hot sauce)
 Cilantro (Coriander ) -- 2 tbsp (dried works)
+
 ##### Ingredients PART 2
 Cauliflower flowerettes -- 1/2 cup
 Frozen Peas -- 1/4 th cup
 Potatoes (Peeled) -- 1/2 cup (Cut into cubes) (i used sweet potatoes, which are wonderful!) 
 Carrots -- 1/3 cup (Peeled and cut into strips OR shreaded)
 Beans -- 1/3 cup ( Cut into strips) * (I don't add these because I didn't know what to use. Just use extra peas) *
+
 ##### Ingredients PART 3
 Turmeric Powder -- 1/2 tsp
 Cummin Powder -- 1/2 tsp
@@ -311,6 +320,45 @@ Oil -- as needed to fry paneer (i use corn oil)
 9. Mix (blend if desired) pineapple, cashews and almonds and add.
 10. Simmer for about 3 minutes. Serve hot in metal bowl.
 
+## Pineapple margarita
+
+- 1 lime
+- 1/2 cup pineapple
+- 1/4 cup lemon
+- 1/4 cup powered sugar
+- 2 cups ice
+- pinch salt
+- 1 cup tequilla
+- 1 cup tripple sec
+ 
+BLEND. DRINK.
+
+## Sunny summer squash soup (Vitamix)
+
+- *I like this soup blended smoother than my hand blender can get it.* 
+- Preparation time: 5 minute(s) | Cooking time: 45 minute(s)
+
+
+#### Ingredients
+- 1 large onion, chopped
+- 3 cloves garlic, minced
+- 1 small hot pepper, seeds removed and chopped
+- 2 ribs celery, strings removed and chopped
+- 2 medium (12-14 ounces) gold potatoes, peeled and cut into small dice
+- 1 1/2 pounds small yellow squash, chopped (or young zucchini)
+- 1 pinch white pepper
+- 4 cups vegetable broth
+- 1 teaspoon oregano
+- 1/2 teaspoon turmeric (optional, for color)
+- 2 tablespoons nutritional yeast (optional)
+- 1 tablespoon tahini (optional)
+- salt and white pepper, to taste (optional)
+- Garnish: slivers of red bell pepper
+
+#### Instructions
+1. Heat a large non-stick or enamel-coated pot over medium-high heat. Add the onion, reduce the heat to medium, and cook, covered but stirring every minute or so, until it begins to brown, about 5 minutes (add a little water if it tends to stick). Add the garlic and hot pepper and cook for another minute.
+2. Add all remaining ingredients except the optional ones. Cover and cook until the potatoes are completely tender (they will mash if lightly pressed with a spoon), about 25-40 minutes.
+3. Remove half of the soup and put it into a blender* and puree at high speed until completely smooth. (Be careful–hot liquids can erupt from your blender; I always remove the center cup from the lid and cover the opening with a kitchen towel.) Once it’s blended, pour the soup into another pot. Add the remaining soup to the blender, along with any optional ingredients you choose to use, and blend well. Add to the other half of the soup, and simmer for about 5 minutes. Ladle into bowls, garnish with slices of red bell pepper, and serve.
 
 
 
