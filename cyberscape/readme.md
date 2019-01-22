@@ -1,4 +1,4 @@
-# CyberScape v2.5 / 
+# CyberScape v2.5
 
 | Company       | HQ / Offices     | CareerSite    | Category    |
 |---------------|------------------|---------------|-------------|
