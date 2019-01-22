@@ -1,119 +1,117 @@
 # CyberScape v2.5
 
-## Network & Infrastructure Secutiry
+## Net & Infra Sec
 
 | Company       | HQ / Offices     | CareerSite    | Category    |
 |---------------|------------------|---------------|-------------|
-| Barracuda |  |  |  Threat Protection |
-| BlueVector |  |  | Threat Protection |
-| CheckPoint |  |  |  Threat Protection |
-| CISCO  |  |  |  Threat Protection |
-| FireEye  |  |  |  Threat Protection |
-| Fortinet  |  |  |  Threat Protection |
-| Huawei  |  |  |  Threat Protection |
-| Hysolate  |  |  |  Threat Protection |
-| JOESecurity  |  |  |  Threat Protection |
-| Juniper  |  |  |  Threat Protection |
-| LastLine  |  |  |  Threat Protection |
-| McAfee  |  |  |  Threat Protection |
-| Metapacket  |  |  |  Threat Protection |
-| OPSWAT  |  |  |  Threat Protection |
-| Palo Alto  |  |  |  Threat Protection |
-| Reversing Labs  |  |  |  Threat Protection |
-| Solebit  |  |  |  Threat Protection |
-| Sonicwall  |  |  |  Threat Protection |
-| SOPHOS |  |  Threat Protection |
-| Spamina  |  |  |  Threat Protection |
-| Symantec  |  |  |  Threat Protection |
-| VMRay  |  |  |  Threat Protection |
-| Votiro Secured  |  |  |  Threat Protection |
-| Watch Guard  |  |  |  Threat Protection |
-| Armis  |  |  |  NAC |
-| Auconet  |  |  |  NAC |
-| Axonius  |  |  |  NAC |
-| Bradform Networks  |  |  |  NAC |
-| CISCO (Duplicate)  |  |  |  NAC |
-| Extreme  |  |  |  NAC |
-| ForeScout  |  |  |  NAC |
-| Genians  |  |  |  NAC |
-| NetShield  |  |  |  NAC |
-| Portnox  |  |  |  NAC |
-| Trustwave  |  |  |  NAC |
-| BlackRidge Technology   |  |  |  SDN |
-| Certes Networks  |  |  |  SDN |
-| Cybera  |  |  |  SDN |
-| Cyxtera  |  |  |  SDN |
-| NanoSec  |  |  |  SDN |
-| Skyport Systemas  |  |  |  SDN |
-| Tempered Networks  |  |  |  SDN |
-| Versa Networks  |  |  |  SDN |
-| Viddewr  |  |  |  SDN |
-| Zentera  |  |  |  SDN |
-| Zscaler  |  |  |  SDN |
-| Akamai |  |  |  DDos Protection |
-| Check Point |  |  |  DDos Protection |
-| CloudFlare |  |  |  DDos Protection |
-| DOS arrest |  |  |  DDos Protection |
-| f5 |  |  |  DDos Protection |
-| Fortinet |  |  |  DDos Protection |
-| Imperva |  |  |  DDos Protection |
-| L7 Defense |  |  |  DDos Protection |
-| Neustar |  |  |  DDos Protection |
-| Nexus Guard |  |  |  DDos Protection |
-| NSFocus |  |  |  DDos Protection |
-| Oracle |  |  |  DDos Protection |
-| StackPath |  |  |  DDos Protection |
-| Verisign |  |  |  DDos Protection |
-| BlueCat |  |  |  DNS Security |
-| CISCO (Duplicate) |  |  |  DNS Security |
-| CrowdStrike |  |  |  DNS Security |
-| Cyren |  |  |  DNS Security |
-| efficient iP |  |  |  DNS Security |
-| 8888 |  |  |  DNS Security |
-| Infoblox |  |  |  DNS Security |
-| Neustar |  |  |  DNS Security |
-| Quad9 |  |  |  DNS Security |
-| Webroot  |  |  |  DNS Security |
-| Verisign {Duplicate) |  |  |  DNS Security |
-| Algosec |  |  |  Network Firewall |
-| Cato Networks |  |  |  Network Firewall |
-| Check Point (Duplicate) |  |  |  Network Firewall |
-| CISCO (Duplicate) |  |  |  Network Firewall |
-| Clavister |  |  |  Network Firewall |
-| Enbdian |  |  |  Network Firewall |
-| ForcePoint |  |  |  Network Firewall |
-| Fortinet (Duplicate) |  |  |  Network Firewall |
-| GAJ Shield |  |  |  Network Firewall |
-| Hillstone Networks |  |  |  Network Firewall |
-| Huawei (Duplicate) |  |  |  Network Firewall |
-| Op-aq Networks |  |  |  Network Firewall |
-| Palo Alto (Dupliate) |  |  |  Network Firewall |
-| Sangfor |  |  |  Network Firewall |
-| Secucloud |  |  |  Network Firewall |
-| Sonic Wall |  |  |  Network Firewall |
-| Sophos (Duplicate) |  |  |  Network Firewall |
-| Untangle |  |  |  Network Firewall |
-| CISCO (Duplicate) |  |  |  Network Analysis & Forensics |
-| CGS Tower Networks |  |  |  Network Analysis & Forensics |
-| CloudShark |  |  |  Network Analysis & Forensics |
-| CORE Security |  |  |  Network Analysis & Forensics |
-| Corvil |  |  |  Network Analysis & Forensics |
-| Dark Trace |  |  |  Network Analysis & Forensics |
-| Fidelis |  |  |  Network Analysis & Forensics |
-| Gigamon |  |  |  Network Analysis & Forensics |
-| ICEBRG |  |  |  Network Analysis & Forensics |
-| IronNet Cybersecurity |  |  |  Network Analysis & Forensics |
-| Lumeta |  |  |  Network Analysis & Forensics |
-| Netscout |  |  |  Network Analysis & Forensics |
-| PacketSled |  |  |  Network Analysis & Forensics |
-| Palo Alto (Dupliate)  |  |  |  Network Analysis & Forensics |
-| Protect Wise |  |  |  Network Analysis & Forensics |
-| SS8 |  |  |  Network Analysis & Forensics |
-| Utimaco |  |  |  Network Analysis & Forensics |
-| Vectra |  |  |  Network Analysis & Forensics |
-
-## MSSP
-
+| Barracuda |  |  |  Net & Infra Sec: Threat Protection |
+| BlueVector |  |  | Net & Infra Sec: Threat Protection |
+| CheckPoint |  |  |  Net & Infra Sec: Threat Protection |
+| CISCO  |  |  |  Net & Infra Sec: Threat Protection |
+| FireEye  |  |  |  Net & Infra Sec: Threat Protection |
+| Fortinet  |  |  |  Net & Infra Sec: Threat Protection |
+| Huawei  |  |  |  Net & Infra Sec: Threat Protection |
+| Hysolate  |  |  |  Net & Infra Sec: Threat Protection |
+| JOESecurity  |  |  |  Net & Infra Sec: Threat Protection |
+| Juniper  |  |  |  Net & Infra Sec: Threat Protection |
+| LastLine  |  |  |  Net & Infra Sec: Threat Protection |
+| McAfee  |  |  |  Net & Infra Sec: Threat Protection |
+| Metapacket  |  |  |  Net & Infra Sec: Threat Protection |
+| OPSWAT  |  |  |  Net & Infra Sec: Threat Protection |
+| Palo Alto  |  |  |  Net & Infra Sec: Threat Protection |
+| Reversing Labs  |  |  |  Net & Infra Sec: Threat Protection |
+| Solebit  |  |  |  Net & Infra Sec: Threat Protection |
+| Sonicwall  |  |  |  Net & Infra Sec: Threat Protection |
+| SOPHOS |  |  | Net & Infra Sec: Threat Protection |
+| Spamina  |  |  |  Net & Infra Sec: Threat Protection |
+| Symantec  |  |  |  Net & Infra Sec: Threat Protection |
+| VMRay  |  |  |  Net & Infra Sec: Threat Protection |
+| Votiro Secured  |  |  |  Net & Infra Sec: Threat Protection |
+| Watch Guard  |  |  |  Net & Infra Sec: Threat Protection |
+| Armis  |  |  |  Net & Infra Sec: NAC |
+| Auconet  |  |  |  Net & Infra Sec: NAC |
+| Axonius  |  |  |  Net & Infra Sec: NAC |
+| Bradform Networks  |  |  |  Net & Infra Sec: NAC |
+| CISCO (Duplicate)  |  |  |  Net & Infra Sec: NAC |
+| Extreme  |  |  |  Net & Infra Sec: NAC |
+| ForeScout  |  |  |  Net & Infra Sec: NAC |
+| Genians  |  |  | Net & Infra Sec:  NAC |
+| NetShield  |  |  |  Net & Infra Sec: NAC |
+| Portnox  |  |  |  Net & Infra Sec: NAC |
+| Trustwave  |  |  |  Net & Infra Sec: NAC |
+| BlackRidge Technology   |  |  |  Net & Infra Sec: SDN |
+| Certes Networks  |  |  |  Net & Infra Sec: SDN |
+| Cybera  |  |  |  Net & Infra Sec: SDN |
+| Cyxtera  |  |  |  Net & Infra Sec: SDN |
+| NanoSec  |  |  |  Net & Infra Sec: SDN |
+| Skyport Systemas  |  |  |  Net & Infra Sec: SDN |
+| Tempered Networks  |  |  |  Net & Infra Sec: SDN |
+| Versa Networks  |  |  |  Net & Infra Sec: SDN |
+| Viddewr  |  |  |  Net & Infra Sec: SDN |
+| Zentera  |  |  |  Net & Infra Sec: SDN |
+| Zscaler  |  |  |  Net & Infra Sec: SDN |
+| Akamai |  |  |  Net & Infra Sec: DDos Protection |
+| Check Point |  |  |  Net & Infra Sec: DDos Protection |
+| CloudFlare |  |  |  Net & Infra Sec: DDos Protection |
+| DOS arrest |  |  |  Net & Infra Sec: DDos Protection |
+| f5 |  |  | Net & Infra Sec: DDos Protection |
+| Fortinet |  |  |  Net & Infra Sec: DDos Protection |
+| Imperva |  |  |  Net & Infra Sec: DDos Protection |
+| L7 Defense |  |  |  Net & Infra Sec: DDos Protection |
+| Neustar |  |  |  Net & Infra Sec: DDos Protection |
+| Nexus Guard |  |  |  Net & Infra Sec: DDos Protection |
+| NSFocus |  |  |  Net & Infra Sec: DDos Protection |
+| Oracle |  |  |  Net & Infra Sec: DDos Protection |
+| StackPath |  |  |  Net & Infra Sec: DDos Protection |
+| Verisign |  |  |  Net & Infra Sec: DDos Protection |
+| BlueCat |  |  |  Net & Infra Sec: DNS Security |
+| CISCO (Duplicate) |  |  |  Net & Infra Sec: DNS Security |
+| CrowdStrike |  |  |  Net & Infra Sec: DNS Security |
+| Cyren |  |  |  Net & Infra Sec: DNS Security |
+| efficient iP |  |  |  Net & Infra Sec: DNS Security |
+| 8888 |  |  |  Net & Infra Sec: DNS Security |
+| Infoblox |  |  |  Net & Infra Sec: DNS Security |
+| Neustar |  |  |  Net & Infra Sec: DNS Security |
+| Quad9 |  |  |  Net & Infra Sec: DNS Security |
+| Webroot  |  |  |  Net & Infra Sec: DNS Security |
+| Verisign {Duplicate) |  |  |  Net & Infra Sec: DNS Security |
+| Algosec |  |  |  Net & Infra Sec: Network Firewall |
+| Cato Networks |  |  | Net & Infra Sec: Network Firewall |
+| Check Point (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| CISCO (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Clavister |  |  |  Net & Infra Sec: Network Firewall |
+| Enbdian |  |  |  Net & Infra Sec: Network Firewall |
+| ForcePoint |  |  | Net & Infra Sec: Network Firewall |
+| Fortinet (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| GAJ Shield |  |  |  Net & Infra Sec: Network Firewall |
+| Hillstone Networks |  |  |  Net & Infra Sec: Network Firewall |
+| Huawei (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Op-aq Networks |  |  |  Net & Infra Sec: Network Firewall |
+| Palo Alto (Dupliate) |  |  | Net & Infra Sec: Network Firewall |
+| Sangfor |  |  |  Net & Infra Sec: Network Firewall |
+| Secucloud |  |  |  Net & Infra Sec: Network Firewall |
+| Sonic Wall |  |  |  Net & Infra Sec: Network Firewall |
+| Sophos (Duplicate) |  |  |  Net & Infra Sec: Network Firewall |
+| Untangle |  |  |  Net & Infra Sec: Network Firewall |
+| CISCO (Duplicate) |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| CGS Tower Networks |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| CloudShark |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| CORE Security |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Corvil |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Dark Trace |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Fidelis |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Gigamon |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| ICEBRG |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| IronNet Cybersecurity |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Lumeta |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Netscout |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| PacketSled |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Palo Alto (Dupliate)  |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Protect Wise |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| SS8 |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Utimaco |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Vectra |  |  |  Net & Infra Sec: Network Analysis & Forensics |
+| Acalvio |  |  |  Net & Infra Sec: Deception |
 
 
 
