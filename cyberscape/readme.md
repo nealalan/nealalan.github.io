@@ -4,31 +4,30 @@
 
 | Company       | HQ / Offices     | CareerSite    | Category    |
 |---------------|------------------|---------------|-------------|
-| Barracuda |  |  |  Net & Infra Sec |
-| BlueVector |  |  |  Net & Infra Sec |
-| CheckPoint |  |  |  Net & Infra Sec |
-| CISCO  |  |  |  Net & Infra Sec |
-| FireEye  |  |  |  Net & Infra Sec |
-| Fortinet  |  |  |  Net & Infra Sec |
-| Huawei  |  |  |  Net & Infra Sec |
-| Hysolate  |  |  |  Net & Infra Sec |
-| JOESecurity  |  |  |  Net & Infra Sec |
-| Juniper  |  |  |  Net & Infra Sec |
-| LastLine  |  |  |  Net & Infra Sec |
-| McAfee  |  |  |  Net & Infra Sec |
-| Metapacket  |  |  |  Net & Infra Sec |
-| OPSWAT  |  |  |  Net & Infra Sec |
-| Palo Alto  |  |  |  Net & Infra Sec |
-| Reversing Labs  |  |  |  Net & Infra Sec |
-| Solebit  |  |  |  Net & Infra Sec |
-| Sonicwall  |  |  |  Net & Infra Sec |
-| 
-|  |  |  Net & Infra Sec |
-| Spamina  |  |  |  Net & Infra Sec |
-| Symantec  |  |  |  Net & Infra Sec |
-| VMRay  |  |  |  Net & Infra Sec |
-| Votiro Secured  |  |  |  Net & Infra Sec |
-| Watch Guard  |  |  |  Net & Infra Sec |
+| Barracuda |  |  |  Threat Protection |
+| BlueVector |  |  | Threat Protection |
+| CheckPoint |  |  |  Threat Protection |
+| CISCO  |  |  |  Threat Protection |
+| FireEye  |  |  |  Threat Protection |
+| Fortinet  |  |  |  Threat Protection |
+| Huawei  |  |  |  Threat Protection |
+| Hysolate  |  |  |  Threat Protection |
+| JOESecurity  |  |  |  Threat Protection |
+| Juniper  |  |  |  Threat Protection |
+| LastLine  |  |  |  Threat Protection |
+| McAfee  |  |  |  Threat Protection |
+| Metapacket  |  |  |  Threat Protection |
+| OPSWAT  |  |  |  Threat Protection |
+| Palo Alto  |  |  |  Threat Protection |
+| Reversing Labs  |  |  |  Threat Protection |
+| Solebit  |  |  |  Threat Protection |
+| Sonicwall  |  |  |  Threat Protection |
+| SOPHOS |  |  Threat Protection |
+| Spamina  |  |  |  Threat Protection |
+| Symantec  |  |  |  Threat Protection |
+| VMRay  |  |  |  Threat Protection |
+| Votiro Secured  |  |  |  Threat Protection |
+| Watch Guard  |  |  |  Threat Protection |
 | Armis  |  |  |  NAC |
 | Auconet  |  |  |  NAC |
 | Axonius  |  |  |  NAC |
