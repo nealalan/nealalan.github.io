@@ -197,7 +197,7 @@
 | Blue Ridge Networks |  |  |  Endpoint Security | Endpoint Prevention |
 | Bromlum  |  |  |  Endpoint Security | Endpoint Prevention |
 | BufferZone  |  |  |  Endpoint Security | Endpoint Prevention |
-| Carbon Black  |  |  |  Endpoint Security | Endpoint Prevention |
+| Carbon Black  | Global, CO, IL, HQ: MA | [carbonblack.com](https://carbonblack.wd1.myworkdayjobs.com/Life_at_Cb) |  Endpoint Security | Endpoint Prevention |
 | CheckPoint  | (Duplicate) |  |  Endpoint Security | Endpoint Prevention |
 
 
