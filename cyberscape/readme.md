@@ -1,7 +1,5 @@
 # CyberScape v2.5
 
-## Net & Infra Sec
-
 | Company       | HQ / Offices     | CareerSite    | Category    | Specialty
 |---------------|------------------|---------------|-------------|-------------|
 | Barracuda |  |  |  Net & Infra Sec | Threat Protection |
@@ -152,10 +150,59 @@
 | Raytheon Foreground Security |  |  |  MSSP | Advanced MSS & MDR |
 | Rook Security |  |  |  MSSP | Advanced MSS & MDR |
 | Akamai  |  |  |  Web Security |  |
-
+| AppRiver |  |  |  Web Security |  |
+| AurionPro |  |  |  Web Security |  |
+| AuthenticB |  |  |  Web Security |  |
+| Barracuda | (Duplicate) |  |  Web Security |  |
+| Check Point  | (Duplicate) |  |  Web Security |  |
+| CISCO DUP |  |  |  Web Security |  |
+| Content Keeper |  |  |  Web Security |  |
+| Cyren | (Duplicate) |  |  Web Security |  |
+| Distil Networks |  |  |  Web Security |  |
+| Edge Wave |  |  |  Web Security |  |
+| Ericom |  |  |  Web Security |  |
+| f5 DUP |  |  |  Web Security |  |
+| ForcePoint  | (Duplicate) |  |  Web Security |  |
+| Fortinet  | (Duplicate) |  |  Web Security |  |
+| GWAVA |  |  |  Web Security |  |
+| iBoss Distr Gateway Platform |  |  |  Web Security |  |
+| Light Point Security |  |  |  Web Security |  |
+| McAfff  | (Duplicate) |  |  Web Security |  |
+| Menlo Security |  |  |  Web Security |  |
+| Namogoo |  |  |  Web Security |  |
+| PerimeterX |  |  |  Web Security |  |
+| ProofPoint |  |  |  Web Security |  |
+| Randed |  |  |  Web Security |  |
+| Reblaze |  |  |  Web Security |  |
+| Shape |  |  |  Web Security |  |
+| Shield Square |  |  |  Web Security |  |
+| SmoothWall |  |  |  Web Security |  |
+| SOPHOS  | (Duplicate) |  |  Web Security |  |
+| Spamina  | (Duplicate) |  |  Web Security |  |
+| Source Defense |  |  |  Web Security |  |
+| Stealth Security  |  |  |  Web Security |  |
+| Symantec  | (Duplicate) |  |  Web Security |  |
+| Trend Micro |  |  |  Web Security |  |
+| TrustWave  | (Duplicate) |  |  Web Security |  |
+| Unboxify |  |  |  Web Security |  |
+| WhiteOps |  |  |  Web Security |  |
+| Zscaler  | (Duplicate) |  |  Web Security |  |
+| AnhLab |  |  |  Endpoint Security | Endpoint Prevention |
+| Avast |  |  |  Endpoint Security | Endpoint Prevention |
+| Avecto  |  |  |  Endpoint Security | Endpoint Prevention |
+| Avira  |  |  |  Endpoint Security | Endpoint Prevention |
+| Barkley  |  |  |  Endpoint Security | Endpoint Prevention |
+| Binary Defense  |  |  |  Endpoint Security | Endpoint Prevention |
+| Bit Defender  |  |  |  Endpoint Security | Endpoint Prevention |
+| Blue Ridge Networks |  |  |  Endpoint Security | Endpoint Prevention |
+| Bromlum  |  |  |  Endpoint Security | Endpoint Prevention |
+| BufferZone  |  |  |  Endpoint Security | Endpoint Prevention |
+| Carbon Black  |  |  |  Endpoint Security | Endpoint Prevention |
+| CheckPoint  | (Duplicate) |  |  Endpoint Security | Endpoint Prevention |
 
 
 
 - MSSP: Managed Security Service Provider
 - MSS & MDR: Managed Security Service & Managed Detection & Response
 
+[[edit](https://github.com/nealalan/nealalan.github.io/edit/master/cyberscape/readme.md)]
