@@ -1,10 +1,10 @@
-# CyberScape v2.5
+# CyberScape / Cybersecurity Landscape v2.5
 
-| Company       | HQ / Offices (US/EU)  | CareerSite    | Category    | Specialty
+| Company       | HQ / Tech Offices (US/EU)  | CareerSite    | Category    | Specialty
 |---------------|------------------|---------------|-------------|-------------|
-| Barracuda | Austria, UK, CA, MA, MI, GA, VA, IL | [barracuda.com](https://www.barracuda.com/company/careers) |  Net & Infra Sec | Threat Protection |
-| BlueVector |  |  | Net & Infra Sec |  Threat Protection |
-| CheckPoint |  |  |  Net & Infra Sec |  Threat Protection |
+| Barracuda | AT, UK, MA, MI, GA, VA, IL, HQ: CA | [barracuda.com](https://www.barracuda.com/company/careers) |  Net & Infra Sec | Threat Protection |
+| BlueVector | HQ: VA | [bluevector.io](https://www.bluvector.io/about/careers/) | Net & Infra Sec |  Threat Protection |
+| CheckPoint | Global, HQ: CA | [checkpoint.com](https://careers.checkpoint.com/) |  Net & Infra Sec |  Threat Protection |
 | CISCO  |  |  |  Net & Infra Sec |  Threat Protection |
 | FireEye  |  |  |  Net & Infra Sec |  Threat Protection |
 | Fortinet  |  |  |  Net & Infra Sec |  Threat Protection |
@@ -201,7 +201,7 @@
 | CheckPoint  | (Duplicate) |  |  Endpoint Security | Endpoint Prevention |
 
 
-
+- AT: Austria
 - MSSP: Managed Security Service Provider
 - MSS & MDR: Managed Security Service & Managed Detection & Response
 
