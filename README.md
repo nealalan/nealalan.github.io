@@ -107,7 +107,12 @@ Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserve
 
 
 # Coding
-[W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
+
+### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
+Notes on using Python 3 for Sys Admins
+
+#### [W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
+
 # Other Links and Deals
 [Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
 
