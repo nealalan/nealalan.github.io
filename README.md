@@ -12,7 +12,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 # PROJECTS
 
-### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
+### nealalan.*/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
 Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
 
 ### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
