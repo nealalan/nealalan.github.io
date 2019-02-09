@@ -61,6 +61,13 @@ Links related to: [daily reading](https://nealalan.github.io/security/#daily-rea
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
 
 
+# Coding
+
+### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
+Notes on using Python 3 for Sys Admins
+
+#### [W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
+
 
 
 # NOTES & EXPERIMENTATIONS
@@ -106,12 +113,6 @@ Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserve
 
 
 
-# Coding
-
-### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
-Notes on using Python 3 for Sys Admins
-
-#### [W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 # Other Links and Deals
 [Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
