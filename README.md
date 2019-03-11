@@ -1,8 +1,8 @@
 ## [nealalan.github.io](https://nealalan.github.io) a.k.a. Neal Dreher 
 
-### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
+#### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
 
-### [gist.github.com/nealalan](https://gist.github.com/nealalan)
+#### [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
 ```bash
 # IMPORT nealalan's PGP / GPG key
