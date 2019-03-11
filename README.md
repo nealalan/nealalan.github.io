@@ -101,7 +101,7 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 
 #### nealalan.github.io/[playlist](https://nealalan.github.io/playlist) ([repo](https://github.com/nealalan.github.io/playlist))
 
-#### nealalan.github.io/[recipes/](https://nealalan.github.io/recipes/) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/recipes))
+#### nealalan.github.io/[recipes](https://nealalan.github.io/recipes) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/recipes))
 Just a bunch of recipes I've saved and want to be able to share and find easily.
 
 
