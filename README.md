@@ -11,7 +11,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## PROJECTS
 
-#### nealalan.github.io/[di.fm_playlist_menu/](https://nealalan.github.io/di.fm_playlist_menu/) ([repo](https://github.com/nealalan/i.fm_playlist_menu))
+#### nealalan.github.io/[di.fm_playlist_menu/](https://nealalan.github.io/di.fm_playlist_menu/) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and run a menu to play the playlists from the command line
 
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
