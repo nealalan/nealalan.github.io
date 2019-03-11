@@ -10,35 +10,38 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 
 
-# PROJECTS
+## PROJECTS
 
-### nealalan.*/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
+#### [nealalan.github.io/di.fm_playlist_menu/](https://nealalan.github.io/di.fm_playlist_menu/) ([repo](https://github.com/nealalan/i.fm_playlist_menu))
+BASH scripts to create channel playlists and run a menu to play the playlists from the command line
+
+#### nealalan.*/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
 Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
 
-### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
+#### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
 Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for nealalan.com and neonaluminum.com 
 
-### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
+#### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Setup for a secure nginx website on the AWS free tier<br>
 Example: https://neonaluminum.com
 Note: Only the initial account setup and IAM setup are useful here, the rest can be done using terraform project [tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/)
 
-### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
+#### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
 Chicago Transit Authority (trains & busses) location reporting, route reporting, stop reporting
 
-### nealalan.github.io/[quiz-giver-sec-plus](https://nealalan.github.io/quiz-giver-sec-plus) ([repo](https://github.com/nealalan/quiz-giver-sec-plus))
+#### nealalan.github.io/[quiz-giver-sec-plus](https://nealalan.github.io/quiz-giver-sec-plus) ([repo](https://github.com/nealalan/quiz-giver-sec-plus))
 Python program to give multiple choice questions and answers to study for the Security Plus exam.
 
-### nealalan.github.io/[update_route53](https://nealalan.github.io/update_route53) ([repo](https://github.com/nealalan/update_route53))
+#### nealalan.github.io/[update_route53](https://nealalan.github.io/update_route53) ([repo](https://github.com/nealalan/update_route53))
 Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will automatically run ti update an AWS Route 53 DNS record with the EC2 public IP address. This will let a user go to a website via the domain name and let an administrator ssh directly to a server using the domain name instead of the IP address.<br>
 Note: You will need an IAM credential installed under the instance root account, with DNS specific authority
 
-### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts))
+#### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts))
 Some python and bash scripts
 
-### nealalan.github.io/[cpp_one_pagers](https://nealalan.github.io/cpp_one_pagers) ([repo](https://github.com/nealalan/cpp_one_pagers))
+#### nealalan.github.io/[cpp_one_pagers](https://nealalan.github.io/cpp_one_pagers) ([repo](https://github.com/nealalan/cpp_one_pagers))
 Some old CPP code I wrote in high school and college. I put it here as I come across it and may play with it if I decide to move from C++98 to C++17
 
 
