@@ -50,7 +50,7 @@ Some old CPP code I wrote in high school and college. I put it here as I come ac
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
 Commands I use cheat sheet: [commands 101](https://github.com/nealalan/command#commands-101), [accounts & sys admin](https://github.com/nealalan/command#accounts--sys-administration), [audio/video](https://github.com/nealalan/command#audio--video), [AWS](https://github.com/nealalan/command#aws), [configurations - MacOS](https://github.com/nealalan/command#configurations), [CTF/DevSec/PenTest](https://github.com/nealalan/command#ctf--devsec--pentest), [dev tools](https://github.com/nealalan/command#dev-tools-code--scripting), [encryption](https://github.com/nealalan/command#encryption), [files](https://nealalan.github.io/command/#files), [fonts](https://github.com/nealalan/command#fonts), [git](https://nealalan.github.io/command/#git--github--hub), [images/graphics](https://github.com/nealalan/command#images--graphics), [monitoring](https://github.com/nealalan/command#monitoring), [networking](https://nealalan.github.io/command/#networking), [package managers](https://github.com/nealalan/command#package-managers), [searching](https://nealalan.github.io/command/#searching), [tools & software](https://github.com/nealalan/command#tools--software), [wordpress](https://nealalan.github.io/command/#wordpress)
 
-#### nealalan.github.io[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
+#### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
 
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
 Repo to sync across my Macs
@@ -67,7 +67,7 @@ Links related to: [news](https://nealalan.github.io/command/#general-news), clou
 
 ## CODING & SCRIPTING
 
-#### nealalan.github.io[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
+#### nealalan.github.io/[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
 JavaScript notes 
 
 #### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises))
