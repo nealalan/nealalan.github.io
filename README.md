@@ -80,13 +80,10 @@ Notes on using Python 3 for Sys Admins
 
 
 
-## NOTES & EXPERIMENTATIONS
+## NOTES & LABS
 
 #### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
 API notes and labs I have played around with in Dec 2018
-
-#### nealalan.github.io/[api-stuff-201901](https://nealalan.github.io/api-stuff-201901/) ([repo](https://github.com/nealalan/api-stuff-201901))
-API notes and labs I have played around with in Jan 2019
 
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
 Whitepaper notes, cheat sheet notes on AWS Services
@@ -121,11 +118,6 @@ Backup for [nealalan.com](https://nealalan.com) used when a new webserver is pro
 #### nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
 
-
-
-
-## Other Links and Deals
-[Lasko Auto Parts](https://www.lascoautoparts.com/) - Use code MOTIONAUTOTV [MotionAutoTv](https://www.youtube.com/channel/UCAPTWfGyjd_BCQFSblGUENQ)
 
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
