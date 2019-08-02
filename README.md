@@ -8,38 +8,25 @@
 
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and run a menu to play the playlists from the command line
-
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
 Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
-
 #### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
 Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for multiple domains. 
-
 #### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Instructions and exmplanations to manually setup a secure nginx website on the AWS free tier<br>
-
 #### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
 Chicago Transit Authority (trains & busses) location reporting, route reporting, stop reporting
-
 #### nealalan.github.io/[quiz-giver-sec-plus](https://nealalan.github.io/quiz-giver-sec-plus) ([repo](https://github.com/nealalan/quiz-giver-sec-plus))
 Python program to give multiple choice questions and answers to study for the Security Plus exam.
-
 #### nealalan.github.io/[update_route53](https://nealalan.github.io/update_route53) ([repo](https://github.com/nealalan/update_route53))
-Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will automatically run ti update an AWS Route 53 DNS record with the EC2 public IP address. This will let a user go to a website via the domain name and let an administrator ssh directly to a server using the domain name instead of the IP address.<br>
-Note: You will need an IAM credential installed under the instance root account, with DNS specific authority
-
+Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will automatically update AWS Route 53 DNS records with the EC2 public IP address. This is useful when a server doesn't have a static IP address.
 #### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts))
 Some python and bash scripts
 
-#### nealalan.github.io/[cpp_one_pagers](https://nealalan.github.io/cpp_one_pagers) ([repo](https://github.com/nealalan/cpp_one_pagers))
-Some old CPP code I wrote in high school and college. I put it here as I come across it and may play with it if I decide to move from C++98 to C++17
-
-
-
 ## REFERENCE 
-
+#### Gist: [Processing Photos: Phone -> Library](https://gist.github.com/nealalan/0b24bcde2b71cfeb2dc07c4fea249ba6)
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
@@ -52,11 +39,7 @@ Links related to: [news](https://nealalan.github.io/command/#general-news), clou
 ## CODING & SCRIPTING
 
 #### nealalan.github.io/[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
-JavaScript notes 
-
-#### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises))
-JavaScript and Python coding exercised
-
+#### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises)) - JavaScript and Python coding exercised
 #### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
 Notes on using Python 3 for Sys Admins
 
