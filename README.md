@@ -141,8 +141,74 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ### infrastructure
 - [Router vs Switch](https://www.diffen.com/difference/Router_vs_Switch) besides layer 3 vs layer 2
 
+## SECURITY LINKS
+
+### daily reading
+- [AWS Security Blog](https://aws.amazon.com/blogs/security/)
+- [(Bruce) Schneier on Security](https://www.schneier.com/) - [about Bruce](https://www.schneier.com/blog/about/)
+- [Dark Reading](https://www.darkreading.com/)
+- [Debian Security](https://security.debian.org/)
+- [Defense Tech - Military.com](https://www.military.com/defensetech)
+- [Forbes Security](https://www.forbes.com/security)
+- [Google Security Blog](https://security.googleblog.com/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Reddit netsec](http://reddit.com/r/netsec)
+- [Security Focus](https://www.securityfocus.com/) - Vulnerabilities, vulnerabilities, vulnerabilities
+- [The Hacker News](https://thehackernews.com/) - Cyber Sec, Hacking News, Security in a serious way
+- [Threat Post: Featured](https://threatpost.com/category/featured/) - The First Stop for Security News
+- [Y Combinator: Hacking News](https://news.ycombinator.com/) - seed funding for startups in Mt. View, CA
+- [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
+- [Full Disclosure - seclists.com](http://seclists.org/fulldisclosure/) Mailing list archive
+
+### podcasts 
+- [Gibson Research: Security Now](https://www.grc.com/securitynow.htm) - large episode archive on the site
+- [Threat Post Podcast](https://threatpost.com/tag/threatpost-podcast/)
+- [Tenable Security Weekly](https://securityweekly.com/tag/tenable/)
+
+### whitepapers & writeups 
+- [Google Cloud Security & Compliance Whitepaper](https://storage.googleapis.com/gfw-touched-accounts-pdfs/google-cloud-security-and-compliance-whitepaper.pdf)
+- [Dark Reading: Security Whitepapers](http://www.informationweek.com/whitepaper/Security?gset=yes&)
+- [HOW I HACKED MR. ROBOT (CTF WALKTHROUGH)](https://www.rastating.com/how-i-hacked-mr-robot/) - PUBLISHED MAY 29TH 2017 BY ROB CARR
+
+### scanning & monitoring
+- [Wireshark](https://www.wireshark.org/) - Go deep
+- [Port Swigger: Burp Suite](https://portswigger.net/burp) [News](https://portswigger.net/news) - Proxying traffic
+
+### testing
+- [securityheaders.io](https://securityheaders.io/) - test the security headers for a website, rated F to A+
+- [Qualys SSL Labs Server Test](ssllabs.com/ssltest/)
+- [httpbin(1): HTTP Request & Response Service](http://httpbin.org) - LOVE LOVE THIS SITE AND WHAT IT CAN DO - BEST FOR LAST?
+
+### osint
+- https://github.com/jivoi/awesome-osint
+- http://osintframework.com/ - listing of a bunch of tools/sites
+- [https://haveibeenpwned.com](https://haveibeenpwned.com)
+- [Wayback Machine](http://www.wayback.com/)
+- [Down Detector](http://downdetector.com)
+
+### bug bounty
+- [Hacker One](HackerOne: Bug Bounty, Vulnerability Coordination)
+
+### vulnerabilities
+- [Vulnhub](https://www.vulnhub.com/) - gain practical 'hands-on' experience in digital security, computer software & network administration.
+- [webscantest.com](http://webscantest.com) - Use this site to test a scanner to see if it finds the vulnerabilities.
+- [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - In wiki format! <3
+
+### conventions
+- [DEFCON](https://www.defcon.org/) Las Vegas, August
+- [THOTCON](https://thotcon.org/) [links](https://thotcon.org/links.html) Chicago, May
+- [token.wtf](https://token.wtf/)
+
+### locksmithery
+- [Americal Key Supply](https://americankeysupply.com/) a few good deals, use to be better
+- [Bowley Lock](https://www.bowleylockcompany.com/) one of the most security keyways ever made
+- [Key Craze](https://www.keycraze.com/) - keys and pins supplies
+- [Sparrows Lock Picks](https://www.sparrowslockpicks.com/)
+- YouTube [Bosnian Bill](https://www.youtube.com/user/bosnianbill) and his site [Lock Lab](http://lock-lab.com/)
+- YouTube [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 
 
 
+<br><br>
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
 
