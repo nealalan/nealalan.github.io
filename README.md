@@ -3,6 +3,7 @@
 #### [nealalan.github.io](https://nealalan.github.io) / [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
 <br>
+
 ## PROJECTS
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and a menu to play playlists from the command line
@@ -18,6 +19,7 @@ Python program to give multiple choice questions and answers to study for the Se
 Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will automatically update AWS Route 53 DNS records with the EC2 public IP address. This is useful when a server doesn't have a static IP address.
 
 <br>
+
 ## CODING & SCRIPTING
 #### nealalan.github.io/[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
 #### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises)) - JavaScript and Python coding exercised
@@ -32,6 +34,7 @@ Chicago Divvy Bike Share API parsing and reporting<br>
 Chicago Transit Authority (trains & busses) location reporting, route reporting, stop reporting
 
 <br>
+
 ## NOTES 
 #### Gist: [Processing Photos: Phone -> Library](https://gist.github.com/nealalan/0b24bcde2b71cfeb2dc07c4fea249ba6)
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
@@ -43,6 +46,7 @@ Notes on learning and experimenting with DevOps Tools
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
 
 <br>
+
 ## JUST FOR FUN
 #### nealalan.github.io/[geocaching](https://nealalan.github.io/geocaching) ([repo](https://github.com/nealalan/geocaching))
 Links to geocaching pages - since the site is too chaotic to find what you need sometimes
@@ -50,6 +54,7 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 Just a bunch of recipes I've saved and want to be able to share and find easily.
 
 <br>
+
 ## BACKUPS
 #### nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
 Backup for [nealalan.com](https://nealalan.com) used when a new webserver is provisioned
@@ -57,6 +62,7 @@ Backup for [nealalan.com](https://nealalan.com) used when a new webserver is pro
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
 
 <br>
+
 ## PGP KEY
 ```bash
 # IMPORT nealalan's PGP / GPG key
