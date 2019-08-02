@@ -4,11 +4,6 @@
 
 #### [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
-```bash
-# IMPORT nealalan's PGP / GPG key
-$ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
-```
-
 ## PROJECTS
 
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
@@ -18,12 +13,10 @@ BASH scripts to create channel playlists and run a menu to play the playlists fr
 Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
 
 #### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
-Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for nealalan.com and neonaluminum.com 
+Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for multiple domains. 
 
 #### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
-Setup for a secure nginx website on the AWS free tier<br>
-Example: https://neonaluminum.com
-Note: Only the initial account setup and IAM setup are useful here, the rest can be done using terraform project [tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/)
+Instructions and exmplanations to manually setup a secure nginx website on the AWS free tier<br>
 
 #### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
 Transportation data related scripts in Python<br>
@@ -48,7 +41,6 @@ Some old CPP code I wrote in high school and college. I put it here as I come ac
 ## REFERENCE 
 
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
-Commands I use cheat sheet: [commands 101](https://github.com/nealalan/command#commands-101), [accounts & sys admin](https://github.com/nealalan/command#accounts--sys-administration), [audio/video](https://github.com/nealalan/command#audio--video), [AWS](https://github.com/nealalan/command#aws), [configurations - MacOS](https://github.com/nealalan/command#configurations), [CTF/DevSec/PenTest](https://github.com/nealalan/command#ctf--devsec--pentest), [dev tools](https://github.com/nealalan/command#dev-tools-code--scripting), [encryption](https://github.com/nealalan/command#encryption), [files](https://nealalan.github.io/command/#files), [fonts](https://github.com/nealalan/command#fonts), [git](https://nealalan.github.io/command/#git--github--hub), [images/graphics](https://github.com/nealalan/command#images--graphics), [monitoring](https://github.com/nealalan/command#monitoring), [networking](https://nealalan.github.io/command/#networking), [package managers](https://github.com/nealalan/command#package-managers), [searching](https://nealalan.github.io/command/#searching), [tools & software](https://github.com/nealalan/command#tools--software), [wordpress](https://nealalan.github.io/command/#wordpress)
 
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
 
@@ -56,14 +48,12 @@ Commands I use cheat sheet: [commands 101](https://github.com/nealalan/command#c
 Repo to sync across my Macs
 
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
-Notes on setting up a clean and minimal Mac Book Pro install. The next setup will be on Ubuntu, since Mac's that are pre-Siri are limited on the OS version and limited on modern software installs. But these machines are cheap and great for Ubuntu with an SSD and maxed memory.
 
 #### nealalan.github.io/[security](https://nealalan.github.io/security) ([repo](https://github.com/nealalan/security))
 Links related to: [daily reading](https://nealalan.github.io/security/#daily-reading), [locksmithery](https://nealalan.github.io/security/#locksmithery), [podcasts](https://nealalan.github.io/security/#podcasts), [twitter](https://nealalan.github.io/security/#twitter), [white papers](https://nealalan.github.io/security/#whitepapers--writeups), [secure testing](https://nealalan.github.io/security/#testing), [scanning & monitoring](https://nealalan.github.io/security/#scanning--monitoring), [osint](https://nealalan.github.io/security/#osint), [hackers](https://nealalan.github.io/security/#hackers), [vulnerabilities](https://nealalan.github.io/security/#vulnerabilities), [history](https://nealalan.github.io/security/#history)
 
 #### nealalan.github.io/[tech](https://nealalan.github.io/tech) ([repo](https://github.com/nealalan/tech))
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
-
 
 ## CODING & SCRIPTING
 
@@ -76,10 +66,6 @@ JavaScript and Python coding exercised
 #### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
 Notes on using Python 3 for Sys Admins
 
-#### [W3Schools: Python Tutorial](https://www.w3schools.com/python/default.asp)
-
-
-
 ## NOTES & LABS
 
 #### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
@@ -90,13 +76,6 @@ Whitepaper notes, cheat sheet notes on AWS Services
 
 #### nealalan.github.io/[devops-tools-notes](https://nealalan.github.io/devops-tools-notes/) ([repo](https://github.com/nealalan/devops-tools-notes))
 Notes on learning and experimenting with DevOps Tools
-
-
-
-## CAREER
-
-#### nealalan.github.io/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job)
-Some of the Colorado and Austin, TX area companies I watch for positions to continue my career in. A breakdown of the positions include [nealalan.github.io/i_really_want_an_IT_job/devops/](https://nealalan.github.io/i_really_want_an_IT_job/devops/)
 
 
 ## JUST FOR FUN
@@ -117,6 +96,12 @@ Backup for [nealalan.com](https://nealalan.com) used when a new webserver is pro
 
 #### nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
+
+
+```bash
+# IMPORT nealalan's PGP / GPG key
+$ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
+```
 
 
 
