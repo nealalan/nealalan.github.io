@@ -1,12 +1,8 @@
 # Neal Dreher 
-
 #### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
-
 #### [nealalan.github.io](https://nealalan.github.io) / [gist.github.com/nealalan](https://gist.github.com/nealalan)
-
 <br>
 ## PROJECTS
-
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and a menu to play playlists from the command line
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
@@ -19,9 +15,8 @@ Instructions and exmplanations to manually setup a secure nginx website on the A
 Python program to give multiple choice questions and answers to study for the Security Plus exam.
 #### nealalan.github.io/[update_route53](https://nealalan.github.io/update_route53) ([repo](https://github.com/nealalan/update_route53))
 Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will automatically update AWS Route 53 DNS records with the EC2 public IP address. This is useful when a server doesn't have a static IP address.
-
+<br>
 ## CODING & SCRIPTING
-
 #### nealalan.github.io/[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
 #### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises)) - JavaScript and Python coding exercised
 #### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts)) - Some python and bash scripts
@@ -33,9 +28,8 @@ API notes and labs I have played around with in Dec 2018
 Transportation data related scripts in Python<br>
 Chicago Divvy Bike Share API parsing and reporting<br>
 Chicago Transit Authority (trains & busses) location reporting, route reporting, stop reporting
-
+<br>
 ## NOTES 
-
 #### Gist: [Processing Photos: Phone -> Library](https://gist.github.com/nealalan/0b24bcde2b71cfeb2dc07c4fea249ba6)
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
@@ -44,36 +38,31 @@ Whitepaper notes, cheat sheet notes on AWS Services
 Notes on learning and experimenting with DevOps Tools
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
-
+<br>
 ## JUST FOR FUN
-
 #### nealalan.github.io/[geocaching](https://nealalan.github.io/geocaching) ([repo](https://github.com/nealalan/geocaching))
 Links to geocaching pages - since the site is too chaotic to find what you need sometimes
 #### nealalan.github.io/[recipes](https://nealalan.github.io/recipes) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/recipes))
 Just a bunch of recipes I've saved and want to be able to share and find easily.
-
+<br>
 ## BACKUPS
-
 #### nealalan.github.io/nealalan.com ([repo](https://github.com/nealalan/nealalan.com))
 Backup for [nealalan.com](https://nealalan.com) used when a new webserver is provisioned
 #### nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
 
-
 ```bash
 # IMPORT nealalan's PGP / GPG key
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
-
+<br>
 ## TECH LINKS
-
 #### general news
 - [AWS News](http://aws.amazon.com/about-aws/whats-new)
 - [CS Monitor Sci/Tech](http://www.csmonitor.com)
 - [Google Cloud Shell](https://console.cloud.google.com/cloudshell): [Documentation](https://cloud.google.com/shell/docs/)
 - [Mac Rumors](https://macrumors.com)
 - [Wired: Top Stories](http://www.wired.com)
-
 #### people
 - [Bjarne Stroustrup](http://www.stroustrup.com/) invented C++ 
 - [Elon Musk](https://twitter.com/elonmusk) must be an alien
@@ -81,7 +70,6 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Steve Wozniak](https://twitter.com/stevewoz) pretty much invented the computer as we know it
 - [Sundar Pichai](https://en.wikipedia.org/wiki/Sundar_Pichai) Google CEO
 - [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook) values the importance of intuition
-
 #### not people
 - [Alexa](https://developer.amazon.com/alexa) [@alexa](https://twitter.com/search?q=alexa) & [Lex](https://en.wikipedia.org/wiki/Amazon_Lex) amazon 
 - [AliGenie](https://open.bot.tmall.com/) open source.... not yet any sites in English
@@ -93,7 +81,6 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Tay (bot)](https://en.wikipedia.org/wiki/Tay_(bot)) microsoft
 - [VIV](https://en.wikipedia.org/wiki/Viv_(software)) by siri engineers bought by samsung forced into Bixby
 - COMPARISONS [wikipedia](https://en.wikipedia.org/wiki/Virtual_assistant_(artificial_intelligence)#Full_comparison_of_assistants)
-
 #### dev > python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) xml / html parsing
 - [exif data library](http://smarnach.github.io/pyexiftool/)
@@ -102,32 +89,25 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [JSON Handling](http://docs.python.org/library/markup)
 - [Pandas](http://pandas.pydata.org/) data analytics
 - [Python 3 Documentation](https://docs.python.org/3/) @ python.org
-
 #### dev > C, C++, Hardware Dev
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B) [v. C++98 / Standardization](https://en.wikipedia.org/wiki/C%2B%2B#Standardization) [v. C++17](https://en.wikipedia.org/wiki/C%2B%2B17) [v. C++20](https://en.wikipedia.org/wiki/C%2B%2B20)
 - [C / C++ for Raspberry Pi](http://www.raspberry-projects.com/pi/category/programming-in-c)
-
 #### dev > data
 - [Chicago Transit Authority Developer Center](http://www.transitchicago.com/developers/) - 'L' train and bus APIs 
 - [City of Chicago Datasets](https://data.cityofchicago.org/)
 - [Cook County Datasets : Arcgis](http://hub-cookcountyil.opendata.arcgis.com/datasets) and related [Apps](https://hub-cookcountyil.opendata.arcgis.com/pages/application-gallery)
 - [Open Government Data](https://opengovernmentdata.org/)
-
 #### data & maps
 - [Cook County Medical Examiner's Data Map](https://cc-apps.esriemcs.com/MedExamGallery/)
-
 #### data manipulation
 - [Regexr](https://regexr.com/) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-
 #### systems, software and tools
 - [Kali Linux](https://www.kali.org/)
 - [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
-
 #### infrastructure
 - [Router vs Switch](https://www.diffen.com/difference/Router_vs_Switch) besides layer 3 vs layer 2
-
+<br>
 ## SECURITY LINKS
-
 #### daily reading
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/)
 - [(Bruce) Schneier on Security](https://www.schneier.com/) - [about Bruce](https://www.schneier.com/blog/about/)
@@ -144,46 +124,37 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Y Combinator: Hacking News](https://news.ycombinator.com/) - seed funding for startups in Mt. View, CA
 - [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
 - [Full Disclosure - seclists.com](http://seclists.org/fulldisclosure/) Mailing list archive
-
 #### podcasts 
 - [Gibson Research: Security Now](https://www.grc.com/securitynow.htm) - large episode archive on the site
 - [Threat Post Podcast](https://threatpost.com/tag/threatpost-podcast/)
 - [Tenable Security Weekly](https://securityweekly.com/tag/tenable/)
-
 #### whitepapers & writeups 
 - [Google Cloud Security & Compliance Whitepaper](https://storage.googleapis.com/gfw-touched-accounts-pdfs/google-cloud-security-and-compliance-whitepaper.pdf)
 - [Dark Reading: Security Whitepapers](http://www.informationweek.com/whitepaper/Security?gset=yes&)
 - [HOW I HACKED MR. ROBOT (CTF WALKTHROUGH)](https://www.rastating.com/how-i-hacked-mr-robot/) - PUBLISHED MAY 29TH 2017 BY ROB CARR
-
 #### scanning & monitoring
 - [Wireshark](https://www.wireshark.org/) - Go deep
 - [Port Swigger: Burp Suite](https://portswigger.net/burp) [News](https://portswigger.net/news) - Proxying traffic
-
 #### testing
 - [securityheaders.io](https://securityheaders.io/) - test the security headers for a website, rated F to A+
 - [Qualys SSL Labs Server Test](ssllabs.com/ssltest/)
 - [httpbin(1): HTTP Request & Response Service](http://httpbin.org) - LOVE LOVE THIS SITE AND WHAT IT CAN DO - BEST FOR LAST?
-
 #### osint
 - https://github.com/jivoi/awesome-osint
 - http://osintframework.com/ - listing of a bunch of tools/sites
 - [https://haveibeenpwned.com](https://haveibeenpwned.com)
 - [Wayback Machine](http://www.wayback.com/)
 - [Down Detector](http://downdetector.com)
-
 #### bug bounty
 - [Hacker One](HackerOne: Bug Bounty, Vulnerability Coordination)
-
 #### vulnerabilities
 - [Vulnhub](https://www.vulnhub.com/) - gain practical 'hands-on' experience in digital security, computer software & network administration.
 - [webscantest.com](http://webscantest.com) - Use this site to test a scanner to see if it finds the vulnerabilities.
 - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - In wiki format! <3
-
 #### conventions
 - [DEFCON](https://www.defcon.org/) Las Vegas, August
 - [THOTCON](https://thotcon.org/) [links](https://thotcon.org/links.html) Chicago, May
 - [token.wtf](https://token.wtf/)
-
 #### locksmithery
 - [Americal Key Supply](https://americankeysupply.com/) a few good deals, use to be better
 - [Bowley Lock](https://www.bowleylockcompany.com/) one of the most security keyways ever made
@@ -192,8 +163,5 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - YouTube [Bosnian Bill](https://www.youtube.com/user/bosnianbill) and his site [Lock Lab](http://lock-lab.com/)
 - YouTube [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 
-
-
-<br><br>
+<br>
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
-
