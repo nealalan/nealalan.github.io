@@ -56,6 +56,8 @@ Backup for [nealalan.com](https://nealalan.com) used when a new webserver is pro
 #### nealalan.github.io/neonaluminum.com ([repo](https://github.com/nealalan/neonaluminum.com))
 Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserver is provisioned
 
+<br>
+## PGP KEY
 ```bash
 # IMPORT nealalan's PGP / GPG key
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
