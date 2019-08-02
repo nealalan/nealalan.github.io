@@ -1,10 +1,10 @@
-## Neal Dreher 
+# Neal Dreher 
 
 #### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
 
 #### [nealalan.github.io](https://nealalan.github.io) / [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
-## PROJECTS
+# PROJECTS
 
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and a menu to play playlists from the command line
