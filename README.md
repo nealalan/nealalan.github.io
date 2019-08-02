@@ -41,17 +41,11 @@ Some old CPP code I wrote in high school and college. I put it here as I come ac
 ## REFERENCE 
 
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
-
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
-
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
-Repo to sync across my Macs
-
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
-
 #### nealalan.github.io/[security](https://nealalan.github.io/security) ([repo](https://github.com/nealalan/security))
 Links related to: [daily reading](https://nealalan.github.io/security/#daily-reading), [locksmithery](https://nealalan.github.io/security/#locksmithery), [podcasts](https://nealalan.github.io/security/#podcasts), [twitter](https://nealalan.github.io/security/#twitter), [white papers](https://nealalan.github.io/security/#whitepapers--writeups), [secure testing](https://nealalan.github.io/security/#testing), [scanning & monitoring](https://nealalan.github.io/security/#scanning--monitoring), [osint](https://nealalan.github.io/security/#osint), [hackers](https://nealalan.github.io/security/#hackers), [vulnerabilities](https://nealalan.github.io/security/#vulnerabilities), [history](https://nealalan.github.io/security/#history)
-
 #### nealalan.github.io/[tech](https://nealalan.github.io/tech) ([repo](https://github.com/nealalan/tech))
 Links related to: [news](https://nealalan.github.io/command/#general-news), cloud, tech explanation, [dev](https://nealalan.github.io/command/#development), data manipulation, [systems, software & tools](https://nealalan.github.io/command/#systems-software--tools), browser extensions, etc..
 
