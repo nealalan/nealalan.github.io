@@ -1,4 +1,4 @@
-# [nealalan.github.io](https://nealalan.github.io)/[i_really_want_an_IT_job](https://nealalan.github.io/i_really_want_an_IT_job)
+# [nealalan.github.io](https://nealalan.github.io)/[i_really_want_an_IT_job](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md)
 
 ## Big Job Board Sites
 - [BuiltIn](https://builtin.com/) - [ATX](https://builtinaustin.com/), [CHI](https://builtinchicago.com/), [COLORADO](https://builtincolorado.com/)
@@ -17,11 +17,11 @@
 ## Recruiters
 - [CyberCoders](https://www.cybercoders.com/)
 - [Jefferson Frank](https://www.jeffersonfrank.com/search?query=&location%5B%5D=49887&location%5B%5D=63733&type=)
-  - 2019-01-07 [AWS DevOps Engineer - $120, 000 - 130, 000 Denver, CO](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#aws-devops-engineer---120-000---130-000-denver-co---reference-01072019_1546876513)
-  - 2019-01-08 [Terraform Engineer- Austin, TX- $130k + bonus](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#terraform-engineer--austin-tx--130k--bonus-reference-ea0108)
+  - 2019-01-07 [AWS DevOps Engineer - $120, 000 - 130, 000 Denver, CO](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#aws-devops-engineer---120-000---130-000-denver-co---reference-01072019_1546876513)
+  - 2019-01-08 [Terraform Engineer- Austin, TX- $130k + bonus](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#terraform-engineer--austin-tx--130k--bonus-reference-ea0108)
 - [Lasalle Network](https://www.thelasallenetwork.com/) - Chicago & Midwest
 - [Mondo]()
-  - 2019-01-30 [Cloud Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#2019-01-30-cloud-engineer-englewood-co), Englewood, CO
+  - 2019-01-30 [Cloud Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#2019-01-30-cloud-engineer-englewood-co), Englewood, CO
 
 ## Gov / Edu 
 - [Denver University](https://www.du.edu/jobs)
@@ -30,36 +30,36 @@
 ## Corp Sites
 ### IL
 - Caterpillar
-  - 2019-04-29 [AWS Cloud Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#aws-cloud-engineer) in East Peoria, IL low pay...
+  - 2019-04-29 [AWS Cloud Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#aws-cloud-engineer) in East Peoria, IL low pay...
   
 ### COLORADO
 - [Amazon AWS Careers](https://aws.amazon.com/careers/) ([DEN](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&job_type=Full-Time&distanceType=Mi&radius=24km&latitude=39.74001&longitude=-104.99202&loc_group_id=&loc_query=Denver%2C%20CO%2C%20United%20States&base_query=&city=Denver&country=USA&region=Colorado&county=Denver&query_options=&))
 - [Apple](https://www.apple.com/jobs/us)
 - [Arrow Electronics](https://arrow.wd1.myworkdayjobs.com/en-US/AC//)
 - [Ball Corporation](https://careers.ball.com) - Aerospace, Corporate and Packaging careers
-  - 2018-10-03 [A bunch of Secret clearance required positions](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#ball-corporation)
+  - 2018-10-03 [A bunch of Secret clearance required positions](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#ball-corporation)
 - [bitly]()
-  - 2019-01-14 [DevOps Engineer (Entry Level)](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#2019-01-14-devops-engineer-entry-level)
+  - 2019-01-14 [DevOps Engineer (Entry Level)](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#2019-01-14-devops-engineer-entry-level)
 - [Carbon Black](https://www.carbonblack.com)
-  - 2018-10-21 [Python Developer - Security Based](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#python-developer---threat-intelligence)
-  - 2018-10-21 [SRE - Engineering Ops](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#site-reliability-engineer---engineering-operations)
-  - 2018-10-21 [Threat Analyst - Threat Intelligence](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#threat-analyst---threat-intelligence)
+  - 2018-10-21 [Python Developer - Security Based](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#python-developer---threat-intelligence)
+  - 2018-10-21 [SRE - Engineering Ops](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#site-reliability-engineer---engineering-operations)
+  - 2018-10-21 [Threat Analyst - Threat Intelligence](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#threat-analyst---threat-intelligence)
 - [Century Link](https://jobs.centurylink.com/) ([CO](https://jobs.centurylink.com/search/?q=colorado))
-  - 2011-09-06 [Sr DevOps Architect](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#sr-devops-architect)
+  - 2011-09-06 [Sr DevOps Architect](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#sr-devops-architect)
 - [Gartner](https://jobs.gartner.com/careers)
 - [Google](https://careers.google.com/jobs)
 - Jump Cloud
-  - 2018-10-03 [DevOps Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#dev-ops-engineer-2018-10-03)
+  - 2018-10-03 [DevOps Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#dev-ops-engineer-2018-10-03)
 - [LogicWorks](https://www.logicworks.com/logicworks-current-jobs/)
-  - 2018-09-17 [Cloud Systems Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#2018-09-17-cloud-systems-engineer-denver), Denver
+  - 2018-09-17 [Cloud Systems Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#2018-09-17-cloud-systems-engineer-denver), Denver
 - [Newmont Mining](https://jobs.newmont.com/) - search for CO, US
 - [Optiv](https://www.optiv.com/)
 - [Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers)
 - [STARZ Entertainment](https://starzcareers.silkroad.com/)
-  - [Cloud (AWS) Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#cloud-aws-engineer) Englewood, CO
+  - [Cloud (AWS) Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#cloud-aws-engineer) Englewood, CO
 - [Trust Wave](https://www.trustwave.com/en-us/)
 - [Vail Resorts\IT careers](https://jobs.vailresortscareers.com/search/?q=&optionsFacetsDD_location=&optionsFacetsDD_dept=IT&optionsFacetsDD_shifttype=)
-  - 2018-12-03 [Sr. Security Analyst](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#sr-security-analyst-requisition-id-163232)
+  - 2018-12-03 [Sr. Security Analyst](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#sr-security-analyst-requisition-id-163232)
 - [Wagner Cat](https://wagnerequipment.applicantpool.com/jobs/)
   - 2019-07-02 Nothing technical
 
@@ -68,7 +68,7 @@
 - [CCC Information Services](https://cccis.wd1.myworkdayjobs.com/CCCIS) - HQ in Chicago, positions in Austin
 - [Cloudflare](https://www.builtinaustin.com/company/cloudflare)
 - [Cerity](https://www.builtinaustin.com/company/cerity)
-  - 2019-05-21 [DevOps Engineer](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/README.md#devops-engineer)
+  - 2019-05-21 [DevOps Engineer](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/README.md#devops-engineer)
 
 ## Other Articles
 - [Google Job Search using AI](https://www.cnbc.com/2018/08/01/google-job-search-is-using-ai-to-make-job-searching-a-whole-lot-easier.html)
@@ -83,7 +83,7 @@
 
 ## BALL Corporation
 2018-10-03 nearly all Secret clearance required
-![](https://github.com/nealalan/i_really_want_an_IT_job/blob/master/images/Screen%20Shot%202018-10-03%20at%2010.29.22%20PM.jpg?raw=true)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/i_really_want_an_IT_job/images/Screen%20Shot%202018-10-03%20at%2010.29.22%20PM.jpg?raw=true)
 
 ## bitly
 - a URL shortening service and a link management platform. The company Bitly, Inc. was established in 2008. It is privately held and based in New York City.
