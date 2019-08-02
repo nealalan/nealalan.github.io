@@ -1,8 +1,8 @@
-## [nealalan.github.io](https://nealalan.github.io) a.k.a. Neal Dreher 
+## Neal Dreher 
 
 #### [linkedin](https://www.linkedin.com/in/nealdreher) / [nealalan.com](http://nealalan.com) / [neonaluminum.com](https://neonaluminum.com)
 
-#### [gist.github.com/nealalan](https://gist.github.com/nealalan)
+#### [nealalan.github.io](https://nealalan.github.io) / [gist.github.com/nealalan](https://gist.github.com/nealalan)
 
 ## PROJECTS
 
