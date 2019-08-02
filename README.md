@@ -7,9 +7,9 @@
 ## PROJECTS
 
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
-BASH scripts to create channel playlists and run a menu to play the playlists from the command line
+BASH scripts to create channel playlists and a menu to play playlists from the command line
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
-Create an NGINX web server running on Ubuntu Linux on the AWS infrastructure within the free tier.
+Create an NGINX web server running on Ubuntu Linux on AWS infrastructure within the free tier
 #### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
 Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for multiple domains. 
 #### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
