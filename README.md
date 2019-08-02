@@ -80,6 +80,68 @@ Backup for [neonaluminum.com](https://neonaluminum.com) used when a new webserve
 $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 ```
 
+## TECH LINKS
+
+### general news
+- [AWS News](http://aws.amazon.com/about-aws/whats-new)
+- [CS Monitor Sci/Tech](http://www.csmonitor.com)
+- [Google Cloud Shell](https://console.cloud.google.com/cloudshell): [Documentation](https://cloud.google.com/shell/docs/)
+- [Mac Rumors](https://macrumors.com)
+- [Wired: Top Stories](http://www.wired.com)
+
+### people
+- [Bjarne Stroustrup](http://www.stroustrup.com/) invented C++ 
+- [Elon Musk](https://twitter.com/elonmusk) must be an alien
+- [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) [abc.xyz](https://abc.xyz/) CEO
+- [Steve Wozniak](https://twitter.com/stevewoz) pretty much invented the computer as we know it
+- [Sundar Pichai](https://en.wikipedia.org/wiki/Sundar_Pichai) Google CEO
+- [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook) values the importance of intuition
+
+### not people
+- [Alexa](https://developer.amazon.com/alexa) [@alexa](https://twitter.com/search?q=alexa) & [Lex](https://en.wikipedia.org/wiki/Amazon_Lex) amazon 
+- [AliGenie](https://open.bot.tmall.com/) open source.... not yet any sites in English
+- [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)) samsung
+- [Cortana](https://en.wikipedia.org/wiki/Cortana) microsoft
+- [Eva]() google
+- [Hey Google / Assistant](https://assistant.google.com/) google [wiki](https://en.wikipedia.org/wiki/Google_Assistant)
+- [Siri](https://en.wikipedia.org/wiki/Siri) [SifiKit](https://developer.apple.com/sirikit/) apple
+- [Tay (bot)](https://en.wikipedia.org/wiki/Tay_(bot)) microsoft
+- [VIV](https://en.wikipedia.org/wiki/Viv_(software)) by siri engineers bought by samsung forced into Bixby
+- COMPARISONS [wikipedia](https://en.wikipedia.org/wiki/Virtual_assistant_(artificial_intelligence)#Full_comparison_of_assistants)
+
+### dev > python
+- [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) xml / html parsing
+- [exif data library](http://smarnach.github.io/pyexiftool/)
+- [HTML & XML Handling](http://docs.python.org/library/markup)
+- [HTTP Requests](https://pypi.python.org/pypi/requests/)
+- [JSON Handling](http://docs.python.org/library/markup)
+- [Pandas](http://pandas.pydata.org/) data analytics
+- [Python 3 Documentation](https://docs.python.org/3/) @ python.org
+
+### dev > C, C++, Hardware Dev
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B) [v. C++98 / Standardization](https://en.wikipedia.org/wiki/C%2B%2B#Standardization) [v. C++17](https://en.wikipedia.org/wiki/C%2B%2B17) [v. C++20](https://en.wikipedia.org/wiki/C%2B%2B20)
+- [C / C++ for Raspberry Pi](http://www.raspberry-projects.com/pi/category/programming-in-c)
+
+### dev > data
+- [Chicago Transit Authority Developer Center](http://www.transitchicago.com/developers/) - 'L' train and bus APIs 
+- [City of Chicago Datasets](https://data.cityofchicago.org/)
+- [Cook County Datasets : Arcgis](http://hub-cookcountyil.opendata.arcgis.com/datasets) and related [Apps](https://hub-cookcountyil.opendata.arcgis.com/pages/application-gallery)
+- [Open Government Data](https://opengovernmentdata.org/)
+
+### data & maps
+- [Cook County Medical Examiner's Data Map](https://cc-apps.esriemcs.com/MedExamGallery/)
+
+### data manipulation
+- [Regexr](https://regexr.com/) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+
+### systems, software and tools
+- [Kali Linux](https://www.kali.org/)
+- [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+
+### infrastructure
+- [Router vs Switch](https://www.diffen.com/difference/Router_vs_Switch) besides layer 3 vs layer 2
+
+
 
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
