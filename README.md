@@ -133,6 +133,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Router vs Switch](https://www.diffen.com/difference/Router_vs_Switch) besides layer 3 vs layer 2
 
 <br>
+
 ## SECURITY LINKS
 
 #### daily reading
@@ -200,5 +201,26 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - YouTube [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 
 <br>
+
+## TRAVEL
+
+<a href="https://www.annefrank.org/en/">Anne Frank House, Amsterdam, NL</a>
+<a href="https://www.nps.gov/arch/index.htm">Arches National Park, Moab, UT</a>
+<a href="http://www.naic.edu/ao/landing">Arecibo Telescope, Puerto Rico</a>
+<a href="https://www.ashmolean.org/">Ashmolean Museum, Oxford, England</a>
+<a href="https://www.visitbrisbane.com.au/">Brisbane, Queensland, AU</a>
+<a href="https://www.usbr.gov/lc/hooverdam/">Hoover Dam, Nevada</a>
+<a href="https://en.wikipedia.org/wiki/Marina_Bay_Sands">Marina Bay Sands, Singapore</a>
+<a href="https://airandspace.si.edu/">National Air & Space Mus, VA</a>
+<a href="https://www.archives.gov/">National Archives, Washington, DC</a>
+<a href="http://www.mtbohemia.com/">Mt Bohemia, UP, Michigan</a>
+<a href="https://www.neworleansonline.com">New Orleans, LA</a>
+<a href="https://visitpensacolabeach.com/">Pensacola Beach, FL</a>
+<a href="https://www.denver.org/listing/red-rocks-park-%26-amphitheatre/4574/">Red Rocks Park, Denver, CO</a>
+<a href="https://rockymountainnationalpark.com/">Rocky Mt National Park, CO</a>
+<a href="https://encyclopedia.ushmm.org/content/en/article/sachsenhausen">Sachsenhausen, Oranienburg, DEU</a>
+<a href="https://www.signatureroom.com/thesignaturelounge/">Signature Lounge @ the 96th, Chi</a>
+<a href="https://www.supremecourt.gov/">US Supreme Court, Washington, DC</a>
+
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
