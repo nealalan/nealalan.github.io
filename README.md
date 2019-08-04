@@ -53,6 +53,10 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 #### nealalan.github.io/[recipes](https://nealalan.github.io/recipes) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/recipes))
 Just a bunch of recipes I've saved and want to be able to share and find easily.
 
+#### Actual Tools
+  - [Pro CNC Kits](http://www.cncrouterparts.com/pro-cnc-machine-kits-c-47_54.html)
+
+
 <br>
 
 ## BACKUPS
@@ -183,6 +187,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Hacker One](HackerOne: Bug Bounty, Vulnerability Coordination)
 
 #### vulnerabilities
+- [OWASP Top 10 Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
 - [Vulnhub](https://www.vulnhub.com/) - gain practical 'hands-on' experience in digital security, computer software & network administration.
 - [webscantest.com](http://webscantest.com) - Use this site to test a scanner to see if it finds the vulnerabilities.
 - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - In wiki format! <3
@@ -224,5 +229,45 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <li><a href="https://www.supremecourt.gov/">US Supreme Court, Washington, DC</a>
 </ul>
 
+## REDDIT
+
+<ul>
+<li><a href="https://www.reddit.com">re<font color="#ff0000">dd</font>it</a>
+<li><a href="https://www.reddit.com/r/apple/">r/apple</a>
+<li><a href="https://www.reddit.com/r/AskElectronics/">r/AskElectronics</a>
+<li><a href="https://www.reddit.com/r/Austin">r/Austin</a>
+<li><a href="https://www.reddit.com/r/aws">r/aws</a>
+<li><a href="https://www.reddit.com/r/beta/">r/beta</a>
+<li><a href="https://www.reddit.com/r/couchsurfing/">r/couchsurfing</a>
+<li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>
+<li><a href="https://www.reddit.com/r/Denver/">r/Denver</a>
+<li><a href="https://www.reddit.com/r/DIY/">r/DIY<a>
+<li><a href="https://www.reddit.com/r/EarthPorn/">r/EarthPorn</a>
+<li><a href="https://www.reddit.com/r/f150/">r/f150</a>
+<li><a href="https://www.reddit.com/r/Futurology/">r/Futurology</a>
+<li><a href="https://www.reddit.com/r/geocaching/">r/geocaching</a>
+<li><a href="https://www.reddit.com/r/Hacking_Tutorials/">r/Hacking_Tutorials</a>  
+<li><a href="https://www.reddit.com/r/ios/">r/ios</a>
+<li><a href="https://www.reddit.com/r/JavaScript">r/JavaScript</a>
+<li><a href="https://www.reddit.com/r/Kayaking/">r/Kayaking</a>
+<li><a href="https://www.reddit.com/r/keto/">r/keto</a>
+<li><a href="https://www.reddit.com/r/lockpicking">r/lockpicking</a>
+<li><a href="https://www.reddit.com/r/MadeMeSmile">r/MadeMeSmile
+<li><a href="https://www.reddit.com/r/MarbleMachineX/">r/MarbleMachineX</a> - By: Wintergatan
+<li><a href="https://www.reddit.com/r/netsec/">r/netsec</a>
+<li><a href="https://www.reddit.com/r/Outdoors">r/Outdoors</a>
+<li><a href="https://www.reddit.com/r/photography">r/photography</a>
+<li><a href="https://www.reddit.com/r/science">r/science</a>
+<li><a href="https://www.reddit.com/r/security/">r/security</a>
+<li><a href="https://www.reddit.com/r/sewing/">r/sewing</a>
+<li><a href="https://www.reddit.com/r/space/">r/space</a>
+<li><a href="https://www.reddit.com/r/succulents/">r/succulents</a>
+<li><a href="https://www.reddit.com/r/technology/">r/technology</a>
+<li><a href="https://www.reddit.com/r/Welding/">r/Welding</a>
+
+## VIDEO / YouTube
+
+- [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
