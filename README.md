@@ -128,13 +128,21 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 #### data manipulation
 - [Regexr](https://regexr.com/) is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+- [RGB Color Codes Table](https://www.rapidtables.com/web/color/RGB_Color.html)
+- [Secure Password Generator](https://passwordsgenerator.net/)
 
 #### systems, software and tools
 - [Kali Linux](https://www.kali.org/)
 - [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 
 #### infrastructure
+- [CIDR Subnet Mask Cheatsheet](https://www.oav.net/mirrors/cidr.html)
+- [ifconfig.co](https://ifconfig.co)
 - [Router vs Switch](https://www.diffen.com/difference/Router_vs_Switch) besides layer 3 vs layer 2
+- [Speedtest](https://speedtest.net) & [speedtest-cli](https://github.com/sivel/speedtest-cli)
+
+#### apps
+- [Untappd](https://untappd.com/)
 
 <br>
 
@@ -207,7 +215,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
-## TRAVEL
+## TRAVEL LINKS
 
 - [Anne Frank House, Amsterdam, NL](https://www.annefrank.org/en/) 
 - [Arches National Park, Moab, UT](https://www.nps.gov/arch/index.htm) 
@@ -229,7 +237,17 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
-## REDDIT
+## FOOD LINKS
+- [Chacho's Nachos](http://chachos.com/), San Antonio
+- [Jaipur](http://www.jaipurchicago.com/home), Chicago
+- [Ghareeb Nawaz](http://ghareebnawazonline.com/), Chicago
+- [Northside Pizza](https://www.yelp.com/biz/northside-pizza-breckenridge-2), Breckenridge
+- [Pequods](http://pequodspizza.com/), Chicago
+- [Tamales by La Casita](http://www.tamalesbylacasita.net), Denver  
+
+<br>
+
+## REDDIT LINKS
 
 - [r/](https://www.reddit.com)
 - [r/apple](https://www.reddit.com/r/apple/) 
@@ -266,7 +284,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
-## VIDEO
+## VIDEO LINKS
 
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
