@@ -209,7 +209,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## TRAVEL
 
-<ul>
+
 <li><a href="https://www.annefrank.org/en/">Anne Frank House, Amsterdam, NL</a>
 <li><a href="https://www.nps.gov/arch/index.htm">Arches National Park, Moab, UT</a>
 <li><a href="http://www.naic.edu/ao/landing">Arecibo Telescope, Puerto Rico</a>
@@ -227,12 +227,10 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <li><a href="https://encyclopedia.ushmm.org/content/en/article/sachsenhausen">Sachsenhausen, Oranienburg, DEU</a>
 <li><a href="https://www.signatureroom.com/thesignaturelounge/">Signature Lounge @ the 96th, Chi</a>
 <li><a href="https://www.supremecourt.gov/">US Supreme Court, Washington, DC</a>
-</ul>
 <br>
 
 ## REDDIT
 
-<ul>
 <li><a href="https://www.reddit.com">re<font color="#ff0000">dd</font>it</a>
 <li><a href="https://www.reddit.com/r/apple/">r/apple</a>
 <li><a href="https://www.reddit.com/r/AskElectronics/">r/AskElectronics</a>
@@ -265,7 +263,6 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <li><a href="https://www.reddit.com/r/succulents/">r/succulents</a>
 <li><a href="https://www.reddit.com/r/technology/">r/technology</a>
 <li><a href="https://www.reddit.com/r/Welding/">r/Welding</a>
-</ul>
 <br>
   
 
