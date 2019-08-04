@@ -228,6 +228,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <li><a href="https://www.signatureroom.com/thesignaturelounge/">Signature Lounge @ the 96th, Chi</a>
 <li><a href="https://www.supremecourt.gov/">US Supreme Court, Washington, DC</a>
 </ul>
+<br>
 
 ## REDDIT
 
@@ -264,10 +265,12 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <li><a href="https://www.reddit.com/r/succulents/">r/succulents</a>
 <li><a href="https://www.reddit.com/r/technology/">r/technology</a>
 <li><a href="https://www.reddit.com/r/Welding/">r/Welding</a>
+</ul><br>
 
 ## VIDEO / YouTube
 
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
+
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
