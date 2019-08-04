@@ -245,6 +245,11 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Pequods](http://pequodspizza.com/), Chicago
 - [Tamales by La Casita](http://www.tamalesbylacasita.net), Denver  
 
+#### health too...
+- [MyFitnessPal](https://www.myfitnesspal.com/)
+- [Keto Calculator](https://keto-calculator.ankerl.com/)
+
+
 <br>
 
 ## REDDIT LINKS
@@ -281,6 +286,17 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [r/succulents](https://www.reddit.com/r/succulents/) 
 - [r/technology](https://www.reddit.com/r/technology/) 
 - [r/Welding](https://www.reddit.com/r/Welding/) 
+
+<br>
+
+## NEWS LINKS
+
+- [propaganda.news](http://www.propaganda.news/)
+- [Google News Top](https://news.google.com/)
+- [Sky News Live](https://news.sky.com/watch-live)
+- [US Debt Clock](http://www.usdebtclock.org/)
+- [US Nation](http://www.usnation.com/)
+- [Zero Hedge](https://www.zerohedge.com/)
 
 <br>
 
