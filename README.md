@@ -209,62 +209,62 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## TRAVEL
 
+- [Anne Frank House, Amsterdam, NL](https://www.annefrank.org/en/) 
+- [Arches National Park, Moab, UT](https://www.nps.gov/arch/index.htm) 
+- [Arecibo Telescope, Puerto Rico](http://www.naic.edu/ao/landing) 
+- [Ashmolean Museum, Oxford, England](https://www.ashmolean.org/) 
+- [Brisbane, Queensland, AU](https://www.visitbrisbane.com.au/) 
+- [Hoover Dam, Nevada](https://www.usbr.gov/lc/hooverdam/) 
+- [Marina Bay Sands, Singapore](https://en.wikipedia.org/wiki/Marina_Bay_Sands) 
+- [National Air & Space Mus, VA](https://airandspace.si.edu/) 
+- [National Archives, Washington, DC](https://www.archives.gov/) 
+- [Mt Bohemia, UP, Michigan](http://www.mtbohemia.com/) 
+- [New Orleans, LA](https://www.neworleansonline.com) 
+- [Pensacola Beach, FL](https://visitpensacolabeach.com/) 
+- [Red Rocks Park, Denver, CO](https://www.denver.org/listing/red-rocks-park-%26-amphitheatre/4574/) 
+- [Rocky Mt National Park, CO](https://rockymountainnationalpark.com/) 
+- [Sachsenhausen, Oranienburg, DEU](https://encyclopedia.ushmm.org/content/en/article/sachsenhausen) 
+- [Signature Lounge @ the 96th, Chi](https://www.signatureroom.com/thesignaturelounge/) 
+- [US Supreme Court, Washington, DC](https://www.supremecourt.gov/) 
 
-<li><a href="https://www.annefrank.org/en/">Anne Frank House, Amsterdam, NL</a>
-<li><a href="https://www.nps.gov/arch/index.htm">Arches National Park, Moab, UT</a>
-<li><a href="http://www.naic.edu/ao/landing">Arecibo Telescope, Puerto Rico</a>
-<li><a href="https://www.ashmolean.org/">Ashmolean Museum, Oxford, England</a>
-<li><a href="https://www.visitbrisbane.com.au/">Brisbane, Queensland, AU</a>
-<li><a href="https://www.usbr.gov/lc/hooverdam/">Hoover Dam, Nevada</a>
-<li><a href="https://en.wikipedia.org/wiki/Marina_Bay_Sands">Marina Bay Sands, Singapore</a>
-<li><a href="https://airandspace.si.edu/">National Air & Space Mus, VA</a>
-<li><a href="https://www.archives.gov/">National Archives, Washington, DC</a>
-<li><a href="http://www.mtbohemia.com/">Mt Bohemia, UP, Michigan</a>
-<li><a href="https://www.neworleansonline.com">New Orleans, LA</a>
-<li><a href="https://visitpensacolabeach.com/">Pensacola Beach, FL</a>
-<li><a href="https://www.denver.org/listing/red-rocks-park-%26-amphitheatre/4574/">Red Rocks Park, Denver, CO</a>
-<li><a href="https://rockymountainnationalpark.com/">Rocky Mt National Park, CO</a>
-<li><a href="https://encyclopedia.ushmm.org/content/en/article/sachsenhausen">Sachsenhausen, Oranienburg, DEU</a>
-<li><a href="https://www.signatureroom.com/thesignaturelounge/">Signature Lounge @ the 96th, Chi</a>
-<li><a href="https://www.supremecourt.gov/">US Supreme Court, Washington, DC</a>
 <br>
 
 ## REDDIT
 
-<li><a href="https://www.reddit.com">re<font color="#ff0000">dd</font>it</a>
-<li><a href="https://www.reddit.com/r/apple/">r/apple</a>
-<li><a href="https://www.reddit.com/r/AskElectronics/">r/AskElectronics</a>
-<li><a href="https://www.reddit.com/r/Austin">r/Austin</a>
-<li><a href="https://www.reddit.com/r/aws">r/aws</a>
-<li><a href="https://www.reddit.com/r/beta/">r/beta</a>
-<li><a href="https://www.reddit.com/r/couchsurfing/">r/couchsurfing</a>
-<li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>
-<li><a href="https://www.reddit.com/r/Denver/">r/Denver</a>
-<li><a href="https://www.reddit.com/r/DIY/">r/DIY<a>
-<li><a href="https://www.reddit.com/r/EarthPorn/">r/EarthPorn</a>
-<li><a href="https://www.reddit.com/r/f150/">r/f150</a>
-<li><a href="https://www.reddit.com/r/Futurology/">r/Futurology</a>
-<li><a href="https://www.reddit.com/r/geocaching/">r/geocaching</a>
-<li><a href="https://www.reddit.com/r/Hacking_Tutorials/">r/Hacking_Tutorials</a>  
-<li><a href="https://www.reddit.com/r/ios/">r/ios</a>
-<li><a href="https://www.reddit.com/r/JavaScript">r/JavaScript</a>
-<li><a href="https://www.reddit.com/r/Kayaking/">r/Kayaking</a>
-<li><a href="https://www.reddit.com/r/keto/">r/keto</a>
-<li><a href="https://www.reddit.com/r/lockpicking">r/lockpicking</a>
-<li><a href="https://www.reddit.com/r/MadeMeSmile">r/MadeMeSmile
-<li><a href="https://www.reddit.com/r/MarbleMachineX/">r/MarbleMachineX</a> - By: Wintergatan
-<li><a href="https://www.reddit.com/r/netsec/">r/netsec</a>
-<li><a href="https://www.reddit.com/r/Outdoors">r/Outdoors</a>
-<li><a href="https://www.reddit.com/r/photography">r/photography</a>
-<li><a href="https://www.reddit.com/r/science">r/science</a>
-<li><a href="https://www.reddit.com/r/security/">r/security</a>
-<li><a href="https://www.reddit.com/r/sewing/">r/sewing</a>
-<li><a href="https://www.reddit.com/r/space/">r/space</a>
-<li><a href="https://www.reddit.com/r/succulents/">r/succulents</a>
-<li><a href="https://www.reddit.com/r/technology/">r/technology</a>
-<li><a href="https://www.reddit.com/r/Welding/">r/Welding</a>
+- [r/](https://www.reddit.com)
+- [r/apple](https://www.reddit.com/r/apple/) 
+- [r/AskElectronics](https://www.reddit.com/r/AskElectronics/) 
+- [r/Austin](https://www.reddit.com/r/Austin) 
+- [r/aws](https://www.reddit.com/r/aws) 
+- [r/beta](https://www.reddit.com/r/beta/) 
+- [r/couchsurfing](https://www.reddit.com/r/couchsurfing/) 
+- [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) 
+- [r/Denver](https://www.reddit.com/r/Denver/) 
+- [r/DIY](https://www.reddit.com/r/DIY/) 
+- [r/EarthPorn](https://www.reddit.com/r/EarthPorn/) 
+- [r/f150](https://www.reddit.com/r/f150/) 
+- [r/Futurology](https://www.reddit.com/r/Futurology/) 
+- [r/geocaching](https://www.reddit.com/r/geocaching/) 
+- [r/Hacking_Tutorials ](https://www.reddit.com/r/Hacking_Tutorials/)  
+- [r/ios](https://www.reddit.com/r/ios/) 
+- [r/JavaScript](https://www.reddit.com/r/JavaScript) 
+- [r/Kayaking](https://www.reddit.com/r/Kayaking/) 
+- [r/keto](https://www.reddit.com/r/keto/) 
+- [r/lockpicking](https://www.reddit.com/r/lockpicking) 
+- [r/MadeMeSmile](https://www.reddit.com/r/MadeMeSmile) 
+- [r/MarbleMachineX](https://www.reddit.com/r/MarbleMachineX/) - By: Wintergatan
+- [r/netsec](https://www.reddit.com/r/netsec/) 
+- [r/Outdoors](https://www.reddit.com/r/Outdoors) 
+- [r/photography](https://www.reddit.com/r/photography) 
+- [r/science](https://www.reddit.com/r/science) 
+- [r/security](https://www.reddit.com/r/security/) 
+- [r/sewing](https://www.reddit.com/r/sewing/) 
+- [r/space](https://www.reddit.com/r/space/) 
+- [r/succulents](https://www.reddit.com/r/succulents/) 
+- [r/technology](https://www.reddit.com/r/technology/) 
+- [r/Welding](https://www.reddit.com/r/Welding/) 
+
 <br>
-  
 
 ## VIDEO
 
