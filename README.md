@@ -321,9 +321,15 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Prime Music](https://music.amazon.com/my/albums)
 - [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
 
-
 - webcams: [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
 - [4/3 Rumors](https://www.43rumors.com/)
 - [Shutters in the Night](http://www.shuttersinthenight.com/)
+- [David Rumsey Map Collection](https://www.davidrumsey.com/)
+- [Info Week Security Whitepapers](http://www.informationweek.com/whitepaper/Security?gset=yes&)
+- [How I Hacked Mr. Robot](https://rastating.github.io/how-i-hacked-mr-robot/)
+
+- [github.com/git/git](https://github.com/git/git)
+- [github.com/torvalds/linux](https://github.com/torvalds/linux)
+- [github.com/zavg/linux-0.01](https://github.com/zavg/linux-0.01)
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
