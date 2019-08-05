@@ -143,6 +143,9 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 #### systems, software and tools
 - [Kali Linux](https://www.kali.org/)
 - [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+- [github.com/git/git](https://github.com/git/git)
+- [github.com/torvalds/linux](https://github.com/torvalds/linux)
+- [github.com/zavg/linux-0.01](https://github.com/zavg/linux-0.01)
 
 #### infrastructure
 - [CIDR Subnet Mask Cheatsheet](https://www.oav.net/mirrors/cidr.html)
@@ -157,7 +160,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## SECURITY LINKS
 
-#### daily reading
+#### reading
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/)
 - [(Bruce) Schneier on Security](https://www.schneier.com/) - [about Bruce](https://www.schneier.com/blog/about/)
 - [Dark Reading](https://www.darkreading.com/)
@@ -166,6 +169,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Forbes Security](https://www.forbes.com/security)
 - [Google Security Blog](https://security.googleblog.com/)
 - [Hacks Brain](https://hacksbrain.com/)
+- [How I Hacked Mr. Robot](https://rastating.github.io/how-i-hacked-mr-robot/)
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [Reddit netsec](http://reddit.com/r/netsec)
 - [Security Focus](https://www.securityfocus.com/) - Vulnerabilities, vulnerabilities, vulnerabilities
@@ -314,6 +318,16 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
+- webcams: [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
+
+<br>
+
+## PHOTO LINKS
+- [4/3 Rumors](https://www.43rumors.com/)
+- [Shutters in the Night](http://www.shuttersinthenight.com/)
+- [David Rumsey Map Collection](https://www.davidrumsey.com/)
+
+<br>
 
 ## OTHER LINKS
 - [Nasa Hubble Telescope](http://hubblesite.org/)
@@ -321,15 +335,8 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Prime Music](https://music.amazon.com/my/albums)
 - [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
 
-- webcams: [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
-- [4/3 Rumors](https://www.43rumors.com/)
-- [Shutters in the Night](http://www.shuttersinthenight.com/)
-- [David Rumsey Map Collection](https://www.davidrumsey.com/)
-- [Info Week Security Whitepapers](http://www.informationweek.com/whitepaper/Security?gset=yes&)
-- [How I Hacked Mr. Robot](https://rastating.github.io/how-i-hacked-mr-robot/)
 
-- [github.com/git/git](https://github.com/git/git)
-- [github.com/torvalds/linux](https://github.com/torvalds/linux)
-- [github.com/zavg/linux-0.01](https://github.com/zavg/linux-0.01)
+
+
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
