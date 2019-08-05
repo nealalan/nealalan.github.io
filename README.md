@@ -75,6 +75,8 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
+# LINKS
+
 ## TECH LINKS
 
 #### general news
@@ -103,6 +105,13 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Tay (bot)](https://en.wikipedia.org/wiki/Tay_(bot)) microsoft
 - [VIV](https://en.wikipedia.org/wiki/Viv_(software)) by siri engineers bought by samsung forced into Bixby
 - COMPARISONS [wikipedia](https://en.wikipedia.org/wiki/Virtual_assistant_(artificial_intelligence)#Full_comparison_of_assistants)
+
+#### dev tools
+- [Codepen](https://codepen.io/dashboard/)
+- [Code Wars](https://www.codewars.com/users/nealalan)
+
+#### dev > javascript
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 #### dev > python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) xml / html parsing
@@ -156,6 +165,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Defense Tech - Military.com](https://www.military.com/defensetech)
 - [Forbes Security](https://www.forbes.com/security)
 - [Google Security Blog](https://security.googleblog.com/)
+- [Hacks Brain](https://hacksbrain.com/)
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [Reddit netsec](http://reddit.com/r/netsec)
 - [Security Focus](https://www.securityfocus.com/) - Vulnerabilities, vulnerabilities, vulnerabilities
@@ -305,5 +315,15 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
 
+## OTHER LINKS
+- [Nasa Hubble Telescope](http://hubblesite.org/)
+- [James Webb Space Telescope](https://www.jwst.nasa.gov/)
+- [Prime Music](https://music.amazon.com/my/albums)
+- [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
+
+
+- webcams: [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
+- [4/3 Rumors](https://www.43rumors.com/)
+- [Shutters in the Night](http://www.shuttersinthenight.com/)
 
 [edit](https://github.com/nealalan/nealalan.github.io/edit/master/README.md)
