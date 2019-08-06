@@ -1,4 +1,4 @@
-# [nealalan.github.io](https://nealalan.github.io)/[JS-notes.md](https://nealalan.github.io/JS-notes.md) 
+# [nealalan.github.io](https://nealalan.github.io)/[JS-notes.md](https://github.com/nealalan/nealalan.github.io/blob/master/JS-notes.md) 
 See also: [https://github.com/nealalan/code-exercises](https://github.com/nealalan/code-exercises)
 ## REFERENCE
 - VALUES - [http://eloquentjavascript.net/01_values.html](http://eloquentjavascript.net/01_values.html)
