@@ -162,7 +162,10 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ### gears
 - [Gears! - But Were Afraid to Ask](https://www.youtube.com/watch?v=Q-XOM4E4RZQ) - I love gears and have since I watched my grandfather work on, build and repair clocks constantly as a kid. This was a good vid explaining some basics!
+- [Grizzly G5649 5-C Spin Index ](https://www.amazon.com/Grizzly-G5649-5-C-Spin-Index/dp/B0000DD4EB/ref=sr_1_4?keywords=spindexer&qid=1565136610&s=gateway&sr=8-4) - Used to measure up to 360 individual degrees or any divisor of 360 within a circle (dividing heads necessary so say, 100 divisions for a 100 tooth gear)
 
+### PM
+- [How to Organize Your Project with a PBS System - MMX](https://youtu.be/zVyEsMiwvVc) - Really like seeing this version of a WBS for making
 
 <br>
 
@@ -324,9 +327,13 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## VIDEO LINKS
 
+#### youtube
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [This Old Tony](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
-- webcams: [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
+
+#### webcams
+- [abasin](https://www.arapahoebasin.com/snow-conditions/web-cams) [Breckenridge](https://www.breckenridge.com/the-mountain/mountain-conditions/mountain-cams.aspx) [ISS HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV/)
 
 <br>
 
