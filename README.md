@@ -158,6 +158,14 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
+## ENGINEERING LINKS
+
+### gears
+- [Gears! - But Were Afraid to Ask](https://www.youtube.com/watch?v=Q-XOM4E4RZQ) - I love gears and have since I watched my grandfather work on, build and repair clocks constantly as a kid. This was a good vid explaining some basics!
+
+
+<br>
+
 ## SECURITY LINKS
 
 #### reading
