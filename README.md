@@ -21,7 +21,6 @@ Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will a
 <br>
 
 ## CODING & SCRIPTING
-#### nealalan.github.io/[js-notes](https://nealalan.github.io/js-notes) ([repo](https://github.com/nealalan/js-notes))
 #### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises)) - JavaScript and Python coding exercised
 #### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts)) - Some python and bash scripts
 #### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
@@ -43,6 +42,7 @@ Whitepaper notes, cheat sheet notes on AWS Services
 #### nealalan.github.io/[devops-tools-notes](https://nealalan.github.io/devops-tools-notes/) ([repo](https://github.com/nealalan/devops-tools-notes))
 Notes on learning and experimenting with DevOps Tools
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
+Includes a copy of my ~/.bashrc
 #### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
 
 <br>
