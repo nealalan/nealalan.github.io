@@ -159,9 +159,15 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## ENGINEERING LINKS
 
+### artists
+- [Jeffrey Zachmann Studios](https://www.zachmann.com/) - [YouTube](https://www.youtube.com/channel/UC_lN0qegaPYHWBlJbBSH-8g)
+
 ### gears
+- [Wood Gear Genius - Matthias Wandel](https://woodgears.ca/gear/howto.html) - [YouTube](https://www.youtube.com/watch?v=oNuhr3htNWs)
 - [Gears! - But Were Afraid to Ask](https://www.youtube.com/watch?v=Q-XOM4E4RZQ) - I love gears and have since I watched my grandfather work on, build and repair clocks constantly as a kid. This was a good vid explaining some basics!
 - [Grizzly G5649 5-C Spin Index ](https://www.amazon.com/Grizzly-G5649-5-C-Spin-Index/dp/B0000DD4EB/ref=sr_1_4?keywords=spindexer&qid=1565136610&s=gateway&sr=8-4) - Used to measure up to 360 individual degrees or any divisor of 360 within a circle (dividing heads necessary so say, 100 divisions for a 100 tooth gear)
+- [Gear Generator (Site that looks cool)](https://geargenerator.com) - [example](https://geargenerator.com/#440,440,220,0.0175,1,6,19652.069477694316,13,1,12,1.5,8,24,-90,0,1,60,1,60,24,0,1,0,90,1.5,60,24,-80,2,0,12,0.2,60,24,-90,3,1,60,2,30,24,-90,4,0,10,0.3333333333333333,30,24,-25,5,1,75,2.5,30,24,-20,6,0,10,0.3333333333333333,30,24,20,7,1,60,2,30,24,25,8,0,6,0.2,30,24,120,9,1,90,1.5,60,24,90,10,0,60,1,60,24,90,11,1,12,1.5,8,24,90,0,0,2,1679) - [Site that you can print from!](https://woodgears.ca/gear_cutting/template.html)
+- [How to Make Gears Easily (instructibles)](https://www.instructables.com/id/How-to-make-gears-easily/)
 
 ### PM
 - [How to Organize Your Project with a PBS System - MMX](https://youtu.be/zVyEsMiwvVc) - Really like seeing this version of a WBS for making
