@@ -166,6 +166,7 @@ echo "The ping time was $response_time"
 - double wrap (( expression ))
 - Bash supports operators:
 
+/-------------------|--------------\
 | exponentiation | $a ** $b |
 | multiplication | $a * $b |
   
