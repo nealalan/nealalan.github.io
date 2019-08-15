@@ -245,7 +245,7 @@ $ echo ${c: -4}
 $ echo ${c: -4:3}
 
 ```
- - replaceing text
+ - replacing text
  
 ```bash
 $ fruit="apple banana banana cherry"
