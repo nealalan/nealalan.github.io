@@ -168,24 +168,29 @@ echo "The ping time was $response_time"
 
 | Operation | Operator |
 |------|:---------:|
-| exponentiation | $a ** $b |
-| multiplication | $a * $b |
-| division | $a / $b | 
-| mod | $a % $b |
-| addition | $a + $b |
-| subtraction | $a - $b |
-| increment | $a++ |
-| decrement | $a-- |
+| exponentiation | (($a ** $b)) |
+| multiplication | (($a * $b)) |
+| division | (($a / $b)) | 
+| mod | (($a % $b)) |
+| addition | (($a + $b)) |
+| subtraction | (($a - $b)) |
+| increment | (($a++)) |
+| decrement | (($a--)) |
 | combination assignments | ((b+=5)) |
 | comparison (not ints) | [[ $a == $b ] |
 | true / SUCCESS | 0 |
-| false | 1 |
+| false / FAILED | 1 |
 | comparison (ints) | [[ $a -lt $b ]] |
 | greater than | [[ $a -gt $b ]] |
 | less than or equal to | [[ $a -le $b ]] |
 | greater than or equal to | [[ $a -ge $b ]] |
 | equal | [[ $a -eq $b ]] |
 | not equal | [[ $a -ne $b ]] |
+| logical AND | [[ $a && $b ]] |
+| logical OR | [[ $a || $b ]] |
+| logical NOT | [[ ! $a ]] |
+| Is NULL? | [[ -z $a ]] |
+| Is NOT NULL? | [[ -n $a ]] |
 
 
 - Note: Bash math only works with ints (1/3 == 0), not floating point 
@@ -216,7 +221,13 @@ echo $?
 echo '[[ 20 -gt 1000 ]] RIGHT'
 [[ 20 -gt 1000 ]]
 echo $?
+echo '[[ -z "" && -n "cat" ]] SUCCESS'
+[[ -z "" && -n "cat" ]]
+echo $?
 ```
+
+#### working with strings
+
 
 
 
