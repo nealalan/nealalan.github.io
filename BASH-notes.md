@@ -1,6 +1,6 @@
 
 
-## inLearning [Learning BASH Scripting](https://www.linkedin.com/learning/learning-bash-scripting)
+## LinkedIn inLearning: [Learning BASH Scripting](https://www.linkedin.com/learning/learning-bash-scripting)
 
 - Use nano text editor
 - Recomend system: 
@@ -164,7 +164,11 @@ echo "The ping time was $response_time"
 
 #### working with numbers
 - double wrap (( expression ))
+- Bash supports operators:
 
+| exponentiation | $a ** $b |
+| multiplication | $a * $b |
+  
 
 
 
