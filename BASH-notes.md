@@ -228,6 +228,40 @@ echo $?
 
 #### working with strings
 
+```bash
+$ a="hello"
+$ b="world"
+$ c=$a$b
+$ echo $c
+# Return the length of the string
+$ echo ${#c}
+# substring starting at 0, 3 to end
+$ d=${c:3}
+# substring piece, at 3 for 4 places
+$ e=${c:3:4}
+# last 4 letters
+$ echo ${c: -4}
+# first 3 letters of the last 4 letters
+$ echo ${c: -4:3}
+
+```
+ - replaceing text
+ 
+```bash
+$ fruit="apple banana banana cherry"
+# replace first banana with durian
+$ echo ${fruit/banana/durian}
+# replace all banana with durian
+$ echo ${fruit//banana/durian}
+# replace only if at very beginning of string
+$ echo ${fruit/#apple/durian}
+$ echo ${fruit/#banana/durian}
+# replace only if at end of string
+$ echo ${fruit/%cherry/durian}
+$ echo ${fruit/%apple/durian}
+
+```
+
 
 
 
