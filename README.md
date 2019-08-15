@@ -52,8 +52,9 @@ Links to geocaching pages - since the site is too chaotic to find what you need 
 #### nealalan.github.io/[recipes](https://nealalan.github.io/recipes) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/recipes))
 Just a bunch of recipes I've saved and want to be able to share and find easily.
 
-#### Actual Tools
-  - [Pro CNC Kits](http://www.cncrouterparts.com/pro-cnc-machine-kits-c-47_54.html)
+#### Physical Tools
+- [Hobart Welders](https://www.hobartwelders.com/)
+- [Pro CNC Kits](http://www.cncrouterparts.com/pro-cnc-machine-kits-c-47_54.html)
 
 
 <br>
@@ -158,6 +159,8 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 <br>
 
 ## ENGINEERING LINKS
+
+- [comma.ai](https://comma.ai/)
 
 #### artists
 - [Jeffrey Zachmann Studios](https://www.zachmann.com/) - [YouTube](https://www.youtube.com/channel/UC_lN0qegaPYHWBlJbBSH-8g)
@@ -311,12 +314,14 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [r/Outdoors](https://www.reddit.com/r/Outdoors) 
 - [r/photography](https://www.reddit.com/r/photography) 
 - [r/science](https://www.reddit.com/r/science) 
-- [r/security](https://www.reddit.com/r/security/) 
+- [r/security](https://www.reddit.com/r/security/)
+- [r/SelfDrivingCars](https://www.reddit.com/r/SelfDrivingCars/)
 - [r/sewing](https://www.reddit.com/r/sewing/) 
 - [r/space](https://www.reddit.com/r/space/) 
 - [r/succulents](https://www.reddit.com/r/succulents/) 
 - [r/technology](https://www.reddit.com/r/technology/) 
 - [r/Welding](https://www.reddit.com/r/Welding/) 
+
 
 <br>
 
@@ -335,6 +340,7 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 #### youtube
 - [Nigel John Stanford](https://www.youtube.com/channel/UCPhq7iR65k0gWcraXgLiY1A) - [AUTOMATICA](https://www.youtube.com/watch?v=bAdqazixuRY)
+- [commaai](https://www.youtube.com/channel/UCW_9Y89RuQQFwMwSRLcI2fg), [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [This Old Tony](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ)
 - [Wintergaten](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
 
