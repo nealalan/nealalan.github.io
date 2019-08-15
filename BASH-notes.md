@@ -162,15 +162,63 @@ response_time=$(ping -c 1 localhost | grep 'bytes from' | cut -d = -f 4)
 echo "The ping time was $response_time"
 ```
 
-#### working with numbers
+#### working with numbers and comparing values
 - double wrap (( expression ))
 - Bash supports operators:
-
 | Operation | Operator |
 |------|:---------:|
 | exponentiation | $a ** $b |
 | multiplication | $a * $b |
-  
+| division | $a / $b | 
+| mod | $a % $b |
+| addition | $a + $b |
+| subtraction | $a - $b |
+| increment | $a++ |
+| decrement | $a-- |
+| combination assignments | ((b+=5)) |
+| comparison (not ints) | [[ $a == $b ] |
+| true / SUCCESS | 0 |
+| false | 1 |
+| comparison (ints) | [[ $a -lt $b ]] |
+| greater than | [[ $a -gt $b ]] |
+| less than or equal to | [[ $a -le $b ]] |
+| greater than or equal to | [[ $a -ge $b ]] |
+| equal | [[ $a -eq $b ]] |
+| not equal | [[ $a -ne $b ]] |
+
+
+- Note: Bash math only works with ints (1/3 == 0), not floating point 
+- use `bc` - arbitrary precision calculator
+
+```bash
+echo $((1/3))
+echo $(echo 1/3 | bc -l)
+```
+
+- comparison example
+
+```bash
+#!/bin/bash
+# This is a basic bash script
+echo '[[ "cat" ==  "cat" ]]'
+[[ "cat" == "cat" ]]
+echo $?
+echo '[[ "cat" == "dog" ]]'
+[[ "cat" == "dog" ]]
+echo $?
+echo '[[ a == b ]] LETTERS'
+[[ a == b ]]
+echo $?
+echo '[[ 20 > 1000 ]] WRONG'
+[[ 20 > 1000 ]]
+echo $?
+echo '[[ 20 -gt 1000 ]] RIGHT'
+[[ 20 -gt 1000 ]]
+echo $?
+```
+
+
+
 
 
 
