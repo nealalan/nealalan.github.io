@@ -1,4 +1,4 @@
-# [nealalan.github.io](https://nealalan.github.io)/[python-notes](https://nealalan.github.io/Python-notes) ([repo](https://github.com/nealalan/nealalan.github.io))
+# [nealalan.github.io](https://nealalan.github.io)/[python-notes](https://nealalan.github.io/Python-notes) ([repo](https://github.com/nealalan/nealalan.github.io/blob/master/Python-notes.md))
 
 ## Python 3 for System Admins Notes
 
