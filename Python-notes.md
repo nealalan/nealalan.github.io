@@ -1,4 +1,4 @@
-# [nealalan.github.io](https://nealalan.github.io)/[python-notes](https://nealalan.github.io/python-notes) ([repo](https://github.com/nealalan/python-notes))
+# [nealalan.github.io](https://nealalan.github.io)/[python-notes](https://nealalan.github.io/Python-notes) ([repo](https://github.com/nealalan/nealalan.github.io))
 
 ## Python 3 for System Admins Notes
 
@@ -41,4 +41,4 @@ $ sudo pip3.7 install --upgrade pip
 
 
 
-[[EDIT](https://github.com/nealalan/python-notes/edit/master/README.md)]
+[[EDIT](https://github.com/nealalan/nealalan.github.io/edit/master/Python-notes.md)]
