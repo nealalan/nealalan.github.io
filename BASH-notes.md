@@ -274,6 +274,170 @@ $ echo -e '\033[34;42mColor Text\033[0m'
 - enter text to print out
 - use another escape string to resent the colors `\033[0m`
 
+[Styling Options foreground and background colors](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+
+```bash
+#!/bin/bash
+    
+echo 'https://misc.flogisoft.com/bash/tip_colors_and_formatting'
+echo
+echo 'USING 256 COLORS...'
+echo
+
+# This program is free software. It comes without any warranty, to
+# the extent permitted by applicable law. You can redistribute it
+# and/or modify it under the terms of the Do What The Fuck You Want
+# To Public License, Version 2, as published by Sam Hocevar. See
+# http://sam.zoy.org/wtfpl/COPYING for more details.
+    
+for fgbg in 38 48 ; do # Foreground / Background
+    for color in {0..255} ; do # Colors
+        # Display the color
+        printf "\e[${fgbg};5;%sm  %3s  \e[0m" $color $color
+        # Display 6 colors per lines
+        if [ $((($color + 1) % 6)) == 4 ] ; then
+            echo # New line
+        fi
+    done
+    echo # New line
+done
+    
+echo
+echo  'USING 16 COLORS...';
+echo
+
+
+# This program is free software. It comes without any warranty, to
+# the extent permitted by applicable law. You can redistribute it
+# and/or modify it under the terms of the Do What The Fuck You Want
+# To Public License, Version 2, as published by Sam Hocevar. See
+# http://sam.zoy.org/wtfpl/COPYING for more details.
+    
+#Background
+for clbg in {40..47} {100..107} 49 ; do
+    #Foreground
+    for clfg in {30..37} {90..97} 39 ; do
+        #Formatting
+        for attr in 0 1 2 4 5 7 ; do
+            #Print the result
+            #echo -en "\e[${attr};${clbg};${clfg}m ^[${attr};${clbg};${clfg}m \e[0m"
+            printf "\e[${attr};${clbg};${clfg}m ^[${attr};${clbg};${clfg}m \e[0m"
+        done
+        echo #Newline
+    done
+done
+    
+exit 0
+```
+- you pretty much have 8 general colors to use
+- Top use case is error codes - this will blash on some sessions
+
+```bash
+#!/bin/bash
+echo -e "\033[5;31;40mERROR:\033[0m \033[31;40mSomething went wrong\!\033[0m"
+```
+
+- optionally you can use variables to store the escape codes
+
+```bash
+#!/bin/bash
+flashred="\033[5;31;40m"
+red="\033[31;40m"
+resetcolor="\033[0m"
+echo -e $flashred"ERROR: "$resetcolor$red"Something went wrong\!"$resetcolor
+```
+
+- Another utility to do this is __tput__ and use command substitution
+- See `$ man terminfo` for all options avail
+
+```bash
+#!/bin/bash
+flashred=$(tput setab 0; tput setaf tput blink)
+red=$(tput setab 0; tput setaf 1)
+resetcolor=$(tput sgr0)
+echo -e $flashred"ERROR: "$resetcolor$red"Something went wrong\!"$resetcolor
+```
+
+- `date` command
+
+```bash
+$ date +"%d-%m-%Y %H:%M:%S"
+```
+
+- `printf` command gives a lot of options
+- use a `\t` for tab alignment
+- use a `\n` for new line
+- use a `%04d` to specify four place digit
+
+```bash
+$ printf "Name:\t%s\nID:\t%04d\n" "Scott" "12"
+```
+
+So, putting all of this together, we can write the script
+
+```bash
+#!/bin/bash
+
+today=$(date +"%d-%m-%Y)
+time=$(date +"%H:%M:%S")
+# assign the output to a variable __d__
+printf -v d "Current User:\t%s\nDate:\t\t%s @ %s\n" $USER $today $time
+# use echo to preserve the new line and apply the variables
+echo "$d"
+```
+
+#### working with ARRAYS in bash
+
+```bash
+#!/bin/bash
+
+a=()
+b=("apple" "banana" "cherry")
+
+echo ${b[2]}
+b[5]="kiwi"
+
+# add to end of array
+b+=("mango")
+# print the whole array
+echo ${b[@]}
+# print the last element in the array
+echo ${b[@]: -1}
+
+# associative arrays (bash 4+)
+declare -A myarray
+myarray[color]=blue
+myarray["office building"]="HQ West"
+
+echo ${myarray["office building"]} is ${myarray[color]}
+```
+
+#### reading and writing text files
+- if you want to work with binary files, you're better off using C/C++
+
+```bash
+# overwrite
+$ echo "Some text" > file.txt
+$ > file.txt
+
+# add to the end of a file
+$ echo "Some text" > file.txt
+$ echo "Some more text" >> file.txt
+```
+
+#### read a file, line by line using a do-while loop
+
+```bash
+#!/bin/bash
+
+while read f; do
+  echo "Line $i: $f"
+  ((i++))
+done < file.txt
+```
+
+#### Challenger: Made a script that generates a system report
+
 
 
 [[edit](https://github.com/nealalan/nealalan.github.io/edit/master/BASH-notes.md)]
