@@ -265,13 +265,14 @@ $ echo ${fruit/%apple/durian}
 
 ### coloring and styling text
 
-- use `echo -e` for escape characters
-- use `\033[34;42m` as the escape sequence
-
 ```bash
 $ echo -e '\033[34;42mColor Text\033[0m'
 ```
 
+- use `echo -e` for escape characters
+- use `\033[34;42m` as the escape sequence
+- enter text to print out
+- use another escape string to resent the colors `\033[0m`
 
 
 
