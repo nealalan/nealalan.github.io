@@ -361,8 +361,8 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [James Webb Space Telescope](https://www.jwst.nasa.gov/)
 - [Prime Music](https://music.amazon.com/my/albums)
 - [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
-
-
+- [Project Guttenberg](http://www.gutenberg.org/) - free ebooks and audio books
+- [mirrors.xmission.com/](http://mirrors.xmission.com/) - a site you can use to text ftp
 
 
 
