@@ -259,11 +259,18 @@ $ echo ${fruit/#banana/durian}
 # replace only if at end of string
 $ echo ${fruit/%cherry/durian}
 $ echo ${fruit/%apple/durian}
-
+# replace with wildcards
+# echo ${fruit/c*/orange}
 ```
 
+### coloring and styling text
 
+- use `echo -e` for escape characters
+- use `\033[34;42m` as the escape sequence
 
+```bash
+$ echo -e '\033[34;42mColor Text\033[0m'
+```
 
 
 
