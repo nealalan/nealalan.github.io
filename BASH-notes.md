@@ -514,6 +514,47 @@ printf "\tFiles in ~:\t%s\n" $filecount >> $logfile
 printf "\tPublic IP:\t%s\n" $theIP >> $logfile
 ```
 
+### 3. Control Structures
+
+#### Testing truth conditions with the if keyword
+
+```bash
+if expression
+then
+	echo "True
+elif expression 2; then
+	echo "First False, Test Another True"
+else
+	echo "False
+fi
+```
+
+- Test for any numbers in the string
+```bash
+#!/bin/bash
+
+a="This is my #1 string!"
+if [[ $a =~ [0-9]+ ]]; then
+	echo "There are numbers in the string: $a"
+else
+	echo "There are no number in the string: $a"
+fi
+```
+
+#### working with while and until loops
+
+````bash
+#!/bin/bash
+
+i=0
+while [
+````
+
+
+
+
+
+
 
 
 
