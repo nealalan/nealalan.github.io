@@ -650,11 +650,41 @@ function numberthings {
 }
 
 numberthings $(ls)
-
 ```
 
+### 4. Interacting with the User
 
+#### working with arguments
 
+```bash
+#/bin/bash
+echo $1
+echo $2
+```
+- call and list the two arguments
+```bash
+$ ./script.sh Banana "Red Apple"
+```
 
+- argument lists are references using `$@` and a count using `$#`
+
+```bash
+#/bin/bash
+
+for i in $@
+do
+	echo $i
+done
+
+echo "There were $# arguments."
+```
+-call and list the arguments
+```
+- call and list the two arguments
+```bash
+$ ./script.sh Banana "Red Apple" "Ice Cream" Cherry
+```
+
+# working with flags
 
 [[edit](https://github.com/nealalan/nealalan.github.io/edit/master/BASH-notes.md)]
