@@ -547,12 +547,111 @@ fi
 #!/bin/bash
 
 i=0
-while [
+while [ $i -le 10 ]; do
+	echo i:$i
+	((i+=1))
+done
+
+j=0
+until [ $j -ge ]; do
+	echo j:j$
+	((j+=1))
+done
 ````
 
+#### for loops
 
+```bash
+#!/bin/bash
 
+# use BRACE EXPANSION
+for i in {1..100}
+do
+	echo $i
+done
 
+# traditional stype
+for (( j=1; j<=10; 1++ ))
+do
+	echo $j
+done
+
+# with an array
+arr=("appple" "banana" "cherry")
+for k in ${arr[@]}
+do
+	echo $k
+done
+
+# with an associative array (BASH 4+)
+array["name"]="Scott"
+arr["id"]="1234"
+for m in "${!arr[@]}"
+do
+	echo "$i: ${arr[$i]}"
+done
+```
+
+- use command substitution in a for loop to output the ls command lines
+
+```bash
+#!/bin/bash
+
+for i in ${ls}
+do
+	echo "$i: ${arr[$i]}"
+done
+```
+
+#### selecting behavior using case
+
+```bash
+#!/bin/bash
+
+a="puppy"
+case $a in
+	cat) echo "Feline";;
+	dog|puppy) echo "Canine";;
+	*) echo "No match!";;
+esac
+```
+
+#### using functions
+
+```bash
+#!/bin/bash
+
+function greet {
+	echo "Hi there!"
+}
+
+echo "Here's a greeting:"
+greet
+
+# passing args
+
+function greet2 {
+	echo "Hi, $1"
+}
+
+greet2 Scott
+```
+
+- read in a list of things such as using `ls` represented by referencing `$@`
+```bash
+#!/bin/bash
+
+function numberthings {
+	i=1
+	for f in $@; do
+		echo $i: $f
+		((i+=1))
+	done
+}
+
+numberthings $(ls)
+
+```
 
 
 
