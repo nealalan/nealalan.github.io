@@ -79,9 +79,11 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 ## CAREER SITES 
 - [Glassdoor Job Search](https://www.glassdoor.com) - Great for searches and researching. I always apply through LinkedIn since it's always posted there too!
+- [indeed](http://www.indeed.com/?from=gnav-jobsearch--jasx)
 - The Ladders - A scam site. They only wants your money up front. I still get their emails so I can look for the jobs they send on other sites!
 - [Linkedin Jobs](https://www.linkedin.com/jobs/) 
-- [WeWorkRemotely](https://weworkremotely.com/)
+- [stackoverflow jobs](https://stackoverflow.com/jobs) - companies pay $7-10k to post their job here
+- [WeWorkRemotely](https://weworkremotely.com/) - companies pay $299 to post their job here
 
 ## TECH LINKS
 
