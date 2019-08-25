@@ -77,6 +77,12 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 # LINKS
 
+## CAREER SITES 
+- [Glassdoor Job Search](https://www.glassdoor.com) - Great for searches and researching. I always apply through LinkedIn since it's always posted there too!
+- The Ladders - A scam site. They only wants your money up front. I still get their emails so I can look for the jobs they send on other sites!
+- [Linkedin Jobs](https://www.linkedin.com/jobs/) 
+- [WeWorkRemotely](https://weworkremotely.com/)
+
 ## TECH LINKS
 
 #### general news
