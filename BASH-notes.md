@@ -11,6 +11,8 @@
 - MacOS ships with older 3.2
 - Current ver is 4.4
 
+A great resource for "gotchas" [https://www.tldp.org/LDP/abs/html/gotchas.html](https://www.tldp.org/LDP/abs/html/gotchas.html)
+
 ### 1. Working with the Command Line
 
 ```bash
@@ -666,7 +668,7 @@ echo $2
 $ ./script.sh Banana "Red Apple"
 ```
 
-- argument lists are references using `$@` and a count using `$#`
+- argument lists are references using `$@` and a count of the argument passed using `$#`
 
 ```bash
 #/bin/bash
@@ -794,13 +796,42 @@ Validating input using Regex:
 ```bash
 #!/bin/bash
 
-read -p "What year [nnnn]: " a
+read -p "What year? [nnnn] " a
 while [[ ! $a =~ [0-9]{4} ]]; do
 	read -p "A year, please [nnnn]: "
 done
 echo "Entered year: $a"
 ```
 
+#### Make a script that uses input
+
+A challenge for Chapter 4: Write a simple guessing game, using interactive input and a test condition. Also, build the program so that it responds to a command line argument and has a function if no argument is specified. Use a function in the script as well.
+
+```bash
+#!/bin/bash
+
+rand=$RANDOM
+secret=${rand:0:1}
+
+function game {
+	read -p "Guess a random one-digit number: " guess
+	while [[ $guess != $secret ]]; do
+		read -p "True again: " guess
+	done
+	echo "$secret is right!"
+}
+
+function generate {
+	echo "A random number is: $rand"
+	echo -e "Hint: type \033[1m$0 game\033[0m for a fun diversion!"
+}
+
+if [[ $1 =~ game|Game|GAME ]]; then
+	game
+else
+	generate
+fi
+```
 
 
 
