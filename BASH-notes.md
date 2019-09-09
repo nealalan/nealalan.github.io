@@ -685,6 +685,123 @@ echo "There were $# arguments."
 $ ./script.sh Banana "Red Apple" "Ice Cream" Cherry
 ```
 
-# working with flags
+#### working with flags
+- advantage of using flags versus arguments is you don't have to worry about order of flags
+
+
+```bash
+#!/bin/bash
+
+while getopts :u:p:a option; do
+	case $option in
+		u) user=$OPTARG;;
+		p) pass=$OPTARG;;
+		a) echo "Used the -a flag";;
+		?) echo "Unknown flag $OPTARG used";;
+	esac
+done
+
+echo "User: $user / Pass: $pass"
+```
+
+Run this with: `$ my.sh -u git -p abc123` 
+
+- putting a colon AFTER each flag `u:p:` means a value is expected with a flag
+- putting a colon BEFORE all flags `:u:p:` will indicate an unspecificed flag was used 
+
+#### getting input during execution
+
+Use the `read` keyword to pause and wait for input
+- use a `-s` to make a secret input
+- use a `-p` to inline the prompt
+
+```bash
+#!/bin/bash
+echo "What is your name?"
+read name
+echo "What is your password?"
+read -s pass
+
+read -p "What is your favorite animal? " animal
+
+echo Name: $name, Password: $pass, Animal: $animal
+```
+
+You can also use a menu prompt:
+
+```bash
+#!/bin/bash
+select animal in "cat" "dog" "bird" "fish"
+do
+	echo "You selected $animal!"
+	break
+done
+```
+
+Or use a case:
+
+```bash
+#!/bin/bash
+select animal in "cat" "dog" "quit"
+do
+	case $option in
+		cat) echo "Cats like to sleep.";;
+		dog) echo "Dogs like to fetch.";;
+		quit) break;;
+		*) echo "Huh?";;
+	esac
+done
+```
+
+#### ensuring input
+
+Forcing a usage recomendation:
+
+```bash
+#!/bin/bash
+
+if [ $# -lt 3 ]; then
+	cat <<- EOM
+	Syntax: command [username] [userid] [favNum]
+	EOM
+else
+	# the program goes here
+	echo "Name: $1, ID: $2, Num: $3"
+fi
+```
+
+Checking for input:
+
+```bash
+#!/bin/bash
+read -p "Favorite animal? " a
+while [[ -z "$a" ]]; do
+	read -p "I NEED AN ANSWER!!! " a
+done
+echo "$a was entered."
+
+# default to an answer
+read -p "Your name? [Your] " n
+while [[ -z "$n" ]]; do
+	n="Your"
+done
+
+echo "$n favorite animal is the $a"
+```
+
+Validating input using Regex:
+
+```bash
+#!/bin/bash
+
+read -p "What year [nnnn]: " a
+while [[ ! $a =~ [0-9]{4} ]]; do
+	read -p "A year, please [nnnn]: "
+done
+echo "Entered year: $a"
+```
+
+
+
 
 [[edit](https://github.com/nealalan/nealalan.github.io/edit/master/BASH-notes.md)]
