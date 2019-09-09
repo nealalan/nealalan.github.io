@@ -364,13 +364,20 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 
 <br>
 
+## AUDIO LINKS
+- [Digitally Imported (di.fm)](https://di.fm)
+- [Project Guttenberg](http://www.gutenberg.org/) - free ebooks and audio books
+- [Prime Music](https://music.amazon.com/my/albums)
+- [Piet van Noord](https://soundcloud.com/piet-van-noord/)
+- [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
+
+
+<br>
+
 ## OTHER LINKS
 - [Nasa Hubble Telescope](http://hubblesite.org/)
 - [James Webb Space Telescope](https://www.jwst.nasa.gov/)
-- [Prime Music](https://music.amazon.com/my/albums)
-- [Reggae Playlist](https://www.youtube.com/playlist?list=PLwZFYzceGf9QvDXsYUpuTmfUSTealVazx)
-- [Project Guttenberg](http://www.gutenberg.org/) - free ebooks and audio books
-- [mirrors.xmission.com/](http://mirrors.xmission.com/) - a site you can use to text ftp
+- [mirrors.xmission.com/](http://mirrors.xmission.com/) - a site you can use to test ftp
 
 
 
