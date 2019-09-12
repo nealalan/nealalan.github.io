@@ -237,7 +237,8 @@ $ curl https://keybase.io/nealalan/pgp_keys.asc | gpg --import
 - [Hacker One](HackerOne: Bug Bounty, Vulnerability Coordination)
 
 #### vulnerabilities
-- [OWASP Top 10 Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+- [OWASP Top 10 Cheat Sheet](https://cheatsheetseries.owasp.org/) - [git](https://github.com/OWASP/CheatSheetSeries)
+    - [LinkedIn Learning: 1 - Injection, 2 - Broken Authentication](https://www.linkedin.com/learning/owasp-top-10-1-injection-and-2-broken-authentication) - Use: input validation (list or regex filter); stored procedures; least privilege; complex passwords; MFA; encryption
 - [Vulnhub](https://www.vulnhub.com/) - gain practical 'hands-on' experience in digital security, computer software & network administration.
 - [webscantest.com](http://webscantest.com) - Use this site to test a scanner to see if it finds the vulnerabilities.
 - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - In wiki format! <3
