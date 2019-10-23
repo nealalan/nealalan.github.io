@@ -11,6 +11,8 @@
 
 ### 2017 MBP Setup Logs
 
+Used from 2019-07-21 past 2019-10-23. Objective is to have everything on the machine synced with either Google Drive or on GitHub. Anything in the Downloads folder or Desktop will need to be manually saved.
+
 - Installed MacOS Mojave 10.14.5
 - encrypted hard drive
 
