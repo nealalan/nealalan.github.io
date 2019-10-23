@@ -40,10 +40,8 @@ Chicago Transit Authority (trains & busses) location reporting, route reporting,
 Whitepaper notes, cheat sheet notes on AWS Services
 #### nealalan.github.io/[devops-tools-notes](https://nealalan.github.io/devops-tools-notes/) ([repo](https://github.com/nealalan/devops-tools-notes))
 Notes on learning and experimenting with DevOps Tools
-#### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/mac))
-Includes a copy of my ~/.bashrc
-#### nealalan.github.io/[mac](https://nealalan.github.io/mac)/[setup](https://nealalan.github.io/mac/setup) ([repo](https://github.com/nealalan/mac/tree/master/setup))
-
+#### nealalan.github.io/[mac](https://nealalan.github.io/mac) ([repo](https://github.com/nealalan/nealalan.github.io/tree/master/mac))
+Setup log and copy of ~/.bashrc
 <br>
 
 ## JUST FOR FUN
