@@ -295,6 +295,4 @@ $ cmatrix -s
 - Update to the latest version of npm `$ npm install -g npm@latest`
 - Install [testem](https://github.com/testem/testem) using `npm install testem -g`
 
-
-<br><br>
-[edit](https://github.com/nealalan/mac/edit/master/setup/README.md)
+#### the end.
