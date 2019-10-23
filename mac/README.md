@@ -34,10 +34,12 @@
 
 #### Commands
 - setup for use of locate command
-`$ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist`
+```$ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist```
 - screenshots
-`$ defaults write com.apple.screencapture location ~/Desktop/Screenshots`
-`$ defaults write com.apple.screencapture type jpg && killall SystemUIServer`
+```
+$ defaults write com.apple.screencapture location ~/Desktop/Screenshots
+$ defaults write com.apple.screencapture type jpg && killall SystemUIServer
+```
 - hide desktop files
 `$ defaults write com.apple.finder CreateDesktop -bool false && killall Finder`
 - always show Library
