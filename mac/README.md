@@ -73,9 +73,10 @@ $ brew install mpv
 $ sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /ur/local/bin/youtube-dl
 $ sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
-- set ~/Music folder as a symbolic link to Google Drive/MUSIC
-- set ~/Projects folder as a symbolic link to Google Drive/DEV
-- set ~/Pictures/Screenshots as a symbolic link to Google Drive/PHOTOS/Screenshots
+- Download & Install Backup and Synch by Google, select specific folders pointed to ~/Google Drive
+        - set ~/Music/MUSIC VIDEOS folder as a symbolic link to ~/Google Drive/MUSIC/MUSIC VIDEOS/
+        - set ~/Projects folder as a symbolic link to ~/Google Drive/DEV/
+        - set ~/Pictures/Screenshots as a symbolic link to ~/Google Drive/PHOTOS/Screenshots/
 - install https://github.com/fcambus/ansiweather
 - setup ~/.ansiweatherrc with: 
 ```
@@ -142,9 +143,6 @@ $ touch ~/.eslintrc.json
 
 #### Software
 - Chrome, install LastPass Extension, ublock origin
-- Backup and Synch by Google, select specific folders pointed to ~/Google Drive
-- ... create symbolic links ~/Desktop/Screenshots to ~/Google Drive/PHOTOS/Screenshots/
-- ... earlier command saves them to this location as a JPG
 - iterm2, setup to: profiles>command>bash, font to 13
   - copy in ~/.bashrc
 - Malwarebytes - free version
