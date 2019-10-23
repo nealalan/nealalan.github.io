@@ -8,7 +8,7 @@
 BASH scripts to create channel playlists and a menu to play playlists from the command line
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
 Create an NGINX web server running on Ubuntu Linux on AWS infrastructure within the free tier
-#### nealalan.github.io/[tf-201812-nealalan.com](https://nealalan.github.io/tf-201812-nealalan.com/) ([repo](https://github.com/nealalan/tf-201812-nealalan.com))
+#### nealalan.github.io/[tf-nealalan.com](https://nealalan.github.io/tf-nealalan.com/) ([repo](https://github.com/nealalan/tf-nealalan.com))
 Infrastructure as code to setup a VPC, Public Subnet, SG, IGW, RT, Assign Elastic IP and Public Key to an EC2 Ubuntu instance. Includes a shell script to configure the Ubuntu instance with NGINX and Certbot for multiple domains. 
 #### nealalan.github.io/[EC2_Ubuntu_LEMP](https://nealalan.github.io/EC2_Ubuntu_LEMP) ([repo](https://github.com/nealalan/EC2_Ubuntu_LEMP))
 Instructions and exmplanations to manually setup a secure nginx website on the AWS free tier<br>
@@ -34,8 +34,8 @@ Chicago Transit Authority (trains & busses) location reporting, route reporting,
 <br>
 
 ## NOTES 
-#### Gist: [Processing Photos: Phone -> Library](https://gist.github.com/nealalan/0b24bcde2b71cfeb2dc07c4fea249ba6)
 #### nealalan.github.io/[command](https://nealalan.github.io/command) ([repo](https://github.com/nealalan/command))
+#### Gist: [Processing Photos: Phone -> Library](https://gist.github.com/nealalan/0b24bcde2b71cfeb2dc07c4fea249ba6)
 #### nealalan.github.io/[aws-notes](https://nealalan.github.io/aws-notes/) ([repo](https://github.com/nealalan/aws-notes))
 Whitepaper notes, cheat sheet notes on AWS Services
 #### nealalan.github.io/[devops-tools-notes](https://nealalan.github.io/devops-tools-notes/) ([repo](https://github.com/nealalan/devops-tools-notes))
