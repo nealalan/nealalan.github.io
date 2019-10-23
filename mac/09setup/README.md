@@ -28,18 +28,18 @@ Unfortunately I have the Broadcom BCM4321 wifi chip, which will not work past OS
         - Best case, you have Google Drive synced the multiple computers and also those computers backed up onto a Time Machine and onto another Cloud Backup service.
     - Second use case (mine) is to use the partition for Kali Linux.
 - Restart and go through all the typical setup. I use the same login and password I use on my other Macs just to make interconnectivity simpler. 
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.07.21%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.07.21%20PM.png?raw=true)
 - One thing I noticed, when I signed into iCloud, a bunch of things were brought over from my other MacBookPro.
 - Out of the box, not connected to Wifi yet, I went to Activity Monitor and see I already have 207 processes running and over 2 GB memory used! By the time I screenshotted them all, I was up to 217! I'll consider stopping some of these unnecessary processes in the future.
 - ![[images]]()
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.16.49%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.17.05%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.17.23%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.17.38%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.17.53%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.18.30%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.18.41%20PM.png)
-![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%201.19.04%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.16.49%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.17.05%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.17.23%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.17.38%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.17.53%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.18.30%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.18.41%20PM.png)
+![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%201.19.04%20PM.png)
 - Turn off a bunch of the agents that start automatically. By dropping the following commands into Terminal, followed by a restart, I'm down to 159 processes at startup and 1.27 GB memory used. (Including Activity Monitor, that's > 20MB itself.
 ```bash
 $ launchctl unload -w /System/Library/LaunchAgents/com.apple.AirPlayUIAgent.plist 
@@ -142,10 +142,10 @@ $ csrutil enable
         - Select Digital, Check "Display time with seconds", "Flash the time separators", "Use a 24-hour clock", "Show the day of the week" and "Show date"
         - Optional: Check "Announe the time: On the hour" and Customize voice to "Zarvox"
     - Finder > In a finder window, right click on the tool bar > Select "Customize Toolbar
-        ![image](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%2015.26.13.png)
+        ![image](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%2015.26.13.png)
         - Drag off the toolbar: Edit Tags, Share = I never use these! 
         - Drag onto the toolbar: Path, New Folder, Delete, Get Info, Quick Look
-        ![image](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%2015.28.29.png)
+        ![image](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%2015.28.29.png)
     - Finder > Preferences > 
         - General tab > check "Hard dirks" and "Connected servers"
         - Sidebar tab > check "Pictures", "User name", "Hard disks" and uncheck "Recent tags"
@@ -156,7 +156,7 @@ $ csrutil enable
     - Remove Findr Sidebar icons...
         - I find "All my files" to be useless, so I remove it. 
         - To add a folder to the Sidebar, you just drag it where you want it! 
-        ![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%2016.18.06.jpg)
+        ![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%2016.18.06.jpg)
 ### Software I wanted to avoid on this install that others may want
 - Anything that runs agents that kill CPU cycles
 - Adobe
@@ -176,7 +176,7 @@ $ csrutil enable
        - To give some explanation here, I want all my Project folders to seamlessly be on my laptop and my other machines
        - I want any PHOTOS I scan or pull onto this computer to be synced onto Google Drive
        - I want any Screenshots I take to be in JPG format and save to my Global Screenshots folder. And within seconds, all the screenshots I dragged into the folder are synced to all my computers.
-       ![](https://github.com/nealalan/mac/blob/master/setup/images/Screen%20Shot%202018-09-20%20at%2016.08.47.jpg)
+       ![](https://github.com/nealalan/nealalan.github.io/blob/master/mac/09setup/Screen%20Shot%202018-09-20%20at%2016.08.47.jpg)
 
 ```bash
 # On my MacBookPro I wanted a folder called ~/Projects/ to point to my ~/Google Drive/DEV folder
