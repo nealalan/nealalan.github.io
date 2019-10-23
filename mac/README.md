@@ -34,29 +34,45 @@
 
 #### Commands
 - setup for use of locate command
-```$ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist```
+```
+$ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+```
 - screenshots
 ```
 $ defaults write com.apple.screencapture location ~/Desktop/Screenshots
 $ defaults write com.apple.screencapture type jpg && killall SystemUIServer
 ```
 - hide desktop files
-`$ defaults write com.apple.finder CreateDesktop -bool false && killall Finder`
+```
+$ defaults write com.apple.finder CreateDesktop -bool false && killall Finder
+```
 - always show Library
-`$ chflags nohidden ~/Library/`
+```
+$ chflags nohidden ~/Library/
+```
 - expand save panel
-`$ defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true`
-`$ defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode2 -bool true`
+```
+$ defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
+$ defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode2 -bool true
+```
 - xcode dev tools
-`$ xcode-select --install`
+```
+$ xcode-select --install
+```
 - install homebrew
-`$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 - install media player
-`$ brew install mpv`
+```
+$ brew install mpv
+```
 - install youtube-dl not using package manager because it's not always the latest ver
 - when youtube-dl breaks, run this again!
-`$ sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /ur/local/bin/youtube-dl`
-`$ sudo chmod a+rx /usr/local/bin/youtube-dl`
+```
+$ sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /ur/local/bin/youtube-dl
+$ sudo chmod a+rx /usr/local/bin/youtube-dl
+```
 - set ~/Music folder as a symbolic link to Google Drive/MUSIC
 - set ~/Projects folder as a symbolic link to Google Drive/DEV
 - set ~/Pictures/Screenshots as a symbolic link to Google Drive/PHOTOS/Screenshots
@@ -73,42 +89,62 @@ $ defaults write com.apple.screencapture type jpg && killall SystemUIServer
         greeting_text: 
 ```
 - install node, npm, n
-`$ brew install n`
-`$ sudo n lts`
-- install testem
-$ npm install testem -g
-$ ln -s /usr/local/Cellar/node/12.4.0/bin/testem testemw
+```
+$ brew install n
+$ sudo n lts
+```
 - setup github ssh
 - CREATE SSH KEY TO ADD TO GITHUB
+```
 $ ssh-keygen -t rsa -C "neal@email.com"
 $ eval "$(ssh-agent -s)"
 $ ssh-add -K ~/.ssh/id_rsa
+```
 - COPY THE ID_RSA and PASTE INTO https://github.com/settings/keys
 - TEST OUT THE SSH CONNECTION ON YOUR BOX
+```
 $ ssh -T git@github.com
-- install and config ESLINT
+```
+- install terraform - *terraform version issues* 
+```
+$ brew install terraform
+```
+- install speedtest-cli and ftp client
+```
+$ brew install speedtest-cli
+$ brew install vsftpd
+```
+
+#### Coding bootcamp stuff to install
+- install testem (for coding bootcamp)
+```
+$ npm install testem -g
+$ ln -s /usr/local/Cellar/node/12.4.0/bin/testem testemw
+```
+- install and config ESLINT (for coding bootcamp)
+```
 $ npm install -g eslint eslint-config-fullstack eslint-plugin-react babel-eslint
 $ touch ~/.eslintrc.json
+```
+
 ```
         {
         "extends": "fullstack"
         }
 ```
 
-- Of course, this wasn't working because the npm packages installed globally weren't found... I installed them locally and they started working
-- install terraform - *terraform version issues* 
-$ brew install terraform
-- install speedtest-cli
-$ brew install speedtest-cli
-$ brew install vsftpd
+- Note: Of course, this wasn't working because the npm packages installed globally weren't found... I installed them locally and they started working
+
 
 #### SSH KEY FOR AWS
-- tried to re-add the private key and it won't conenct. easiest to rebuild the aws instance
-- determined there was a newer version of the key in LASTPASS so used it and it worked!!!
+- tried to re-add the private key and it won't conenct
+- determined there was a newer version of the key in LASTPASS so used it and it worked!!! *Next time, name keys something more specific than neals-web-server*
 
 #### Software
 - Chrome, install LastPass Extension, ublock origin
 - Backup and Synch by Google, select specific folders pointed to ~/Google Drive
+- ... create symbolic links ~/Desktop/Screenshots to ~/Google Drive/PHOTOS/Screenshots/
+- ... earlier command saves them to this location as a JPG
 - iterm2, setup to: profiles>command>bash, font to 13
   - copy in ~/.bashrc
 - Malwarebytes - free version
