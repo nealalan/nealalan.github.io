@@ -153,6 +153,7 @@ $ touch ~/.eslintrc.json
   - bashling
   - terraform
   - ESLint
+  - Pylint
 - iDrive
 - Wireshark
 - FireFox
@@ -162,6 +163,7 @@ $ touch ~/.eslintrc.json
 - HWSensors - HWMonitor
 - Skype
 - VirtualBox-6.0.12-133076-OSX
+- Android share (never could get this to work)
 
 #### From APP STORE
 - Slack
