@@ -164,6 +164,7 @@ $ touch ~/.eslintrc.json
 - Skype
 - VirtualBox-6.0.12-133076-OSX
 - Android share (never could get this to work)
+- Microsoft Remote Desktop 10 (RDP)
 
 #### From APP STORE
 - Slack
