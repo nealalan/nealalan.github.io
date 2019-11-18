@@ -24,8 +24,6 @@ Part of the EC2_Ubuntu_LEMP project, this bash script, for use in init.d, will a
 ## CODING & SCRIPTING
 #### nealalan.github.io/[code-exercises](https://nealalan.github.io/code-exercises) ([repo](https://github.com/nealalan/code-exercises)) - JavaScript and Python coding exercised
 #### nealalan.github.io/[scripts](https://nealalan.github.io/scripts) ([repo](https://github.com/nealalan/scripts)) - Some python and bash scripts
-#### nealalan.github.io/[python](https://nealalan.github.io/python/) ([repo](https://github.com/nealalan/python))
-Notes on using Python 3 for Sys Admins
 #### nealalan.github.io/[api-stuff-201812](https://github.com/nealalan/api-stuff-201812) ([repo](https://github.com/nealalan/api-stuff-201812))
 API notes and labs I have played around with in Dec 2018
 #### nealalan.github.io/[Transportation](https://nealalan.github.io/Transportation) ([repo](https://github.com/nealalan/Transportation))
