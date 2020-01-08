@@ -154,7 +154,8 @@ $ aws help
 ```
 $ aws configure
 # region I use is us-east-1 or us-east-2
-$ aws s3 ls
+# SHOW THE KEY WE JUST ADDED!
+$ aws iam list-access-keys
 # describing an instance and grepping the output is easier if it's in TEXT output (default is JSON)
 $ aws ec2 describe-instances --output text --region us-east-2
 $ aws ec2 describe-instances --output table --region us-east-2
