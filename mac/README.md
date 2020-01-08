@@ -34,7 +34,7 @@ Used from 2019-07-21 past 2019-10-23. Objective is to have everything on the mac
 - set Audio and BlueTooth to show up in Menu Bar
 - iTunes: Preferences: Devices: Prevent from launching....
 
-#### Commands
+#### Configuration & Setup Commands
 - setup for use of locate command
 ```
 $ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
@@ -117,8 +117,13 @@ $ brew install terraform
 $ brew install speedtest-cli
 $ brew install vsftpd
 ```
+- install python3 flask
+```
+$ brew install pip3
+$ pip install flask
+```
 
-#### Coding bootcamp stuff to install
+#### Coding bootcamp stuff to install (if needed)
 - install testem (for coding bootcamp)
 ```
 $ npm install testem -g
@@ -128,20 +133,32 @@ $ ln -s /usr/local/Cellar/node/12.4.0/bin/testem testemw
 ```
 $ npm install -g eslint eslint-config-fullstack eslint-plugin-react babel-eslint
 $ touch ~/.eslintrc.json
-```
 
-```
         {
         "extends": "fullstack"
         }
 ```
-
 - Note: Of course, this wasn't working because the npm packages installed globally weren't found... I installed them locally and they started working
 
+#### AWS CLI Setup
+- install awscli
+```
+$ brew install awscli
+$ chmod 755 /usr/local/lib/pkgconfig
+# TEST IT
+$ aws help
+```
 
-#### SSH KEY FOR AWS
-- tried to re-add the private key and it won't conenct
-- determined there was a newer version of the key in LASTPASS so used it and it worked!!! *Next time, name keys something more specific than neals-web-server*
+- setup the AWS CLI access keys. 
+(These are found in AWS Console: IAM: Users: (username): Security credentials: Create Access Key)
+```
+$ aws configure
+# region I use is us-east-1 or us-east-2
+$ aws s3 ls
+# describing an instance and grepping the output is easier if it's in TEXT output (default is JSON)
+$ aws ec2 describe-instances --output text --region us-east-2
+$ aws ec2 describe-instances --output table --region us-east-2
+```
 
 #### Software
 - Chrome, install LastPass Extension, ublock origin
@@ -163,8 +180,9 @@ $ touch ~/.eslintrc.json
 - HWSensors - HWMonitor
 - Skype
 - VirtualBox-6.0.12-133076-OSX
-- Android share (never could get this to work)
+- Android share (never could get this to work) - spyware? IDK
 - Microsoft Remote Desktop 10 (RDP)
+- PyCharm - recomended better for writing and testing python, particularly flask from localhost
 
 #### From APP STORE
 - Slack
