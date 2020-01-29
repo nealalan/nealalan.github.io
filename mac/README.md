@@ -122,6 +122,14 @@ $ brew install vsftpd
 $ brew install pip3
 $ pip install flask
 ```
+- install virtualenv and activate
+```
+$ pip3 install virtualenv
+$ virtualenv venv-abc
+$ source venv-abc/bin/activate
+$ deactivate
+```
+
 
 #### Coding bootcamp stuff to install (if needed)
 - install testem (for coding bootcamp)
