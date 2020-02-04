@@ -8,7 +8,7 @@
 
 ## PROJECTS
 #### nealalan.github.io/[AWS-Email-Forwarder](https://nealalan.github.io/AWS-Email-Forwarder/) 
-Steps to setup a Free-ish email forwarding for a domain name using the AWS CLI.
+Steps to setup an email forwarding service via the command line. (uses Route 53, IAM, S3, SES, Lambda, CloudWatch).
 #### nealalan.github.io/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 BASH scripts to create channel playlists and a menu to play playlists from the command line
 #### nealalan.github.io/[LAB-AWS_webserver_via_terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform) ([repo](https://github.com/nealalan/LAB-AWS_webserver_via_terraform))
