@@ -5,6 +5,7 @@
 
 #######################################################################################################################
 # FROM 2019-08-14 ON MBP
+# EDITED 2020-05-14 updated cli from WORK MBP
 #######################################################################################################################
 #  Description:  This file holds all my BASH configurations and aliases
 #  1.  Environment Configuration
@@ -74,7 +75,8 @@ TEAL='\[\033[01;36m\]'
 RED='\[\033[01;31m\]'
 YELLOW='\[\033[01;33m\]'
 ENDCOL='\[\e[m\]'
-export PS1="${BWHITE}[${BGREEN}\D{%Y.%m.%d} \t${BWHITE}] ${TEAL}\u${RED}@${GREEN}\h${BWHITE}:${YELLOW}\w\[\033[m\]\[\e[32m\]\`parse_git_branch\`${BWHITE}$ ${ENDCOL}"
+#export PS1="${BWHITE}[${BGREEN}\D{%Y.%m.%d} \t${BWHITE}] ${TEAL}\u${RED}@${GREEN}\h${BWHITE}:${YELLOW}\w\[\033[m\]\[\e[32m\]\`parse_git_branch\`${BWHITE}$ ${ENDCOL}"
+export PS1="${BWHITE}•${BGREEN}\D{%Y.%m.%d} \t${BWHITE}• ${TEAL}\u${RED}@${GREEN}\h${BWHITE}:${YELLOW}\w${GREEN}\`parse_git_branch\`${BWHITE}$ ${ENDCOL}"
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 export PATH="/usr/local/bin:/usr/local/:/usr/local/sbin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
