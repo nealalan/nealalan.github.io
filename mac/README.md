@@ -130,6 +130,9 @@ $ source venv-abc/bin/activate
 $ deactivate
 ```
 
+#### To install iMovie 
+I had to go to App Store: Account: Purchased and it somehow let me download it.
+
 
 #### Coding bootcamp stuff to install (if needed)
 - install testem (for coding bootcamp)
