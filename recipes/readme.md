@@ -7,32 +7,32 @@ Origial source was the food network, but the link no longer works.
 
 #### Ingredients
 
-| Amt | Item |
-|----|----|
-| 4 tablespoons | ghee or clarified butter | 
-| 1 1/2 pounds | diced boneless, skinless chicken thighs | 
-| 2 tablespoons | garam masala | 
-| 1 3/4 teaspoons | salt | 
-| 2 cups small diced | onions | 
-| 1/2 cup small diced | carrots | 
-| 1/2 cup small diced | celery | 
-| 2 tablespoons minced | garlic | 
-| 2 tablespoons minced | ginger | 
-| 2 cups peeled, | cored and diced Granny Smith apples | 
-| 1 cup peeled and diced | Yukon gold potatoes | 
-| 1 cup peeled and diced | sweet potatoes | 
-| 1 cup dried | red lentils | 
-| 6 cups | chicken stock | 
-| 3/4 teaspoons | freshly ground black pepper | 
-| 3/4 cup diced | zucchini | 
-| 3/4 cup diced | yellow squash | 
-| 1 cup tightly packed | baby spinach | 
-| 1 (14-ounce) can | unsweetened coconut milk | 
-| 1 cup peeled, | seeded and chopped tomatoes (PASS ON THIS) | 
-| 1 tablespoon | apple cider vinegar (OR lemon) | 
-| 3 cups steamed | white basmati rice | 
-| 1/2 cup finely ground | toasted cashews | 
-| 1/4 cup chopped | fresh cilantro leaves | 
+  | Amt | Item |
+  |----|----|
+  | 4 tablespoons | ghee or clarified butter | 
+  | 1 1/2 pounds | diced boneless, skinless chicken thighs | 
+  | 2 tablespoons | garam masala | 
+  | 1 3/4 teaspoons | salt | 
+  | 2 cups small diced | onions | 
+  | 1/2 cup small diced | carrots | 
+  | 1/2 cup small diced | celery | 
+  | 2 tablespoons minced | garlic | 
+  | 2 tablespoons minced | ginger | 
+  | 2 cups peeled, | cored and diced Granny Smith apples | 
+  | 1 cup peeled and diced | Yukon gold potatoes | 
+  | 1 cup peeled and diced | sweet potatoes | 
+  | 1 cup dried | red lentils | 
+  | 6 cups | chicken stock | 
+  | 3/4 teaspoons | freshly ground black pepper | 
+  | 3/4 cup diced | zucchini | 
+  | 3/4 cup diced | yellow squash | 
+  | 1 cup tightly packed | baby spinach | 
+  | 1 (14-ounce) can | unsweetened coconut milk | 
+  | 1 cup peeled, | seeded and chopped tomatoes (PASS ON THIS) | 
+  | 1 tablespoon | apple cider vinegar (OR lemon) | 
+  | 3 cups steamed | white basmati rice | 
+  | 1/2 cup finely ground | toasted cashews | 
+  | 1/4 cup chopped | fresh cilantro leaves | 
 
 #### Directions
 * Set a 4 or 5-quart saucepan over medium heat and add the ghee.
