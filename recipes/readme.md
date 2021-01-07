@@ -371,7 +371,7 @@ BLEND. DRINK.
 
 #### Ingredients
 
-  | AMT } Item |
+  | AMT | Item |
   |----|----|
   | 5-6 lbs | chicken | 
   | 2 peppers (or 2 tsp ground) - | scotch bonnet or habaneros w/ seeds | 
