@@ -16,7 +16,8 @@
 - Fabulous Chicken Salad
 
 
-## Emeril's Mulligatawny Soup 
+<details><summary>Emeril's Mulligatawny Soup </summary>
+ 
 Origial source was the food network, but the link no longer works.
 
 #### Ingredients
@@ -66,9 +67,10 @@ Origial source was the food network, but the link no longer works.
 * place 1/4 cup of the rice in a warmed bowl, and pour 8 ounces of the soup over the rice,
 * garnish with a tablespoon of the cashews,
 * 2 teaspoons of the cilantro
+</details>
 
-
-## Lentil Soup with Cauliflower and Bacon 
+<details><summary>## Lentil Soup with Cauliflower and Bacon </summary>
+ 
 http://www.delish.com/recipefinder/lentil-soup-cauliflower-bacon-recipe-7821
 
 #### Ingredients
@@ -92,8 +94,10 @@ Also
 2. Reduce the heat to moderately low. Add the onion to the pot and cook, stirring occasionally, until translucent, about 5 minutes.
 3. Add the lentils, salt, pepper, rosemary, bay leaf and water to the pot. Bring to a boil. Reduce the heat and simmer, partially covered, stirring occasionally, for 15 minutes. Add the cauliflower florets and simmer, stirring occasionally, until the cauliflower and lentils are tender, about 15 minutes longer. Remove the bay leaf.
 4. Stir the parsley into the soup. Serve the soup topped with the bacon.
+</details>
 
-## Green Chutney (Indian Mint - Cilantro Chutney) 
+<details><summary>Green Chutney (Indian Mint - Cilantro Chutney)</summary>
+ 
 https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-156498?oc=linkback
 
 #### Ingredients
@@ -109,7 +113,8 @@ https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-
 #### Directions
 - Grind all the ingredients with a little water.
 
-## saag paneer {spinach curry}
+</details>
+<details><summary>saag paneer {spinach curry}</summary>
 
 #### Ingredients
 * 16 oz frozen spinach
@@ -131,7 +136,9 @@ https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-
 2. Heat ghee or butter in a large pot over medium heat. Add chopped onion and cook, stirring often, until very soft and golden – 20-25 minutes. Reduce the heat if onions are browning – low and slow is the goal.
 3. Add the ginger and garlic and cook until fragrant, about 1 minute. Add the turmeric, cumin and fenugreek powder and cook 1 minute more. Stir in the spinach, bring to a simmer, then add cream or yogurt, lemon juice and salt to taste. Gently stir in paneer and heat through.
 
-## Cuban Pork Roast
+</details>
+<details><summary>Cuban Pork Roast</summary>
+
 Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers - tastes even better!)
 
 #### STEP 1 - Orange Mixture
@@ -208,7 +215,8 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 ALSO 
 This is excellent served with sliced, oiled, salted (spiced to preference) and baked plantains or sweet potatoes. Also excellent with guacamole. Can eat with grilled/toasted pita bread. For leftovers, allow crockpot to simmer for an hour or two uncovered to help reduce remaining juice.
 
-## Homemade Applesauce in a Pressure Cooker
+</details>
+<details><summary>Homemade Applesauce in a Pressure Cooker</summary>
 
 Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauce-in-a-pressure-cooker
 
@@ -234,8 +242,8 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 * Note: You may not need any sugar at all. I didn’t use any with the Fireside apples. 
 * Note: No butter necessary, though this is a nice rich addition sometimes.
 
-
-## Gajar halwa - warm carrot based dessert
+</details>
+<details><summary>Gajar halwa - warm carrot based dessert</summary>
 
 #### Ingredients
 
@@ -260,7 +268,8 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 - Garnish with cashew nuts fried in ghee (used fresh ground not fried). 
 - Serve hot.
 
-## Neal's Guacamole
+</details>
+<details><summary>Neal's Guacamole</summary>
 
 - Remove avocado from skin and place in mixing bowl
 - Add plenty of lime with pulp (i use two small lime per 2-3 lg avocados)
@@ -280,7 +289,8 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 - Excellent served on grilled fish over bed of rice
 - https://t.co/tci98dkwk0
 
-## Navrathan korma
+</details>
+<details><summary>Navrathan korma</summary>
 
 SERVES ABOUT 5
 
@@ -323,7 +333,8 @@ Oil -- as needed to fry paneer (i use corn oil)
 9. Mix (blend if desired) pineapple, cashews and almonds and add.
 10. Simmer for about 3 minutes. Serve hot in metal bowl.
 
-## Pineapple margarita
+</details>
+<details><summary>Pineapple margarita</summary>
 
 - 1 lime
 - 1/2 cup pineapple
@@ -336,7 +347,7 @@ Oil -- as needed to fry paneer (i use corn oil)
  
 BLEND. DRINK.
 
-## Sunny summer squash soup (Vitamix)
+</details><summary>Sunny summer squash soup (Vitamix)</summary>
 
 - *I like this soup blended smoother than my hand blender can get it.* 
 - Preparation time: 5 minute(s) | Cooking time: 45 minute(s)
@@ -363,7 +374,8 @@ BLEND. DRINK.
 2. Add all remaining ingredients except the optional ones. Cover and cook until the potatoes are completely tender (they will mash if lightly pressed with a spoon), about 25-40 minutes.
 3. Remove half of the soup and put it into a blender* and puree at high speed until completely smooth. (Be careful–hot liquids can erupt from your blender; I always remove the center cup from the lid and cover the opening with a kitchen towel.) Once it’s blended, pour the soup into another pot. Add the remaining soup to the blender, along with any optional ingredients you choose to use, and blend well. Add to the other half of the soup, and simmer for about 5 minutes. Ladle into bowls, garnish with slices of red bell pepper, and serve.
 
-## Neal's Jerk Chicken 
+</details>
+<details><summary>Neal's Jerk Chicken</summary>
 
 #### Ingredients
 
@@ -405,7 +417,8 @@ Optional:
 8. When the pieces are nicely cooked on the bottom, brush the remaining juice in the mix bowl on the top of the chicken and it turn it over.
 9. The chicken is done cooking when it reaches at least 165 and the outside is grilled crisp to your liking
 
-## Banana Raisen Bread
+</details>
+<details><summary>Banana Raisen Bread</summary>
 
 from cooks.com; Makes 12 servings.
 
@@ -432,7 +445,8 @@ from cooks.com; Makes 12 servings.
 8. Stir in raisins and pour batter into sprayed pan. 
 9. Bake 50 minutes. Remove from heat and cool. 
 
-## Fabulous Chicken Salad
+</details>
+<details><summary>Fabulous Chicken Salad</summary>
 
 - 1 roasted chicken picked off the bone or use 4 chicken breasts shredded
 - 1 bag of Craisins
@@ -447,6 +461,29 @@ from cooks.com; Makes 12 servings.
 
 Mix all ingredients together in large mixing bowl service with crackers, chips or on bed of lettuce greens.
 
+</details>
+<details><summary>Microwave Rice Cooker Rice Pudding</summary>
+
+1. 2 c Rice in rice cooker
+1. 2 c Water in rice cooker
+1. 3 c Milk in rice cooker
+1. COOK 12 minutes in microwave (or whatever would usually cook the rice most of the way)
+1. 2 c Milk added to rice cooker
+1. 1 egg in rice cooker
+1. 1/4 c Brown Sugar in rice cooker
+1. 1/4 c Sugar in rice cooker
+1. 1/2 tsp Salt in rice cooker
+1. STIR WELL
+1. COOK 2.5 minutes with no lid
+1. 1 c Milk in rice cooker (if needed because of dryness)
+1. STIR WELL
+1. COOK 2.5 minutes with no lid
+1. IF rice not is well cooked, cook additional 2.5 and stir
+1. 2 tsp Butter in rice cooker
+1. 1 tsp heaping Cinnamon in rice cooker
+1. STIR WELL
+
+</details>
 
 
 
