@@ -128,26 +128,26 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 
 #### STEP 1 - Orange Mixture
 
-| AMT | Ingredient |
-|----|----|
-| 2.5 cups | water | 
-| 1 cup fresh | orange juice (or about 4 oranges juiced) - better with low/no pulp | 
-| 1/2 cup chopped | cilantro stems | 
-| 1 medium | orange, quartered | 
-| 3/4 tsp | black or pink salt  | 
-| 3/4 tsp | black pepper | 
+  | AMT | Ingredient |
+  |----|----|
+  | 2.5 cups | water | 
+  | 1 cup fresh | orange juice (or about 4 oranges juiced) - better with low/no pulp | 
+  | 1/2 cup chopped | cilantro stems | 
+  | 1 medium | orange, quartered | 
+  | 3/4 tsp | black or pink salt  | 
+  | 3/4 tsp | black pepper | 
 
 * Combine ingredients in a blender; process until smooth. Strain through a fine sieve over a bowl; discard solids.
 
 #### STEP 2
 
-| AMT | Ingredient |
-|----|-----|
-| 4-5 lb | bone-in pork shoulder, trimmed | 
-| 6 pieces | (thick) bacon | 
-| 1 pound | dried black beans or 1 to 2 cans refried black bens | 
-| 1/2 tsp | black or pink salt | 
-| 1/2 tsp | black pepper | 
+  | AMT | Ingredient |
+  |----|-----|
+  | 4-5 lb | bone-in pork shoulder, trimmed | 
+  | 6 pieces | (thick) bacon | 
+  | 1 pound | dried black beans or 1 to 2 cans refried black bens | 
+  | 1/2 tsp | black or pink salt | 
+  | 1/2 tsp | black pepper | 
 
 * Place diced bacon in a large skillet or soup pot (cast iron works best) over medium heat; cook until crisp. 
 * Remove bacon, leaving remains in pan. Place bacon in a large slow cooker. 
@@ -159,17 +159,17 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 
 ### STEP 3
 
-| AMT | Ingredient |
-|----|-----|
-| 5 tsp | grape seed or avocado oil | 
-| 10-12 | green onions diced with green scallions | 
-| 6 | garlic cloves, crushed or diced finely | 
-| 1/4 cup chopped | fresh oregano, divided | 
-| 2 teaspoons | paprika | 
-| 2 teaspoons | ground cumin | 
-| 1 1/2 teaspoons | crushed red pepper | 
-| 1 can | plain organic tomato sauce | 
-| 1 seeded and thinly sliced | jalapeño or HOT pepper | 
+  | AMT | Ingredient |
+  |----|-----|
+  | 5 tsp | grape seed or avocado oil | 
+  | 10-12 | green onions diced with green scallions | 
+  | 6 | garlic cloves, crushed or diced finely | 
+  | 1/4 cup chopped | fresh oregano, divided | 
+  | 2 teaspoons | paprika | 
+  | 2 teaspoons | ground cumin | 
+  | 1 1/2 teaspoons | crushed red pepper | 
+  | 1 can | plain organic tomato sauce | 
+  | 1 seeded and thinly sliced | jalapeño or HOT pepper | 
 
 * Return skillet to medium-high heat. 
 * Add oil, diced onion and 6 garlic cloves; sauté until onions are limp. 
@@ -180,10 +180,10 @@ Perfected by Neal Dreher 2015-05-11 - Serves 8 (or a lot of excellent leftovers 
 
 #### STEP 4
 
-| AMT | Ingredient |
-|----|-----|
-| 1 | bay leaf | 
-| 4 chopped into strips | garlic cloves | 
+  | AMT | Ingredient |
+  |----|-----|
+  | 1 | bay leaf | 
+  | 4 chopped into strips | garlic cloves | 
 
 * Add orange mixture and bay leaf to slow cooker. 
 * Cut slits in pork and add garlic inside pork. 
@@ -207,13 +207,13 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 
 #### Ingredients
 
-| AMT | Ingredient | Metric |
-|----|-----|----|
-| 3 pounds | apples | about 1.5 kg | 
-| 1/2 cup | water | 120 ml | 
-| 1 teaspoon | cinnamon | 1 gm | 
-| 1-2 tablespoons | dark brown sugar | maybe 12-25 gm | 
-| 1 tablespoon | butter, **optional** | 15 gm | 
+  | AMT | Ingredient | Metric |
+  |----|-----|----|
+  | 3 pounds | apples | about 1.5 kg | 
+  | 1/2 cup | water | 120 ml | 
+  | 1 teaspoon | cinnamon | 1 gm | 
+  | 1-2 tablespoons | dark brown sugar | maybe 12-25 gm | 
+  | 1 tablespoon | butter, **optional** | 15 gm | 
 
 #### Directions
 
@@ -232,15 +232,15 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 
 #### Ingredients
 
-| Ingredient | AMT |
-|----|-----|
-| Grated carrot | 2 cups| 
-| Milk | 3 cups (used 1.5 cups heavy whipping cream & 1.5 cups water) | 
-| Sugar | 2 tbl spns (used 4tbls brown sugar) | 
-| Cardamom powder 1/4 tea spn (shelled ~8 myself and ground in vitamix) | 
-| Saffron | 4-5 strands | 
-| Ghee | 1 tbl spn (used 2.5 tblsp butter and was way too much!) | 
-| Cashew nuts | 1 tbl spn (ground 6 in vitamix)| 
+  | Ingredient | AMT |
+  |----|-----|
+  | Grated carrot | 2 cups| 
+  | Milk | 3 cups (used 1.5 cups heavy whipping cream & 1.5 cups water) | 
+  | Sugar | 2 tbl spns (used 4tbls brown sugar) | 
+  | Cardamom powder 1/4 tea spn (shelled ~8 myself and ground in vitamix) | 
+  | Saffron | 4-5 strands | 
+  | Ghee | 1 tbl spn (used 2.5 tblsp butter and was way too much!) | 
+  | Cashew nuts | 1 tbl spn (ground 6 in vitamix)| 
 
 
 #### Method
@@ -365,26 +365,26 @@ BLEND. DRINK.
 
 #### Ingredients
 
-| AMT } Item |
-|----|----|
-| 5-6 lbs | chicken | 
-| 2 peppers (or 2 tsp ground) - | scotch bonnet or habaneros w/ seeds | 
-| 1/2 cup l| emon or lime juice | 
-| 2 Tbsp | dark rum | 
-| ⅓ cup | brown sugar | 
-| 2 Tbsp | garlic | 
-| 1 | red onion, diced | 
-| 4 | green onion tops, diced | 
-| 1 Tbsp | thyme  | 
-| 2 Tbsp | olive oil | 
-| 2 tsp | salt | 
-| 2 tsp freshly | ground black pepper | 
-| 4 tsp | ground allspice | 
-| 4 tsp | ground cinnamon | 
-| 4 tsp | ground nutmeg | 
-| 4 tsp | ground ginger | 
-| 2 tsp | molasses | 
-| 1 tsp | salt (pink or black preferred) | 
+  | AMT } Item |
+  |----|----|
+  | 5-6 lbs | chicken | 
+  | 2 peppers (or 2 tsp ground) - | scotch bonnet or habaneros w/ seeds | 
+  | 1/2 cup l| emon or lime juice | 
+  | 2 Tbsp | dark rum | 
+  | ⅓ cup | brown sugar | 
+  | 2 Tbsp | garlic | 
+  | 1 | red onion, diced | 
+  | 4 | green onion tops, diced | 
+  | 1 Tbsp | thyme  | 
+  | 2 Tbsp | olive oil | 
+  | 2 tsp | salt | 
+  | 2 tsp freshly | ground black pepper | 
+  | 4 tsp | ground allspice | 
+  | 4 tsp | ground cinnamon | 
+  | 4 tsp | ground nutmeg | 
+  | 4 tsp | ground ginger | 
+  | 2 tsp | molasses | 
+  | 1 tsp | salt (pink or black preferred) | 
 
 Optional:
 - Baked beans can
