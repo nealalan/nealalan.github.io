@@ -1,20 +1,5 @@
 # [nealalan.github.io](https://nealalan.github.io/)/[recipes/](https://nealalan.github.io/recipes/)
 
-## TOC
-- Emeril’s Mulligatawny Soup
-- Lentil Soup with Cauliflower and Bacon
-- Green Chutney (Indian Mint - Cilantro Chutney)
-- saag paneer {spinach curry}
-- Cuban Pork Roast
-- Homemade Applesauce in a Pressure Cooker
-- Gajar halwa - warm carrot based dessert
-- Neal's Guacamole
-- Navrathan korma
-- Pineapple margarita
-- Neal's Jerk Chicken
-- Banana Raisen Bread
-- Fabulous Chicken Salad
-
 
 <details><summary>Emeril's Mulligatawny Soup </summary>
  
@@ -67,9 +52,9 @@ Origial source was the food network, but the link no longer works.
 * place 1/4 cup of the rice in a warmed bowl, and pour 8 ounces of the soup over the rice,
 * garnish with a tablespoon of the cashews,
 * 2 teaspoons of the cilantro
-</details>
 
-<details><summary>## Lentil Soup with Cauliflower and Bacon </summary>
+</details>
+<details><summary>Lentil Soup with Cauliflower and Bacon </summary>
  
 http://www.delish.com/recipefinder/lentil-soup-cauliflower-bacon-recipe-7821
 
@@ -94,8 +79,8 @@ Also
 2. Reduce the heat to moderately low. Add the onion to the pot and cook, stirring occasionally, until translucent, about 5 minutes.
 3. Add the lentils, salt, pepper, rosemary, bay leaf and water to the pot. Bring to a boil. Reduce the heat and simmer, partially covered, stirring occasionally, for 15 minutes. Add the cauliflower florets and simmer, stirring occasionally, until the cauliflower and lentils are tender, about 15 minutes longer. Remove the bay leaf.
 4. Stir the parsley into the soup. Serve the soup topped with the bacon.
-</details>
 
+</details>
 <details><summary>Green Chutney (Indian Mint - Cilantro Chutney)</summary>
  
 https://www.geniuskitchen.com/recipe/green-chutney-indian-mint-cilantro-chutney-156498?oc=linkback
@@ -347,7 +332,8 @@ Oil -- as needed to fry paneer (i use corn oil)
  
 BLEND. DRINK.
 
-</details><summary>Sunny summer squash soup (Vitamix)</summary>
+</details>
+<details><summary>Sunny summer squash soup (Vitamix)</summary>
 
 - *I like this soup blended smoother than my hand blender can get it.* 
 - Preparation time: 5 minute(s) | Cooking time: 45 minute(s)
