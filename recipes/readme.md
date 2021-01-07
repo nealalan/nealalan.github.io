@@ -280,33 +280,37 @@ Serves 4-6 generously, http://blog.kitchentherapy.us/2009/10/fireside-apple-sauc
 SERVES ABOUT 5
 
 ##### Ingredients PART 1
-Ghee -- 2 tbsp
-Ginger -- 1/2 tsp 
-Garlic -- 3/4 tsp 
-Green Chilli -- 2 to 3 (or can use regular red chilli/hot sauce)
-Cilantro (Coriander ) -- 2 tbsp (dried works)
+
+- Ghee -- 2 tbsp
+- Ginger -- 1/2 tsp 
+- Garlic -- 3/4 tsp 
+- Green Chilli -- 2 to 3 (or can use regular red chilli/hot sauce)
+- Cilantro (Coriander ) -- 2 tbsp (dried works)
 
 ##### Ingredients PART 2
-Cauliflower flowerettes -- 1/2 cup
-Frozen Peas -- 1/4 th cup
-Potatoes (Peeled) -- 1/2 cup (Cut into cubes) (i used sweet potatoes, which are wonderful!) 
-Carrots -- 1/3 cup (Peeled and cut into strips OR shreaded)
-Beans -- 1/3 cup ( Cut into strips) * (I don't add these because I didn't know what to use. Just use extra peas) *
+
+- Cauliflower flowerettes -- 1/2 cup
+- Frozen Peas -- 1/4 th cup
+- Potatoes (Peeled) -- 1/2 cup (Cut into cubes) (i used sweet potatoes, which are wonderful!) 
+- Carrots -- 1/3 cup (Peeled and cut into strips OR shreaded)
+- Beans -- 1/3 cup ( Cut into strips) * (I don't add these because I didn't know what to use. Just use extra peas) *
 
 ##### Ingredients PART 3
-Turmeric Powder -- 1/2 tsp
-Cummin Powder -- 1/2 tsp
-Red Chilli Powder -- 1/2 tsp
-Garam masala --1/2 tsp  
-Tomato Puree -- 1/2 cup * (I don't use this because I don't like tomato)
-Curd (beaten) -- 1/2 cup (Using heavy/thick yogurt)
-Pineapple cubes -- 1/2 cup
-Cashewnuts and Almonds (Sliced) -- 1 tbsp each 
-Paneer -- 10 to 12 half inch cubes
-Milk -- as needed
-Oil -- as needed to fry paneer (i use corn oil)
+
+- Turmeric Powder -- 1/2 tsp
+- Cummin Powder -- 1/2 tsp
+- Red Chilli Powder -- 1/2 tsp
+- Garam masala --1/2 tsp  
+- Tomato Puree -- 1/2 cup * (I don't use this because I don't like tomato)
+- Curd (beaten) -- 1/2 cup (Using heavy/thick yogurt)
+- Pineapple cubes -- 1/2 cup
+- Cashewnuts and Almonds (Sliced) -- 1 tbsp each 
+- Paneer -- 10 to 12 half inch cubes
+- Milk -- as needed
+- Oil -- as needed to fry paneer (i use corn oil)
 
 #### Directions
+
 1. Grind ginger, garlic, cilantro and green chilli (add a little with water as needed)
 2. Deep fry paneer in oil until golden brown. This requires a lot of attention to keep cheese from melting.
 3. Take 2 tbsp of oil or ghee in a pan and add the ground paste. 
@@ -340,6 +344,7 @@ BLEND. DRINK.
 
 
 #### Ingredients
+
 - 1 large onion, chopped
 - 3 cloves garlic, minced
 - 1 small hot pepper, seeds removed and chopped
@@ -356,6 +361,7 @@ BLEND. DRINK.
 - Garnish: slivers of red bell pepper
 
 #### Instructions
+
 1. Heat a large non-stick or enamel-coated pot over medium-high heat. Add the onion, reduce the heat to medium, and cook, covered but stirring every minute or so, until it begins to brown, about 5 minutes (add a little water if it tends to stick). Add the garlic and hot pepper and cook for another minute.
 2. Add all remaining ingredients except the optional ones. Cover and cook until the potatoes are completely tender (they will mash if lightly pressed with a spoon), about 25-40 minutes.
 3. Remove half of the soup and put it into a blender* and puree at high speed until completely smooth. (Be careful–hot liquids can erupt from your blender; I always remove the center cup from the lid and cover the opening with a kitchen towel.) Once it’s blended, pour the soup into another pot. Add the remaining soup to the blender, along with any optional ingredients you choose to use, and blend well. Add to the other half of the soup, and simmer for about 5 minutes. Ladle into bowls, garnish with slices of red bell pepper, and serve.
